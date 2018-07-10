@@ -7,7 +7,7 @@ We lost the year of grow from a little girl to a woman. We miss teen-years. So, 
 ------------------------
 ### 0000, UCSF-Guidelines翻译  <br>
 ### 0001, 上学上学！  <br>
-#### 通用 <br>
+#### 通用General <br>
 ###### edu邮箱的应用 <br>
 #### 海外 <br>
 ##### 美国StudyInUS <br>
