@@ -1,0 +1,7 @@
+本文的用途不限于上学，上课，买买买（包括女装，安全套，指套等等），处理实验数据，给实验室老板打工。<br>
+
+1.	Dreamspark，微软的福利（增值服务看学校，比如免费的windows教育版之类的）还有Azure for student
+----------
+网址：https://imagine.microsoft.com/en-us/catalog <br>
+还有这个网址可以找自己学校买了哪些服务 <br>
+https://imagine.microsoft.com/en-us/catalog/webstore <br>
