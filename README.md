@@ -1,2 +1,21 @@
 # Transgender-lost-years
-We lost the year of grow from a little girl to a woman. We lost teen-years. So, we have to learn.
+We lost the year of grow from a little girl to a woman. We miss teen-years. So, we have to learn.
+我们失去了从小女孩长大的日子。我们错过了青春。所以，我们不得不从头学起。
+本项目将会从所有transition的分支入手，包括且不限于化妆护肤，UCSF的guidelines，紧急情况/特殊情况下的自行配药，等等。
+目录
+0000，UCSF-Guidelines翻译
+0001，
+0002，
+0003，
+0004，
+0005，
+0006，
+0007，
+0008，
+0009，
+0010，
+0011，
+0012，
+0013，
+0014，
+0015，
