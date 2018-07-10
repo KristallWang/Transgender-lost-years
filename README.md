@@ -7,9 +7,12 @@ We lost the year of grow from a little girl to a woman. We miss teen-years. So, 
 ------------------------
 ### 0000, UCSF-Guidelines翻译  <br>
 ### 0001, 上学上学！  <br>
-#### edu邮箱的应用 <br>
-#### 可以报销HRT/SRS的美国大学的清单 <br>
-#### 可以报销医药费的保险公司 <br>
+#### 通用 <br>
+###### edu邮箱的应用 <br>
+#### 海外 <br>
+##### 美国 <br>
+###### 可以报销HRT/SRS的美国大学的清单 <br>
+###### 可以报销医药费的保险公司 <br>
 ### 0002, <br>
 ### 0003, <br>
 ### 0004, <br>
