@@ -52,7 +52,9 @@ https://www.office.com/
 ## 6.	微软教育商城，硬件软件都有 
 https://www.microsoft.com/en-us/education/default.aspx
 
-## 7.	Amazon，使用edu邮箱可获得半年Prime，介绍见这里http://jingyan.baidu.com/article/ca41422fc6074b1eaf99ed76.html#!/article/ca41422fc6074b1eaf99ed76     （我先买个震动棒去…
+## 7.	Amazon，使用edu邮箱可获得半年Prime
+
+介绍见这里http://jingyan.baidu.com/article/ca41422fc6074b1eaf99ed76.html#!/article/ca41422fc6074b1eaf99ed76     （我先买个震动棒去…
 
 ## 8.	Apple学生价格购买产品
 https://www.apple.com/us-hed/shop/back-to-school
