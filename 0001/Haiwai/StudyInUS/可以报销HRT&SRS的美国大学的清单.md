@@ -103,7 +103,7 @@ Widener University  <br>  <br>
 
 作者：SlickLion, TRANZGENDR  <br>
 
-翻译：Kristall.Wang  <br>
+翻译：Kristall Wang  <br>
 
 编辑：华星149  <br>
 
