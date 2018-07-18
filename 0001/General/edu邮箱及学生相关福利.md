@@ -24,29 +24,31 @@ Follow the directions below to download from the Wolfram User Portal: <br> <br>
 
 1.	Create an account (New users only): <br> <br>
 
-o	Go to http://user.wolfram.com and click "Create Account" <br> <br>
+		Go to http://user.wolfram.com and click "Create Account" <br> <br>
 
-o	Fill out form using a .edu email, and click "Create Wolfram ID" <br> <br>
+		Fill out form using a .edu email, and click "Create Wolfram ID" <br> <br>
+	
+		Check your email and click the link to validate your Wolfram ID <br> <br>
 
-o	Check your email and click the link to validate your Wolfram ID <br> <br>
+	.	Request the download and key: <br> <br>
 
-2.	Request the download and key: <br> <br>
-
-o	Wolfram User Portal to request an Activation Key <br> <br>
-
-o	Click the "Product Summary page" link to access your license <br> <br>
-
-o	Click "Get Downloads" and select "Download" next to your platform <br> <br>
-
-o	Run the installer on your machine, and enter Activation Key at prompt <br> <br>
+		Wolfram User Portal to request an Activation Key <br> <br>
+	
+		Click the "Product Summary page" link to access your license <br> <br>
+	
+		Click "Get Downloads" and select "Download" next to your platform <br> <br>
+	
+		Run the installer on your machine, and enter Activation Key at prompt <br> <br>
 
 Are you interested in putting Mathematica elsewhere? Please let IT or mailto:adorsett@wolfram.com know. <br> <br>
 
 ## 4.	ChemOffice，把邮箱输进去就成
+
 http://sitelicense.cambridgesoft.com/sitelicense.cfm?sid=1861
 ![ChemOffice](https://pic4.zhimg.com/80/v2-adc597a38f41f56451665f3d66f05653_hd.png)
 
 ## 5.	Office365，拿学校邮箱直接登录，然后你就能拿到下载链接，下载完安装填账号的时候记得也把edu邮箱填进去（增值服务，不是每个学校都有），还有记得卸载之前所有版本的office
+
 https://www.office.com/
 
 ## 6.	微软教育商城，硬件软件都有 
@@ -59,14 +61,25 @@ https://www.microsoft.com/en-us/education/default.aspx
 ## 8.	Apple学生价格购买产品
 https://www.apple.com/us-hed/shop/back-to-school
 
+同时，每年暑假往往会有买MacBook或iPad Pro送Beats耳机的活动，尽管很多人对于Beats耳机的调教颇有微词，但是并不妨碍转手挂闲鱼出个接近一千多块RMB，可以适当关注。
+
 ## 9.	Microsoft office学生价 （1图片里面找不到的同学可能需要）
+
 https://www.microsoft.com/en-us/p/office-home-student-2016-for-pc/cfq7ttc0k5fc?activetab=pivot%3Aoverviewtab
 
 ## 9.5	Coinbase曾经拿edu邮箱注册可以获得10美元的比特币
 
 ## 10.	Prezi 给30天试用（有点短）
 
+## 11. Github有学生大礼包，可以优惠价购买很多东西，其中有Digital Ocean的50元代金券（国内党翻墙，还有搭个博客啥的），还有AWS的优惠。
 
+https://education.github.com/pack
+
+## 12. 阿里云和腾讯云的学生优惠主机
+
+阿里云9.5元每月：https://promotion.aliyun.com/ntms/campus2017.html
+
+腾讯云10元每月：https://cloud.tencent.com/act/campus（曾经我用的腾讯云1元每月好像没有了）
 
 
 

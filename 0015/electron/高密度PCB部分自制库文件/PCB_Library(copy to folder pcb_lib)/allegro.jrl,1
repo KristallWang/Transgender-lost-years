@@ -1,0 +1,29 @@
+\t (00:00:00) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:00)     Journal start - Mon Jan 08 22:59:32 2018
+\t (00:00:00)         Host=DESKTOP-K0R56L3 User=harry Pid=7940 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:01) Starting new design...
+\i (00:00:02) trapsize 641
+\i (00:00:02) trapsize 629
+\i (00:00:02) trapsize 643
+\i (00:00:03) trapsize 648
+\i (00:00:03) trapsize 572
+\i (00:00:04) trapsize 1059
+\i (00:00:06) generaledit 
+\i (00:00:29) new 
+\i (00:00:30) newdrawfillin "menu_cancel"
+\i (00:00:30) generaledit 
+\i (00:00:31) new 
+\i (00:00:33) newdrawfillin "menu_cancel"
+\i (00:00:33) generaledit 
+\i (00:00:33) open 
+\i (00:00:52) fillin "C:\Users\harry\Dropbox\AmpliPHY co. intern\常用封装\rosa\ROSA.dra"
+\i (00:00:52) cd "C:\Users\harry\Dropbox\AmpliPHY co. intern\常用封装\rosa"
+\t (00:00:52) Opening existing design...
+\i (00:00:55) fillin yes 
+\i (00:00:55) trapsize 888
+\i (00:00:56) trapsize 865
+\i (00:00:56) trapsize 881
+\i (00:00:57) trapsize 990
+\t (00:00:58)     Journal end - Mon Jan 08 23:00:29 2018

@@ -21,13 +21,20 @@ We lost the year of grow from a little girl to a woman. We miss teen-years. So, 
 
 ### 0002, 及时就医！<br>
 
-#### 国内医疗资源 <br>
+#### Medical Knowledge
 
-###### 目前可以诊断并且给出异性症证明的医生及医院 <br>
+###### 教你看懂激素六项报告单 <br>
 
-### 0003, 健康最重要！教你看懂激素六项报告单。<br>
+#### Medical Resources<br>
 
-#### 教你简单看懂报告单。
+##### In China
+
+###### 目前可以诊断并且给出异性症证明的医生及医院列表 <br>
+
+###### 目前国内可以开具HRT处方的医生及医院列表<br>
+
+### 0003, <br>
+
 ### 0004, <br>
 ### 0005, <br>
 ### 0006, <br>
