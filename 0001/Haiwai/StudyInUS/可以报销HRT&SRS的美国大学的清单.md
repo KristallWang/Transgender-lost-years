@@ -86,6 +86,7 @@ Lewis and Clark College  <br>
 Massachusetts Institute of Technology   <br>
 Princeton University  <br>
 State University of New York, College at Oneonta  <br>
+State University of New York, Binghamton University <br>
 Suffolk University   <br>
 Tulane University  <br>
 University at Buffalo  <br>
@@ -102,7 +103,7 @@ Widener University  <br>  <br>
 
 作者：SlickLion, TRANZGENDR  <br>
 
-翻译：Kristall.Wang  <br>
+翻译：Kristall Wang  <br>
 
 编辑：华星149  <br>
 
