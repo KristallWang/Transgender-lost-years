@@ -1,0 +1,19 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Jan 22 16:05:47 2018
+\t (00:00:00)         Host=HX-114 User=Administrator Pid=2824 CPUs=4
+\t (00:00:00) CmdLine= d:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe \\HX-SERVER\share\PCB Design Files\PCB_Symbol_Package\Harry_Li\PCB_Library(copy to folder pcb_lib)\sfpjbot.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\i (00:00:01) fillin yes 
+\d (00:00:01) Design opened: //HX-SERVER/share/PCB Design Files/PCB_Symbol_Package/Harry_Li/PCB_Library(copy to folder pcb_lib)/sfpjbot.dra
+\i (00:00:01) trapsize 134
+\i (00:00:02) trapsize 137
+\i (00:00:02) trapsize 137
+   (00:00:02) Loading cmds.cxt 
+\i (00:00:02) generaledit 
+\i (00:00:03) zoom fit 
+\t (00:00:03) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:00:03) trapsize 535
+\i (00:00:04) exit 
+\t (00:00:04)     Journal end - Mon Jan 22 16:05:52 2018

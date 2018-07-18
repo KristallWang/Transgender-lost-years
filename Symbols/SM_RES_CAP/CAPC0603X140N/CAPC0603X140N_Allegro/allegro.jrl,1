@@ -1,0 +1,47 @@
+\t (00:00:00) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:00)     Journal start - Thu Jan 11 13:34:23 2018
+\t (00:00:00)         Host=DESKTOP-K0R56L3 User=harry Pid=864 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe C:\Users\harry\Dropbox\AmpliPHY co. intern\capture\3G-SDI\SM_RES_CAP\CAPC0603X140N\CAPC0603X140N_Allegro\CAPC0603X140N.dra
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/Users/harry/Dropbox/AmpliPHY co. intern/capture/3G-SDI/SM_RES_CAP/CAPC0603X140N/CAPC0603X140N_Allegro/CAPC0603X140N.dra
+\i (00:00:03) trapsize 211
+\i (00:00:03) trapsize 207
+\i (00:00:03) trapsize 212
+\i (00:00:04) trapsize 212
+\i (00:00:05) generaledit 
+\i (00:00:08) pick grid 0.6492 0.3451
+\t (00:00:08) last pick:  0.0000 0.0000
+\i (00:00:09) drag_start grid 1.0853 -0.5737
+\i (00:00:09) drag_stop -0.8878 0.7008
+\i (00:00:11) setwindow form.find
+\i (00:00:11) FORM find all_on  
+\i (00:00:12) setwindow pcb
+\i (00:00:12) pick grid 0.5899 -0.2773
+\t (00:00:12) last pick:  0.0000 0.0000
+\i (00:00:13) pick grid 1.1785 -0.9294
+\t (00:00:13) last pick:  0.0000 0.0000
+\i (00:00:14) pick grid 0.5730 -0.4171
+\t (00:00:14) last pick:  0.0000 0.0000
+\t (00:00:15) last pick:  3.2659 0.3451
+\w (00:00:15) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:00:17) pick grid 2.1608 -0.8828
+\t (00:00:17) last pick:  2.5400 0.0000
+\i (00:00:19) setwindow form.find
+\i (00:00:19) FORM find all_off  
+\i (00:00:22) FORM find shapes YES 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) pick grid 0.4968 -0.3408
+\t (00:00:23) last pick:  0.0000 0.0000
+\i (00:00:23) drag_start grid 0.8779 -0.7939
+\i (00:00:24) drag_stop -0.6083 0.1461
+\i (00:00:25) pick grid 1.1785 -0.7939
+\t (00:00:25) last pick:  0.0000 0.0000
+\i (00:00:25) drag_start grid 0.8609 -0.6288
+\i (00:00:26) drag_stop 0.4671 -0.2943
+\i (00:00:35) pick grid 2.5715 0.3112
+\t (00:00:35) last pick:  2.5400 0.0000
+\i (00:00:42) exit 
+\e (00:00:42) Do you want to save the changes you made to CAPC0603X140N.dra?
+\i (00:00:44) fillin no 
+\t (00:00:44)     Journal end - Thu Jan 11 13:35:07 2018

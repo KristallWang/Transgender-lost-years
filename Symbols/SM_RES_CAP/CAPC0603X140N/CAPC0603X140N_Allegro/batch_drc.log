@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRC Update                                                       )
+(                                                                     )
+(    Drawing          : CAPC0603X140N.dra                             )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Jan 10 19:55:29 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ========= check shapes                       0:00:00
+ ========= check standalone pins              0:00:00
+ ========= check symbols (pins,lines,text)    0:00:00
+ ========= check xnets                        0:00:00
+ ========= check nets                         0:00:00
+ ========= check standalone branches          0:00:00
+ ========= check standalone filled rectangles 0:00:00
+ ========= check standalone lines             0:00:00
+ ========= check standalone text              0:00:00
+ ========= check standalone rectangles        0:00:00
+
+ ..... Total number of DRC errors  0
+
+ ..... DRC update completed, total CPU time   0:00:00
+ *************************************************************************
+

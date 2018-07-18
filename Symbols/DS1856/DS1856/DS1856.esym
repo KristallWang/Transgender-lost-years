@@ -1,0 +1,2163 @@
+<Part 
+ name="DS1856"
+ aliasName=""
+ Library="C:\Users\harry\Dropbox\AmpliPHY co. intern\capture\3G-SDI\DS1856"
+ LP_Library=""
+ LP_Name=""
+ pdfFilePath="C:\Users\harry\Dropbox\AmpliPHY co. intern\sdi-datasheet\do_not_use\DS1856.pdf"
+ styleName="OrCAD_Capture"
+ pptName=""
+>
+
+<View 
+ name="symbols"
+ aliasName=""
+ assignedName=""
+ partType="0"
+ viewType="1"
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ rotation="0"
+ origin="(0:0)"
+ width="0"
+ height="0"
+>
+
+<View 
+ name="1"
+ aliasName="DS1856"
+ assignedName=""
+ partType="0"
+ viewType="1"
+ bBox="((-300:-1800)(1300:0))"
+ cBox="((0:-1800)(1000:0))"
+ rotation="0"
+ origin="(0:0)"
+ width="1000"
+ height="1800"
+>
+
+<Rectangle 
+ bBox="((0:-1800)(1000:0))"
+ color="3"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+</Rectangle>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="0"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="IN1"
+ aliasName=""
+ annotatedName=""
+ pinText="IN1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="A1"
+ pinNumberSwaps=""
+ hotSpot="(-300:-800)"
+ origin="(0:-800)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="8"
+ sequence="1"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-800)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-800)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="IN1"
+ aliasLabel=""
+ bBox="((0:-826)(109:-774))"
+ origin="(0:-800)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="A1"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-775)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="1"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="SCL"
+ aliasName=""
+ annotatedName=""
+ pinText="SCL"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="A2"
+ pinNumberSwaps=""
+ hotSpot="(-300:-400)"
+ origin="(0:-400)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="4"
+ sequence="2"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-400)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-400)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="SCL"
+ aliasLabel=""
+ bBox="((0:-426)(109:-374))"
+ origin="(0:-400)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="A2"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-375)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="2"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VCC"
+ aliasName=""
+ annotatedName=""
+ pinText="VCC"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="A3"
+ pinNumberSwaps=""
+ hotSpot="(1300:-200)"
+ origin="(1000:-200)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="4"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="2"
+ sequence="3"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1000:-200)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1300:-200)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="VCC"
+ aliasLabel=""
+ bBox="((891:-226)(1000:-174))"
+ origin="(1000:-200)"
+ justify="5"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="A3"
+ bBox="((0:0)(0:0))"
+ origin="(1060:-175)"
+ justify="0"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="3"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="H1"
+ aliasName=""
+ annotatedName=""
+ pinText="H1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="A4"
+ pinNumberSwaps=""
+ hotSpot="(1300:-400)"
+ origin="(1000:-400)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="4"
+ sequence="4"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1000:-400)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1300:-400)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="H1"
+ aliasLabel=""
+ bBox="((928:-426)(1000:-374))"
+ origin="(1000:-400)"
+ justify="5"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="A4"
+ bBox="((0:0)(0:0))"
+ origin="(1060:-375)"
+ justify="0"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="4"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="OUT2"
+ aliasName=""
+ annotatedName=""
+ pinText="OUT2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="B1"
+ pinNumberSwaps=""
+ hotSpot="(-300:-1000)"
+ origin="(0:-1000)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="3"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="10"
+ sequence="5"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-1000)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-1000)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="OUT2"
+ aliasLabel=""
+ bBox="((0:-1026)(145:-974))"
+ origin="(0:-1000)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="B1"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-975)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="5"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="SDA"
+ aliasName=""
+ annotatedName=""
+ pinText="SDA"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="B2"
+ pinNumberSwaps=""
+ hotSpot="(-300:-200)"
+ origin="(0:-200)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="2"
+ sequence="6"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-200)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-200)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="SDA"
+ aliasLabel=""
+ bBox="((0:-226)(109:-174))"
+ origin="(0:-200)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="B2"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-175)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="6"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="H0"
+ aliasName=""
+ annotatedName=""
+ pinText="H0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="B3"
+ pinNumberSwaps=""
+ hotSpot="(1300:-800)"
+ origin="(1000:-800)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="8"
+ sequence="7"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1000:-800)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1300:-800)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="H0"
+ aliasLabel=""
+ bBox="((928:-826)(1000:-774))"
+ origin="(1000:-800)"
+ justify="5"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="B3"
+ bBox="((0:0)(0:0))"
+ origin="(1060:-775)"
+ justify="0"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="7"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="L1"
+ aliasName=""
+ annotatedName=""
+ pinText="L1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="B4"
+ pinNumberSwaps=""
+ hotSpot="(1300:-600)"
+ origin="(1000:-600)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="6"
+ sequence="8"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1000:-600)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1300:-600)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="L1"
+ aliasLabel=""
+ bBox="((928:-626)(1000:-574))"
+ origin="(1000:-600)"
+ justify="5"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="B4"
+ bBox="((0:0)(0:0))"
+ origin="(1060:-575)"
+ justify="0"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="8"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="N.C."
+ aliasName=""
+ annotatedName=""
+ pinText="N.C."
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="C1"
+ pinNumberSwaps=""
+ hotSpot="(-300:-1400)"
+ origin="(0:-1400)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="10"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="14"
+ sequence="9"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-1400)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-1400)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="N.C."
+ aliasLabel=""
+ bBox="((0:-1426)(145:-1374))"
+ origin="(0:-1400)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="C1"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-1375)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="9"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="IN2"
+ aliasName=""
+ annotatedName=""
+ pinText="IN2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="C2"
+ pinNumberSwaps=""
+ hotSpot="(-300:-1200)"
+ origin="(0:-1200)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="1"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="12"
+ sequence="10"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-1200)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-1200)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="IN2"
+ aliasLabel=""
+ bBox="((0:-1226)(109:-1174))"
+ origin="(0:-1200)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="C2"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-1175)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="10"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="OUT1"
+ aliasName=""
+ annotatedName=""
+ pinText="OUT1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="C3"
+ pinNumberSwaps=""
+ hotSpot="(-300:-600)"
+ origin="(0:-600)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="3"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="6"
+ sequence="11"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-600)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-600)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="OUT1"
+ aliasLabel=""
+ bBox="((0:-626)(145:-574))"
+ origin="(0:-600)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="C3"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-575)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="11"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="MON3"
+ aliasName=""
+ annotatedName=""
+ pinText="MON3"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="C4"
+ pinNumberSwaps=""
+ hotSpot="(1300:-1200)"
+ origin="(1000:-1200)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="12"
+ sequence="12"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1000:-1200)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1300:-1200)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="MON3"
+ aliasLabel=""
+ bBox="((855:-1226)(1000:-1174))"
+ origin="(1000:-1200)"
+ justify="5"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="C4"
+ bBox="((0:0)(0:0))"
+ origin="(1060:-1175)"
+ justify="0"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="12"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="GND"
+ aliasName=""
+ annotatedName=""
+ pinText="GND"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="D1"
+ pinNumberSwaps=""
+ hotSpot="(-300:-1600)"
+ origin="(0:-1600)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="5"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="16"
+ sequence="13"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-1600)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-1600)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="GND"
+ aliasLabel=""
+ bBox="((0:-1626)(109:-1574))"
+ origin="(0:-1600)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="D1"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-1575)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="13"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="L0"
+ aliasName=""
+ annotatedName=""
+ pinText="L0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="D2"
+ pinNumberSwaps=""
+ hotSpot="(1300:-1000)"
+ origin="(1000:-1000)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="10"
+ sequence="14"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1000:-1000)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1300:-1000)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="L0"
+ aliasLabel=""
+ bBox="((928:-1026)(1000:-974))"
+ origin="(1000:-1000)"
+ justify="5"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="D2"
+ bBox="((0:0)(0:0))"
+ origin="(1060:-975)"
+ justify="0"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="15"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="MON2"
+ aliasName=""
+ annotatedName=""
+ pinText="MON2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="D4"
+ pinNumberSwaps=""
+ hotSpot="(1300:-1400)"
+ origin="(1000:-1400)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="14"
+ sequence="16"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1000:-1400)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1300:-1400)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="MON2"
+ aliasLabel=""
+ bBox="((855:-1426)(1000:-1374))"
+ origin="(1000:-1400)"
+ justify="5"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="D4"
+ bBox="((0:0)(0:0))"
+ origin="(1060:-1375)"
+ justify="0"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="14"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="MON1"
+ aliasName=""
+ annotatedName=""
+ pinText="MON1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="D3"
+ pinNumberSwaps=""
+ hotSpot="(1300:-1600)"
+ origin="(1000:-1600)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="1"
+ position="16"
+ sequence="15"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1000:-1600)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(1300:-1600)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="MON1"
+ aliasLabel=""
+ bBox="((855:-1626)(1000:-1574))"
+ origin="(1000:-1600)"
+ justify="5"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="D3"
+ bBox="((0:0)(0:0))"
+ origin="(1060:-1575)"
+ justify="0"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="DS1856"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1925)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2025)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2150)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="DS1856"
+ bBox="((0:0)(0:0))"
+ origin="(600:-1800)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</View>
+
+</View>
+
+<Constraints 
+ name="OrCAD_Capture"
+>
+
+<Constraint 
+ name="1"
+ assignedName=""
+ width="1000"
+ height="1800"
+>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="DS1856"
+ bBox="((0:0)(0:0))"
+ origin="(0:-1925)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2025)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2150)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="DS1856"
+ bBox="((0:0)(0:0))"
+ origin="(600:-1800)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Constraint>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="DS1856"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="myValue"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Constraints>
+
+</Part>
+

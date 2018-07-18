@@ -1,0 +1,49 @@
+\t (00:01:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:01:00)     Journal start - Tue Jan 09 18:33:08 2018
+\t (00:01:00)         Host=DESKTOP-K0R56L3 User=harry Pid=4580 CPUs=4
+\t (00:01:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe
+\t (00:01:00) 
+\i (00:01:03) FORM padedit layers  
+\i (00:01:04) FORM padedit parameters  
+\i (00:01:41) FORM padedit layers  
+\i (00:01:44) FORM padedit grid row default_internal 
+\i (01:23:40) FORM padedit grid row begin_layer 
+\i (01:23:42) FORM padedit grid row default_internal 
+\i (01:23:43) FORM padedit grid row begin_layer 
+\i (01:24:30) FORM padedit single YES 
+\i (01:24:32) FORM padedit grid row begin_layer 
+\i (01:24:37) FORM padedit grid row soldermask_top 
+\i (01:24:38) FORM padedit grid row begin_layer 
+\i (01:24:43) FORM padedit grid row soldermask_top 
+\i (01:24:44) FORM padedit grid row begin_layer 
+\i (03:57:33) FORM padedit shapebutton  
+\i (03:57:39) fillin "menu_cancel"
+\i (03:57:46) FORM padedit geometry Square 
+\i (03:57:47) FORM padedit shapebutton  
+\i (03:57:53) fillin "menu_cancel"
+\i (03:58:13) FORM padedit width 0.3 
+\i (03:58:19) FORM padedit height 0.35 
+\w (03:58:19) User units conversion failed.
+\i (03:58:24) FORM padedit parameters  
+\i (03:58:26) FORM padedit layers  
+\i (03:58:29) FORM padedit parameters  
+\i (03:58:33) FORM padedit layers  
+\i (03:58:34) FORM padedit parameters  
+\i (03:58:37) FORM padedit units Millimeter 
+\i (03:58:39) fillin yes 
+\w (03:58:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:58:40) FORM padedit layers  
+\i (03:58:47) FORM padedit width 0.30 
+\i (03:58:49) FORM padedit height 0.35 
+\i (03:58:56) FORM padedit geometry Rectangle 
+\i (03:59:00) FORM padedit width 0.30 
+\i (03:59:04) FORM padedit crossbox YES 
+\i (03:59:15) FORM padedit grid row soldermask_top 
+\i (03:59:20) FORM padedit single NO 
+\i (03:59:21) FORM padedit grid row default_internal 
+\i (03:59:22) FORM padedit grid row end_layer 
+\i (03:59:24) FORM padedit grid row default_internal 
+\i (03:59:28) FORM padedit single YES 
+\i (04:00:29) FORM padedit parameters  
+\i (18:43:00) pse_exit
+\t (18:43:01)     Journal end - Wed Jan 10 13:15:09 2018

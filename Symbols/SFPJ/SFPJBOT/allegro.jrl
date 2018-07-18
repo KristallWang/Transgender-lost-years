@@ -1,0 +1,308 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Jan 22 12:54:38 2018
+\t (00:00:00)         Host=HX-114 User=Administrator Pid=1784 CPUs=4
+\t (00:00:00) CmdLine= d:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Users\Administrator\Desktop\3G-SDI\3G-SDI\Library\SFPJ\SFPJBOT\sfpjbot.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: C:/Users/Administrator/Desktop/3G-SDI/3G-SDI/Library/SFPJ/SFPJBOT/sfpjbot.dra
+\t (00:00:00) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:00:00) trapsize 523
+\i (00:00:00) trapsize 535
+\t (00:00:00) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:00:00) trapsize 535
+   (00:00:00) Loading cmds.cxt 
+\i (00:00:00) generaledit 
+\i (00:00:01) zoom out 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom out 5.9200 4.7513
+\t (00:00:01) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:01) trapsize 1071
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in 8.0724 5.4168
+\t (00:00:02) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:00:02) trapsize 535
+\i (00:00:04) roam x -96 
+\i (00:00:04) roam x -96
+\i (00:00:04) roam x -96 
+\i (00:00:04) roam x -96
+\i (00:00:04) roam x -96 
+\i (00:00:04) roam x -96
+\i (00:00:04) roam x -96 
+\i (00:00:04) roam x -96
+\i (00:00:04) roam x -96 
+\i (00:00:04) roam x -96
+\i (00:00:05) roam y 96 
+\i (00:00:05) roam y 96
+\i (00:00:06) roam y 96 
+\i (00:00:06) roam y 96
+\i (00:00:07) roam y -96 
+\i (00:00:07) roam y -96
+\i (00:00:08) roam y 96 
+\i (00:00:08) roam y 96
+\i (00:00:08) roam y -96 
+\i (00:00:08) roam y -96
+\i (00:00:16) pick grid 1.3262 7.5691
+\t (00:00:16) last pick:  1.3208 7.5692
+\i (00:00:17) pick grid 4.5065 7.1194
+\t (00:00:17) last pick:  4.4958 7.1120
+\i (00:00:17) prepopup 5.3739 7.5477
+\i (00:00:18) pick grid 11.4884 7.0123
+\t (00:00:18) last pick:  11.4808 7.0104
+\i (00:00:19) setwindow form.find
+\i (00:00:19) FORM find all_on  
+\i (00:00:20) setwindow pcb
+\i (00:00:20) pick grid 2.1935 7.4406
+\t (00:00:20) last pick:  2.1844 7.4422
+\i (00:00:20) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 3.6070 6.0379
+\t (00:00:21) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:21) trapsize 1071
+\i (00:00:22) zoom in 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom in 6.3377 3.1252
+\t (00:00:22) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:00:22) trapsize 535
+\i (00:00:23) roam x -96 
+\i (00:00:23) roam x -96
+\i (00:00:23) roam x -96 
+\i (00:00:23) roam x -96
+\i (00:00:23) roam x -96 
+\i (00:00:23) roam x -96
+\i (00:00:24) roam x -96 
+\i (00:00:24) roam x -96
+\i (00:00:27) prepopup 1.4118 7.6976
+\i (00:00:31) pop dyn_option_select 'Quick Utilities@:@Design Parameters...' 
+\i (00:00:31) prmed 
+\i (00:00:36) setwindow form.prmedit
+\i (00:00:36) FORM prmedit design  
+\i (00:00:38) FORM prmedit cancel  
+\i (00:00:38) setwindow pcb
+\i (00:00:38) generaledit 
+\i (00:00:39) prepopup 2.5683 7.6441
+\i (00:00:47) pop dyn_option_select '@:@Add connect' 
+\i (00:00:48) add connect 
+\t (00:00:48) Pick first element.
+\t (00:00:48) last pick:  1.5000 7.5000
+\i (00:00:48) prepopup 6.4768 6.4019
+\i (00:00:50) cancel 
+\i (00:00:50) generaledit 
+\i (00:00:51) pick grid 5.0740 5.5560
+\t (00:00:51) last pick:  5.0800 5.5626
+\i (00:00:56) pick grid 5.7272 5.7701
+\t (00:00:56) last pick:  5.7150 5.7658
+\i (00:00:58) pick grid 2.2256 7.3443
+\t (00:00:58) last pick:  2.2352 7.3406
+\i (00:00:59) zoom out 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom out 3.1787 6.2948
+\t (00:00:59) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:59) trapsize 1071
+\i (00:01:01) pick grid 7.0016 8.4151
+\t (00:01:01) last pick:  7.0104 8.4074
+\i (00:01:05) pick grid 1.0049 7.5370
+\t (00:01:05) last pick:  1.0160 7.5438
+\i (00:01:05) pick grid 8.2009 10.8352
+\t (00:01:05) last pick:  8.2042 10.8458
+\i (00:01:08) pick grid 13.0840 9.6359
+\t (00:01:08) last pick:  13.0810 9.6266
+\i (00:01:14) pick grid 2.2899 9.8714
+\t (00:01:14) last pick:  2.2860 9.8806
+\i (00:01:26) add pin 
+\t (00:01:26) Using 'RECTX3P0Y0P6_SFP.pad'.
+\i (00:01:27) prepopup 4.1532 8.8006
+\i (00:01:30) pick grid 4.1532 8.8006
+\t (00:01:30) last pick:  4.1656 8.7884
+\t (00:01:30) Using 'RECTX3P0Y0P6_SFP.pad'.
+\i (00:01:39) pick grid 4.1746 7.9439
+\t (00:01:39) last pick:  4.1656 7.9502
+\t (00:01:39) Using 'RECTX3P0Y0P6_SFP.pad'.
+\i (00:01:41) prepopup 7.5799 8.2866
+\i (00:01:43) oops 
+\t (00:01:43) last pick:  4.1656 8.7884
+\t (00:01:43) Using 'RECTX3P0Y0P6_SFP.pad'.
+\i (00:01:43) prepopup 8.2438 8.0296
+\i (00:01:44) oops 
+\t (00:01:44) Using 'RECTX3P0Y0P6_SFP.pad'.
+\i (00:01:46) prepopup 6.7874 8.5222
+\i (00:01:47) cancel 
+\t (00:01:47) Exiting from Add Pin.
+\i (00:01:48) generaledit 
+\i (00:01:55) save 
+\i (00:01:56) fillin yes 
+\t (00:01:56) Symbol 'sfpjbot.psm' created.
+\i (00:01:56) generaledit 
+\i (00:03:34) pick grid 2.2471 6.6589
+\t (00:03:34) last pick:  2.2352 6.6548
+\i (00:03:36) move 
+\t (00:03:36) last pick:  1.5000 6.7000
+\t (00:03:36) Pick new location for the element(s).
+\i (00:03:37) pick grid 8.3294 1.0906
+\t (00:03:37) last pick:  8.3312 1.0922
+\i (00:03:38) generaledit 
+\i (00:03:38) pick grid 1.7759 1.1120
+\t (00:03:38) last pick:  1.7780 1.1176
+\i (00:03:40) move 
+\t (00:03:40) last pick:  1.1000 1.1000
+\t (00:03:40) Pick new location for the element(s).
+\i (00:03:42) pick grid 1.1334 6.6804
+\t (00:03:42) last pick:  1.1430 6.6802
+\i (00:03:42) generaledit 
+\i (00:03:44) pick grid 8.0939 1.1334
+\t (00:03:44) last pick:  8.1026 1.1430
+\i (00:03:45) drag_start grid 8.2438 0.9621
+\i (00:03:46) drag_stop 6.0593 0.9193
+\i (00:03:47) copy 
+\t (00:03:47) No valid items selected for the current operation, exiting.
+\i (00:03:47) generaledit 
+\i (00:03:47) move 
+\t (00:03:48) last pick:  8.3312 1.0922
+\t (00:03:48) Pick new location for the element(s).
+\i (00:03:48) copy 
+\t (00:03:48) No valid items selected for the current operation, exiting.
+\i (00:03:48) generaledit 
+\i (00:03:49) prepopup 7.4085 3.5107
+\i (00:03:50) pick grid 9.1861 7.0873
+\t (00:03:50) last pick:  9.1948 7.0866
+\i (00:03:50) drag_start grid 11.0922 -0.1730
+\i (00:03:51) drag_stop 5.9308 3.5749
+\i (00:03:53) move 
+\t (00:03:53) last pick:  8.3312 1.0922
+\t (00:03:53) Pick new location for the element(s).
+\i (00:03:55) pick grid 1.4975 1.0906
+\t (00:03:55) last pick:  1.4986 1.0922
+\i (00:03:55) generaledit 
+\i (00:03:56) zoom fit 
+\t (00:03:56) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:03:56) trapsize 535
+\i (00:03:57) pick grid 6.6696 3.1343
+\t (00:03:57) last pick:  6.6802 3.1242
+\i (00:03:58) pick grid 1.1655 6.8501
+\t (00:03:58) last pick:  1.1684 6.8580
+\i (00:04:01) show measure 
+\i (00:04:02) pick grid 1.8402 7.5355
+\t (00:04:02) last pick:  1.8288 7.5438
+\i (00:04:03) pick grid 1.2298 5.8864
+\t (00:04:03) last pick:  1.2192 5.8928
+\i (00:04:16) pick grid 5.2026 6.6681
+\t (00:04:16) last pick:  5.2070 6.6802
+\i (00:04:17) prepopup 5.7915 6.6788
+\i (00:04:18) done 
+\i (00:04:18) generaledit 
+\i (00:04:20) prepopup 1.7866 6.7966
+\i (00:04:21) pop dyn_option_select @:@Move 
+\i (00:04:21) move 
+\t (00:04:21) last pick:  1.7780 6.8072
+\t (00:04:21) last pick:  1.1430 6.6802
+\t (00:04:21) Pick new location for the element(s).
+\e (00:04:24) Command not found: X 1.5
+\i (00:04:28) pick 1.5 
+\t (00:04:28) last pick:  1.5000 6.6802
+\i (00:04:29) generaledit 
+\i (00:04:33) move 
+\t (00:04:33) last pick:  1.5000 6.6802
+\t (00:04:33) Pick new location for the element(s).
+\i (00:04:35) pick 1.1 
+\t (00:04:35) last pick:  1.1000 6.6802
+\i (00:04:35) generaledit 
+\i (00:04:37) pick grid 7.9225 5.5758
+\t (00:04:37) last pick:  7.9248 5.5880
+\i (00:04:38) slide 
+\t (00:04:38) Pick element to slide.
+\i (00:04:38) pick grid 1.7010 6.5610
+\t (00:04:38) last pick:  1.7018 6.5532
+\t (00:04:38) Pick element to slide.
+\i (00:04:39) pick grid 1.6474 6.0791
+\t (00:04:39) last pick:  1.6510 6.0706
+\t (00:04:39) Pick element to slide.
+\i (00:04:40) show measure 
+\i (00:04:40) pick grid 1.2940 6.4646
+\t (00:04:40) last pick:  1.2954 6.4770
+\i (00:04:40) pick grid 1.2940 5.9506
+\t (00:04:40) last pick:  1.2954 5.9436
+\i (00:04:44) pick grid 1.5296 7.3963
+\t (00:04:44) last pick:  1.5240 7.3914
+\i (00:04:45) pick grid 1.5296 6.8073
+\t (00:04:45) last pick:  1.5240 6.8072
+\i (00:04:49) prepopup 3.4571 6.9679
+\i (00:04:51) done 
+\i (00:04:51) generaledit 
+\i (00:04:52) pick grid 1.4440 6.8287
+\t (00:04:52) last pick:  1.4478 6.8326
+\i (00:04:54) move 
+\t (00:04:54) last pick:  1.1000 6.6802
+\t (00:04:54) Pick new location for the element(s).
+\i (00:05:03) pick 1.1 6.8 
+\t (00:05:03) last pick:  1.1000 6.8000
+\i (00:05:03) generaledit 
+\i (00:05:06) move 
+\t (00:05:06) last pick:  1.1000 6.8000
+\t (00:05:06) Pick new location for the element(s).
+\i (00:05:09) ipick 0 -0.1 
+\t (00:05:09) last pick:  1.1000 6.7000
+\i (00:05:09) generaledit 
+\i (00:05:11) pick grid 4.3780 6.8501
+\t (00:05:11) last pick:  4.3688 6.8580
+\i (00:05:12) pick grid -0.3229 7.0429
+\t (00:05:12) last pick:  -0.3302 7.0358
+\i (00:05:12) prepopup -0.3229 7.0429
+\i (00:05:14) pop dyn_option_select '@:@Text edit' 
+\i (00:05:14) text edit 
+\i (00:05:17) setwindow form.textedit
+\i (00:05:17) FORM textedit str 2 
+\i (00:05:17) FORM textedit done  
+\i (00:05:17) setwindow pcb
+\i (00:05:17) pick 0.0000 0.0000
+\t (00:05:17) Pick text to edit.
+\i (00:05:17) setwindow pcb
+\i (00:05:17) generaledit 
+\i (00:05:17) pick grid 5.0955 4.6442
+\t (00:05:17) last pick:  5.1054 4.6482
+\i (00:05:18) pick grid 0.8657 1.8922
+\t (00:05:18) last pick:  0.8636 1.8796
+\i (00:05:20) pick grid 1.9151 1.2497
+\t (00:05:20) last pick:  1.9050 1.2446
+\i (00:05:21) prepopup 2.0222 1.2176
+\i (00:05:23) pop dyn_option_select @:@Move 
+\i (00:05:23) move 
+\t (00:05:23) last pick:  2.0320 1.2192
+\t (00:05:23) last pick:  1.4986 1.0922
+\t (00:05:23) Pick new location for the element(s).
+\i (00:05:37) pick 1.5 1.1 
+\t (00:05:37) last pick:  1.5000 1.1000
+\i (00:05:37) generaledit 
+\i (00:05:38) prepopup 6.2734 3.7447
+\i (00:05:39) pick grid 6.1556 4.2373
+\t (00:05:39) last pick:  6.1468 4.2418
+\i (00:05:41) pick grid -0.4407 1.3568
+\t (00:05:41) last pick:  -0.4318 1.3462
+\i (00:05:41) prepopup -0.4514 1.3568
+\i (00:05:42) pop dyn_option_select '@:@Text edit' 
+\i (00:05:42) text edit 
+\i (00:05:45) setwindow form.textedit
+\i (00:05:45) FORM textedit str 9 
+\i (00:05:45) FORM textedit done  
+\i (00:05:45) setwindow pcb
+\i (00:05:45) pick 0.0000 0.0000
+\t (00:05:45) Pick text to edit.
+\i (00:05:45) setwindow pcb
+\i (00:05:45) generaledit 
+\i (00:05:46) save 
+\i (00:05:48) fillin yes 
+\t (00:05:48) Symbol 'sfpjbot.psm' created.
+\i (00:05:48) generaledit 
+\i (00:05:50) create symbol 
+\i (00:05:54) fillin "sfpjbot.psm"
+\t (00:05:54) Creating package symbol 'C:/Users/Administrator/Desktop/3G-SDI/3G-SDI/Library/SFPJ/SFPJBOT/sfpjbot.psm'.
+\t (00:05:54) Starting Create symbol...
+\i (00:05:54) generaledit 
+\i (00:05:55) pick grid 7.3657 4.9226
+\t (00:05:55) last pick:  7.3660 4.9276
+\i (00:05:57) save 
+\i (00:05:59) fillin yes 
+\t (00:05:59) Symbol 'sfpjbot.psm' created.
+\i (00:06:00) generaledit 
+\i (00:06:00) exit 
+\t (00:06:00)     Journal end - Mon Jan 22 13:00:38 2018

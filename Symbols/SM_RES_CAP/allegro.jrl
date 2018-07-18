@@ -1,0 +1,139 @@
+\t (00:01:31) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:01:31)     Journal start - Mon Jan 08 19:16:32 2018
+\t (00:01:31)         Host=DESKTOP-K0R56L3 User=harry Pid=6216 CPUs=4
+\t (00:01:31) CmdLine= C:\Cadence\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:01:31) 
+\t (00:01:31) Starting new design...
+\i (00:01:31) trapsize 1223
+\i (00:01:32) trapsize 1223
+\i (00:01:32) package symbol wizard 
+\i (00:01:33) generaledit 
+   (00:01:37) Loading cmds.cxt 
+   (00:01:37) Loading axlcore.cxt 
+\i (00:01:37) setwindow form.sym_wizard
+\i (00:01:37) FORM sym_wizard zip YES 
+\i (00:01:38) FORM sym_wizard sip YES 
+\i (00:01:39) FORM sym_wizard rca_smd YES 
+\i (00:01:40) FORM sym_wizard rca_th YES 
+\i (00:01:40) FORM sym_wizard rca_smd YES 
+\i (00:01:47) FORM sym_wizard dip YES 
+\i (00:01:48) FORM sym_wizard soic YES 
+\i (00:01:49) FORM sym_wizard plcc YES 
+\i (00:01:49) FORM sym_wizard bga YES 
+\i (00:01:50) FORM sym_wizard rca_th YES 
+\i (00:01:50) FORM sym_wizard rca_smd YES 
+\i (00:01:52) FORM sym_wizard wiz_next  
+\i (00:01:58) FORM sym_wizard load_template  
+\t (00:01:58) Opening existing design...
+\i (00:02:00) fillin yes 
+\t (00:02:00) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:02:00) setwindow pcb
+\i (00:02:00) trapsize 212
+\d (00:02:00) Design opened: C:/Cadence/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:02:05) setwindow form.sym_wizard
+\i (00:02:05) FORM sym_wizard wiz_next  
+\i (00:02:11) FORM sym_wizard pack_precision 2 
+\i (00:02:15) FORM sym_wizard pack_precision_create 1 
+\i (00:02:16) FORM sym_wizard ref_des R* 
+\i (00:02:18) FORM sym_wizard wiz_back  
+\i (00:02:25) FORM sym_wizard wiz_next  
+\i (00:02:28) FORM sym_wizard wiz_next  
+\i (00:02:33) FORM sym_wizard wiz_back  
+\i (00:02:39) FORM sym_wizard wiz_next  
+\i (00:02:44) FORM sym_wizard wiz_back  
+\i (00:02:53) FORM sym_wizard wiz_next  
+\i (00:03:05) FORM sym_wizard wiz_back  
+\i (00:04:55) FORM sym_wizard pack_units Millimeter 
+\i (00:05:04) FORM sym_wizard pack_precision 1 
+\i (00:05:06) FORM sym_wizard pack_precision_create 0 
+\i (00:05:07) FORM sym_wizard pack_units_create Millimeter 
+\i (00:05:19) FORM sym_wizard pack_units Micron 
+\i (00:05:30) FORM sym_wizard pack_precision 2 
+\i (00:05:36) FORM sym_wizard pack_units Mils 
+\i (00:05:37) FORM sym_wizard pack_units_create Mils 
+\i (00:05:42) FORM sym_wizard pack_precision 2 
+\i (00:05:44) FORM sym_wizard pack_precision_create 1 
+\i (00:05:45) FORM sym_wizard wiz_next  
+\i (00:05:58) FORM sym_wizard smd_discrete_e1 2.00 
+\i (00:06:00) FORM sym_wizard smd_discrete_width 1.00 
+\i (00:06:04) FORM sym_wizard smd_discrete_len 1.00 
+\i (00:06:13) FORM sym_wizard wiz_back  
+\i (00:06:16) FORM sym_wizard pack_units Millimeter 
+\i (00:06:20) FORM sym_wizard pack_units Mils 
+\i (00:06:22) FORM sym_wizard pack_precision 2 
+\i (00:06:22) FORM sym_wizard wiz_next  
+\i (00:06:34) FORM sym_wizard smd_discrete_width 2.00 
+\i (00:24:03) FORM sym_wizard smd_discrete_e1 12.00 
+\i (00:24:08) FORM sym_wizard smd_discrete_e1 14.00 
+\i (00:24:12) FORM sym_wizard smd_discrete_e1 24.00 
+\i (00:24:16) FORM sym_wizard smd_discrete_width 20.00 
+\i (00:24:19) FORM sym_wizard smd_discrete_len 12.00 
+\i (00:24:30) FORM sym_wizard smd_discrete_e1 22.00 
+\i (00:24:30) FORM sym_wizard wiz_next  
+\i (00:24:31) FORM sym_wizard wiz_back  
+\i (00:24:34) FORM sym_wizard wiz_next  
+\i (00:24:48) FORM sym_wizard wiz_next  
+\i (00:24:49) fillin confirm
+\i (00:24:50) FORM sym_wizard default_pad_browse  
+\i (00:25:36) fillin "menu_cancel"
+\i (00:26:15) FORM sym_wizard wiz_back  
+\i (00:26:15) FORM sym_wizard wiz_back  
+\i (00:26:16) FORM sym_wizard wiz_back  
+\i (00:26:16) FORM sym_wizard wiz_back  
+\i (00:26:17) FORM sym_wizard wiz_back  
+\i (00:26:19) FORM sym_wizard wiz_next  
+\i (00:26:22) FORM sym_wizard load_template  
+\i (00:26:23) fillin yes 
+\t (00:26:23) Opening existing design...
+\i (00:26:24) fillin yes 
+\t (00:26:25) Grids are drawn 800, 800 apart for enhanced viewability.
+\t (00:26:25) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:26:25) setwindow pcb
+\i (00:26:25) trapsize 212
+\d (00:26:25) Design opened: C:/Cadence/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:26:26) setwindow form.sym_wizard
+\i (00:26:26) FORM sym_wizard wiz_next  
+\i (00:26:35) FORM sym_wizard wiz_next  
+\i (00:26:39) FORM sym_wizard wiz_back  
+\i (00:26:41) FORM sym_wizard pack_units Millimeter 
+\i (00:26:42) FORM sym_wizard pack_units_create Millimeter 
+\i (00:26:44) FORM sym_wizard wiz_next  
+\i (00:26:54) FORM sym_wizard smd_discrete_e1 0.610 
+\i (00:27:50) FORM sym_wizard wiz_back  
+\e (00:28:03) Range is 1 to 4.
+\e (00:28:04) Range is 1 to 4.
+\i (00:28:06) FORM sym_wizard wiz_back  
+\i (00:28:07) FORM sym_wizard wiz_next  
+\i (00:28:10) FORM sym_wizard pack_precision 1 
+\i (00:28:12) FORM sym_wizard pack_precision_create 1 
+\i (00:28:13) FORM sym_wizard pack_units_create Micron 
+\i (00:28:16) FORM sym_wizard pack_units Micron 
+\i (00:28:25) FORM sym_wizard pack_units Millimeter 
+\i (00:28:28) FORM sym_wizard pack_units Micron 
+\e (00:28:34) Range is 0 to 2.
+\i (00:28:37) FORM sym_wizard wiz_next  
+\i (00:28:37) FORM sym_wizard wiz_back  
+\i (00:28:39) FORM sym_wizard wiz_next  
+\i (00:28:46) FORM sym_wizard smd_discrete_e1 610 
+\i (00:30:27) FORM sym_wizard smd_discrete_len 400 
+\i (00:30:44) FORM sym_wizard smd_discrete_e1 500 
+\i (00:30:49) FORM sym_wizard smd_discrete_len 300 
+\i (00:30:51) FORM sym_wizard smd_discrete_width 400 
+\i (00:30:52) FORM sym_wizard wiz_next  
+\i (00:31:02) FORM sym_wizard default_pad_browse  
+\i (00:34:13) fillin "menu_cancel"
+\i (00:34:15) FORM sym_wizard cancel  
+\t (00:34:15) Starting new design...
+\i (00:34:15) setwindow pcb
+\i (00:34:15) trapsize 119
+\i (00:34:16) trapsize 117
+\i (00:34:18) trapsize 119
+\i (00:34:18) trapsize 120
+\t (00:34:19) Grids are drawn 800, 800 apart for enhanced viewability.
+\i (00:34:19) trapsize 212
+\i (00:34:19) trapsize 212
+\i (00:34:21) generaledit 
+\i (00:47:02) exit 
+\e (00:47:02) Do you want to save the changes you made to RES_0201?
+\i (00:47:05) fillin no 
+\t (00:47:06)     Journal end - Mon Jan 08 20:02:08 2018

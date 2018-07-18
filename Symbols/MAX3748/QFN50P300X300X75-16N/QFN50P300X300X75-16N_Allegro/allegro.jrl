@@ -1,0 +1,23 @@
+\t (00:00:00) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:00)     Journal start - Fri Jan 12 15:03:40 2018
+\t (00:00:00)         Host=DESKTOP-K0R56L3 User=harry Pid=7128 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: C:/Users/harry/Dropbox/AmpliPHY co. intern/capture/3G-SDI/MAX3748/QFN50P300X300X75-16N/QFN50P300X300X75-16N_Allegro/QFN50P300X300X75-16N.dra
+\i (00:00:01) trapsize 345
+\i (00:00:01) trapsize 339
+\i (00:00:01) trapsize 346
+\i (00:00:02) trapsize 346
+\i (00:00:04) generaledit 
+\i (00:00:06) open 
+\i (00:00:24) fillin "C:\Users\harry\Dropbox\AmpliPHY co. intern\capture\3G-SDI\allegro\3G_SDI_V2.brd"
+\i (00:00:24) cd "C:\Users\harry\Dropbox\AmpliPHY co. intern\capture\3G-SDI\allegro"
+\t (00:00:24) Opening existing design...
+\i (00:00:39) fillin yes 
+\i (00:00:39) trapsize 838
+\i (00:00:40) trapsize 820
+\i (00:00:40) trapsize 838
+\i (00:00:40) trapsize 845
+\i (00:00:41) trapsize 845
+\t (00:00:42)     Journal end - Fri Jan 12 15:04:22 2018

@@ -1,0 +1,21 @@
+\t (00:00:00) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:00)     Journal start - Thu Jan 11 23:10:44 2018
+\t (00:00:00)         Host=DESKTOP-K0R56L3 User=harry Pid=3836 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe C:\Users\harry\Dropbox\AmpliPHY co. intern\capture\3G-SDI\MAX3738\QFN50P400X400X80-24N\QFN50P400X400X80-24N_Allegro\QFN50P400X400X80-24N.dra
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/Users/harry/Dropbox/AmpliPHY co. intern/capture/3G-SDI/MAX3738/QFN50P400X400X80-24N/QFN50P400X400X80-24N_Allegro/QFN50P400X400X80-24N.dra
+\i (00:00:03) trapsize 438
+\i (00:00:03) trapsize 430
+\i (00:00:03) trapsize 439
+\i (00:00:04) trapsize 439
+\i (00:00:12) create symbol 
+\i (00:00:16) fillin "qfn50p400x400x80-24n.psm"
+\t (00:00:16) Creating package symbol 'C:/Users/harry/Dropbox/AmpliPHY co. intern/capture/3G-SDI/MAX3738/QFN50P400X400X80-24N/QFN50P400X400X80-24N_Allegro/qfn50p400x400x80-24n.psm'.
+\t (00:00:16) Starting Create symbol...
+\i (00:00:17) generaledit 
+\i (00:00:19) exit 
+\e (00:00:19) Do you want to save the changes you made to QFN50P400X400X80-24N.dra?
+\i (00:00:20) fillin yes 
+\t (00:00:21) Symbol 'qfn50p400x400x80-24n.psm' created.
+\t (00:00:21)     Journal end - Thu Jan 11 23:11:05 2018

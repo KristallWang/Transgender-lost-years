@@ -1,0 +1,23 @@
+\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:00)     Journal start - Fri Jan 12 18:50:26 2018
+\t (00:00:00)         Host=DESKTOP-K0R56L3 User=harry Pid=2064 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe C:\Cadence\Cadence\Cadence_SPB_16.6-2015\share\pcb\pcb_lib\symbols\via_r0p08_0p12.pad
+\t (00:00:00) 
+\i (00:00:07) setwindow form.padedit
+\i (00:00:07) FORM padedit drill_width 176 
+\i (00:00:09) FORM padedit drill_height 176 
+\i (00:00:11) FORM padedit layers  
+\i (00:00:14) FORM padedit width 176 
+\i (00:00:16) FORM padedit width_th 240 
+\i (00:00:20) FORM padedit width_ant 240 
+\i (00:00:22) FORM padedit height_ant  
+\w (00:00:22) User units conversion failed.
+\i (00:00:24) FORM padedit grid row begin_layer 
+\i (00:00:25) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:00:27) setwindow form.padcopy
+\i (00:00:27) FORM padcopy pse_copy_done  
+\i (00:00:33) setwindow form.padedit
+\i (00:00:33) pse_save 
+\i (00:00:34) fillin yes 
+\i (00:00:35) pse_exit
+\t (00:00:35)     Journal end - Fri Jan 12 18:51:02 2018

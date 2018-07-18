@@ -1,0 +1,16 @@
+VCC	1																		
+IN+	2																		
+IN-	3																		
+TH	5																		
+DISABLE	6																		
+LOS	7																		
+GND	8																		
+OUTPOL	9																		
+OUT-	10																		
+OUT+	11																		
+RSSI	13																		
+CAZ2	14																		
+CAZ1	15																		
+VCC	4																		
+VCC	12																		
+GND	16																		

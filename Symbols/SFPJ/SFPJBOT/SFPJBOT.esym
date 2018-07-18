@@ -1,0 +1,1485 @@
+<Part 
+ name="SFPJBOT"
+ aliasName=""
+ Library="C:\Users\harry\Dropbox\AmpliPHY co. intern\capture\3G-SDI\SFPJ"
+ LP_Library=""
+ LP_Name=""
+ pdfFilePath="C:\Users\harry\Dropbox\AmpliPHY co. intern\sdi-datasheet\INF-8074.PDF"
+ styleName="OrCAD_Capture"
+ pptName=""
+>
+
+<View 
+ name="symbols"
+ aliasName=""
+ assignedName=""
+ partType="0"
+ viewType="1"
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ rotation="0"
+ origin="(0:0)"
+ width="0"
+ height="0"
+>
+
+<View 
+ name="1"
+ aliasName="SFPJBOT"
+ assignedName=""
+ partType="0"
+ viewType="1"
+ bBox="((-300:-2200)(1000:0))"
+ cBox="((0:-2200)(1000:0))"
+ rotation="0"
+ origin="(0:0)"
+ width="1000"
+ height="2200"
+>
+
+<Rectangle 
+ bBox="((0:-2200)(1000:0))"
+ color="3"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+</Rectangle>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="0"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VeeT"
+ aliasName=""
+ annotatedName=""
+ pinText="VeeT"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="1"
+ pinNumberSwaps=""
+ hotSpot="(-300:-200)"
+ origin="(0:-200)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="5"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="2"
+ sequence="1"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-200)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-200)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="VeeT"
+ aliasLabel=""
+ bBox="((0:-226)(145:-174))"
+ origin="(0:-200)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="1"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-175)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="1"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="Tx_Fault"
+ aliasName=""
+ annotatedName=""
+ pinText="Tx_Fault"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="2"
+ pinNumberSwaps=""
+ hotSpot="(-300:-400)"
+ origin="(0:-400)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="4"
+ sequence="2"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-400)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-400)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="Tx_Fault"
+ aliasLabel=""
+ bBox="((0:-426)(291:-374))"
+ origin="(0:-400)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="2"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-375)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="2"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="Tx_Disable"
+ aliasName=""
+ annotatedName=""
+ pinText="Tx_Disable"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="3"
+ pinNumberSwaps=""
+ hotSpot="(-300:-600)"
+ origin="(0:-600)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="6"
+ sequence="3"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-600)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-600)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="Tx_Disable"
+ aliasLabel=""
+ bBox="((0:-626)(364:-574))"
+ origin="(0:-600)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="3"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-575)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="3"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="MOD_DEF_2"
+ aliasName=""
+ annotatedName=""
+ pinText="MOD_DEF_2"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="4"
+ pinNumberSwaps=""
+ hotSpot="(-300:-800)"
+ origin="(0:-800)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="8"
+ sequence="4"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-800)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-800)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="MOD_DEF_2"
+ aliasLabel=""
+ bBox="((0:-826)(327:-774))"
+ origin="(0:-800)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="4"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-775)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="4"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="MOD_DEF_1"
+ aliasName=""
+ annotatedName=""
+ pinText="MOD_DEF_1"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="5"
+ pinNumberSwaps=""
+ hotSpot="(-300:-1000)"
+ origin="(0:-1000)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="10"
+ sequence="5"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-1000)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-1000)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="MOD_DEF_1"
+ aliasLabel=""
+ bBox="((0:-1026)(327:-974))"
+ origin="(0:-1000)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="5"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-975)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="5"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="MOD_DEF_0"
+ aliasName=""
+ annotatedName=""
+ pinText="MOD_DEF_0"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="6"
+ pinNumberSwaps=""
+ hotSpot="(-300:-1200)"
+ origin="(0:-1200)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="12"
+ sequence="6"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-1200)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-1200)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="MOD_DEF_0"
+ aliasLabel=""
+ bBox="((0:-1226)(327:-1174))"
+ origin="(0:-1200)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="6"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-1175)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="6"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="Rate_Select"
+ aliasName=""
+ annotatedName=""
+ pinText="Rate_Select"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="7"
+ pinNumberSwaps=""
+ hotSpot="(-300:-1400)"
+ origin="(0:-1400)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="14"
+ sequence="7"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-1400)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-1400)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="Rate_Select"
+ aliasLabel=""
+ bBox="((0:-1426)(400:-1374))"
+ origin="(0:-1400)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="7"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-1375)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="7"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="LOS"
+ aliasName=""
+ annotatedName=""
+ pinText="LOS"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="8"
+ pinNumberSwaps=""
+ hotSpot="(-300:-1600)"
+ origin="(0:-1600)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="0"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="16"
+ sequence="8"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-1600)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-1600)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="LOS"
+ aliasLabel=""
+ bBox="((0:-1626)(109:-1574))"
+ origin="(0:-1600)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="8"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-1575)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="8"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VeeR_1"
+ aliasName=""
+ annotatedName=""
+ pinText="VeeR"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="9"
+ pinNumberSwaps=""
+ hotSpot="(-300:-1800)"
+ origin="(0:-1800)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="5"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="18"
+ sequence="9"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-1800)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-1800)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="VeeR_1"
+ aliasLabel=""
+ bBox="((0:-1826)(218:-1774))"
+ origin="(0:-1800)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="9"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-1775)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Pin 
+ bBox="((0:0)(0:0))"
+ cBox="((0:0)(0:0))"
+ color="0"
+ row="9"
+ portName=""
+ busName=""
+ signalName=""
+ pinName="VeeR_2"
+ aliasName=""
+ annotatedName=""
+ pinText="VeeR"
+ signalType="0"
+ pinType="1"
+ bitNumber="0"
+ msb="0"
+ lsb="0"
+ padType="0"
+ padName=""
+ pinNumber="10"
+ pinNumberSwaps=""
+ hotSpot="(-300:-2000)"
+ origin="(0:-2000)"
+ rotation="0"
+ matrix="(0:0)"
+ direction="5"
+ function="0"
+ mechanicalElectrical="0"
+ gate=""
+ gateSwap=""
+ pinSwap=""
+ terminate=""
+ annotate=""
+ symbol="1"
+ side="3"
+ position="20"
+ sequence="10"
+ bank=""
+ standard=""
+ voltage=""
+ group=""
+ scratch1=""
+ scratch2=""
+ scratch3=""
+ scratch4=""
+ scratch5=""
+>
+
+<Path 
+ bBox="((0:0)(0:0))"
+ layer="0"
+ color="10"
+ fill="0"
+ pattern="0"
+ width="0"
+>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(0:-2000)"
+>
+
+</Points>
+
+<Points 
+ xyType="0"
+ angle="0"
+ xy="(-300:-2000)"
+>
+
+</Points>
+
+</Path>
+
+<Label 
+ label="VeeR_2"
+ aliasLabel=""
+ bBox="((0:-2026)(218:-1974))"
+ origin="(0:-2000)"
+ justify="3"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="20"
+ visibility="0"
+ relativeOrigin="0"
+ offset="(0:0)"
+>
+
+</Label>
+
+<Property 
+ name="#"
+ aliasName=""
+ value="10"
+ bBox="((0:0)(0:0))"
+ origin="(-60:-1975)"
+ justify="2"
+ rotation="0"
+ height="52"
+ color="0"
+ labelType="21"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Pin>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="SFPJBOT"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2325)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2425)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2550)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="SFPJBOT"
+ bBox="((0:0)(0:0))"
+ origin="(600:-2200)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</View>
+
+</View>
+
+<Constraints 
+ name="OrCAD_Capture"
+>
+
+<Constraint 
+ name="1"
+ assignedName=""
+ width="1000"
+ height="2200"
+>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:25)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:25)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="SFPJBOT"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2325)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-125)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2425)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:-225)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:-2550)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:-350)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="SFPJBOT"
+ bBox="((0:0)(0:0))"
+ origin="(600:-2200)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(600:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Constraint>
+
+<Property 
+ name="Part Reference"
+ aliasName=""
+ value="U?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="1"
+ visibility="1"
+ relativeOrigin="6"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Value"
+ aliasName=""
+ value="SFPJBOT"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="2"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="PCB Footprint"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="70"
+ color="0"
+ labelType="40"
+ visibility="1"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Description"
+ aliasName=""
+ value="?"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="0"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+<Property 
+ name="Name"
+ aliasName=""
+ value="myValue"
+ bBox="((0:0)(0:0))"
+ origin="(0:0)"
+ justify="0"
+ rotation="0"
+ height="80"
+ color="0"
+ labelType="6"
+ visibility="3"
+ relativeOrigin="0"
+ offset="(0:0)"
+ relativeOrder="0"
+>
+
+</Property>
+
+</Constraints>
+
+</Part>
+

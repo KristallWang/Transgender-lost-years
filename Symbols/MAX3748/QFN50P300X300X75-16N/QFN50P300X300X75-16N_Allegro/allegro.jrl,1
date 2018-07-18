@@ -1,0 +1,79 @@
+\t (00:00:00) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:00)     Journal start - Thu Jan 11 23:11:47 2018
+\t (00:00:00)         Host=DESKTOP-K0R56L3 User=harry Pid=7964 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe C:\Users\harry\Dropbox\AmpliPHY co. intern\capture\3G-SDI\MAX3748\QFN50P300X300X75-16N\QFN50P300X300X75-16N_Allegro\QFN50P300X300X75-16N.dra
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/Users/harry/Dropbox/AmpliPHY co. intern/capture/3G-SDI/MAX3748/QFN50P300X300X75-16N/QFN50P300X300X75-16N_Allegro/QFN50P300X300X75-16N.dra
+\i (00:00:03) trapsize 690
+\i (00:00:03) trapsize 678
+\i (00:00:03) trapsize 692
+\i (00:00:04) trapsize 692
+\i (00:00:05) generaledit 
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -0.7818 0.9358
+\i (00:00:07) trapsize 346
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -0.7818 0.9358
+\i (00:00:08) trapsize 173
+\i (00:00:16) shape add rect 
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out -2.6302 0.6693
+\i (00:00:19) trapsize 346
+\i (00:00:21) prepopup 4.1472 1.7146
+\i (00:00:22) cancel 
+\i (00:00:22) generaledit 
+\i (00:00:23) pick grid 5.6495 1.1470
+\t (00:00:23) last pick:  5.0800 0.0000
+\i (00:01:21) add pin 
+\t (00:01:21) Using 'B87_30.pad'.
+\i (00:01:25) setwindow form.mini
+\i (00:01:25) FORM mini pad_browse  
+\i (00:01:39) fillin "Rectx1p7y1p7_Qfn"
+\t (00:01:39) Using 'RECTX1P7Y1P7_QFN.pad'.
+\i (00:01:40) setwindow pcb
+\i (00:01:40) pick grid 1.1843 0.5239
+\t (00:01:40) last pick:  0.0000 0.0000
+\t (00:01:40) Using 'RECTX1P7Y1P7_QFN.pad'.
+\i (00:01:43) prepopup 4.2788 0.6485
+\i (00:01:46) cancel 
+\t (00:01:47) Exiting from Add Pin.
+\i (00:01:47) generaledit 
+\i (00:01:51) add pin 
+\t (00:01:52) Using 'B87_30.pad'.
+\i (00:01:53) setwindow form.mini
+\i (00:01:53) FORM mini pad_browse  
+\i (00:02:03) fillin "Rectx1p7y1p7_Qfn"
+\t (00:02:03) Using 'RECTX1P7Y1P7_QFN.pad'.
+\i (00:02:04) setwindow pcb
+\i (00:02:04) pick grid 1.1774 0.4339
+\t (00:02:04) last pick:  0.0000 0.0000
+\t (00:02:04) Using 'RECTX1P7Y1P7_QFN.pad'.
+\i (00:02:05) prepopup 4.1611 1.0154
+\i (00:02:06) done 
+\t (00:02:06) Exiting from Add Pin.
+\i (00:02:06) generaledit 
+\i (00:02:08) save 
+\i (00:02:09) fillin yes 
+\t (00:02:10) Symbol 'qfn50p300x300x75-16n.psm' created.
+\i (00:02:10) generaledit 
+\i (00:02:13) plot setup 
+\i (00:02:14) setwindow form.fpfileplotsetup
+\i (00:02:14) FORM fpfileplotsetup cancel  
+\i (00:02:14) setwindow pcb
+\i (00:02:14) generaledit 
+\i (00:02:17) create symbol 
+\i (00:02:23) fillin "qfn50p300x300x75-16n.psm"
+\t (00:02:23) Creating package symbol 'C:/Users/harry/Dropbox/AmpliPHY co. intern/capture/3G-SDI/MAX3748/QFN50P300X300X75-16N/QFN50P300X300X75-16N_Allegro/qfn50p300x300x75-16n.psm'.
+\t (00:02:23) Starting Create symbol...
+\i (00:02:23) generaledit 
+\i (00:02:23) pick grid 4.9849 0.8631
+\t (00:02:23) last pick:  5.0800 0.0000
+\i (00:02:24) exit 
+\e (00:02:24) Do you want to save the changes you made to C:/Users/harry/Dropbox/AmpliPHY co. intern/capture/3G-SDI/MAX3748/QFN50P300X300X75-16N/QFN50P300X300X75-16N_Allegro/QFN50P300X300X75-16N.dra?
+\i (00:02:26) fillin yes 
+\t (00:02:26) Symbol 'qfn50p300x300x75-16n.psm' created.
+\t (00:02:27)     Journal end - Thu Jan 11 23:14:14 2018
