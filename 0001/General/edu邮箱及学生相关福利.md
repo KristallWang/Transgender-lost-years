@@ -92,71 +92,47 @@ https://www.microsoft.com/en-us/p/office-home-student-2016-for-pc/cfq7ttc0k5fc?a
 网站：https://www.adobe.com/creativecloud/buy/students.html  <br>
 我想吐槽一下为什么不能向Autodesk学习一下学生免费版 <br>
 
+## 22.	vultur，便宜的VPS
+https://www.vultr.com <br>
+不过这个好像过期了，现在可能没有优惠了。<br>
 
+## 23.	阿里云（这个好像要国内大学学信网才行）
 
+## 24.	Intel 的开发工具
+https://software.intel.com/en-us/qualify-for-free-software/educator
 
+## 25.	N卡公司的开发工具PGI
+https://developer.nvidia.com/openacc-toolkit <br>
+和intel一样用于高性能计算<br>
 
+## 26.	ANSYS for students
+https://www.ansys.com/academic/free-student-products <br>
+据说这玩意要上百万（希望没记错）<br>
 
+## 27.	IAR
 
+## 28.	Dell产品线
 
+## 29.	联想产品线
 
+## 30.	索尼大法好！
 
+## 31. shopping
+这里不少要用学生卡，转载还有授权问题 <br>
+http://www.sohu.com/a/52008693_129621 <br>
 
+## 32.	Best Buy，其实填学校名称也行的
 
+## 33.	Yamibuy（好像现在过期了
 
+## 34.	Newegg
 
+## 35.	来自北美省shao钱快报的
+https://m.dealmoon.com/cn/Places-Where-Students-Get-a-Sweet-Student-Discount/466125.html <br>
+https://m.dealmoon.com/cn/Guide-Student-Books/556602.html <br>
+（好像有点跑偏了
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 36.	各大航空公司官网，还有Student Universe
 
 
 
@@ -164,7 +140,23 @@ https://www.microsoft.com/en-us/p/office-home-student-2016-for-pc/cfq7ttc0k5fc?a
 
 
 ## 原文及部分参考，慢慢移植。。
+反正注册啥跟钱有关的新网站先用.edu邮箱，搞不好有隐形福利 <br> <br>
 
+http://m.blog.sina.com.cn/s/blog_e71e7c970102wc17.html#page=1 <br>
+https://www.zhihu.com/question/25834623 <br>
+https://www.zhihu.com/question/22781409 <br>
+http://savethestudent.org <br>
+http://studentbeans.com <br>
+http://myeducationdiscount.com <br>
 
 https://zhuanlan.zhihu.com/p/22804091 <br>
 https://zhuanlan.zhihu.com/p/27171877 <br>
+
+
+
+
+
+
+
+
+
