@@ -6,16 +6,34 @@ We lost the year of grow from a little girl to a woman. We miss teen-years. So, 
  目录
 ------------------------
 ### 0000, UCSF-Guidelines翻译  <br>
+
 ### 0001, 上学上学！  <br>
+
 #### 通用General <br>
 ###### edu邮箱的应用 <br>
+
 #### 海外 <br>
 ##### 美国StudyInUS <br>
+
 ###### 可以报销HRT/SRS的美国大学的清单 <br>
+
 ###### 可以报销医药费的保险公司 <br>
-### 0002, <br>
+
+### 0002, 及时就医！<br>
+
+#### 国内医疗资源/Medical Knowledge <br>
+
+###### 目前可以诊断并且给出异性症证明的医生及医院 <br>
+#### Medical Resources<br>
+
+##### In China
+
+###### 目前可以诊断并且给出异性症证明的医生及医院列表 <br>
+
+###### 目前国内可以开具HRT处方的医生及医院列表<br>
+
 ### 0003, <br>
-### 0004, <br>
+### 0004, 出柜指南chuguizhinan <br>
 ### 0005, <br>
 ### 0006, <br>
 ### 0007, <br>
@@ -25,8 +43,10 @@ We lost the year of grow from a little girl to a woman. We miss teen-years. So, 
 ### 0011, <br>
 ### 0012, <br>
 ### 0013, <br>
-### 0014, <br>
-### 0015, <br>
+### 0014, Cyproterone-External-Use <br>
+#### 这个地方用于装环丙孕酮凝胶及其它外用剂型的文献 <br>
+### 0015, electron <br>
+#### 这个文件夹包含需要的各种电路，比如脱毛的，震动棒的，等等 <br>
 
 然后是这个文件的编辑方法
 --------------------
