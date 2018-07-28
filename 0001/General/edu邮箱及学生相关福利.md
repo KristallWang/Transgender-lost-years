@@ -16,14 +16,14 @@ Student personally owned machines <br> <br>
 Follow the directions below to download from the Wolfram User Portal: <br> <br>
 ### 1.	Create an account (New users only): <br> 
 ### 1.  创建账号（限新用户） <br> <br>
-#### o	Go to http://user.wolfram.com and click "Create Account" <br> <br>
-#### o	Fill out form using a .edu email, and click "Create Wolfram ID" <br> <br>
-#### o	Check your email and click the link to validate your Wolfram ID <br> <br>
+#### 	Go to http://user.wolfram.com and click "Create Account" <br> <br>
+#### 	Fill out form using a .edu email, and click "Create Wolfram ID" <br> <br>
+#### 	Check your email and click the link to validate your Wolfram ID <br> <br>
 ### 2.	Request the download and key: <br> <br>
-#### o	Wolfram User Portal to request an Activation Key <br> <br>
-#### o	Click the "Product Summary page" link to access your license <br> <br>
-#### o	Click "Get Downloads" and select "Download" next to your platform <br> <br>
-#### o	Run the installer on your machine, and enter Activation Key at prompt <br> <br>
+#### 	Wolfram User Portal to request an Activation Key <br> <br>
+#### 	Click the "Product Summary page" link to access your license <br> <br>
+#### 	Click "Get Downloads" and select "Download" next to your platform <br> <br>
+#### 	Run the installer on your machine, and enter Activation Key at prompt <br> <br>
 Are you interested in putting Mathematica elsewhere? Please let IT or mailto:adorsett@wolfram.com know. <br> <br>
 ## 4.	ChemOffice，把邮箱输进去就成
 http://sitelicense.cambridgesoft.com/sitelicense.cfm?sid=1861
@@ -62,6 +62,7 @@ https://www.enthought.com/academic-subscriptions
 https://www.vultr.com <br>
 不过这个好像过期了，现在可能没有优惠了。<br>
 ## 23.	阿里云（这个好像要国内大学学信网才行）
+阿里云9.5元每月：https://promotion.aliyun.com/ntms/campus2017.html
 ## 24.	Intel 的开发工具, 包括Visual Fortan
 https://software.intel.com/en-us/qualify-for-free-software/educator
 ## 25.	N卡公司的开发工具PGI
@@ -107,7 +108,7 @@ https://www.box.com/industries/education
 ## 46. Dropbox Education
 https://www.dropbox.com/education
 ## 47. 腾讯云学生优惠
-https://cloud.tencent.com/act/campus
+腾讯云10元每月：https://cloud.tencent.com/act/campus（曾经我用的腾讯云1元每月好像没有了）
 ## 48. AWS Educate
 https://aws.amazon.com/cn/education/awseducate/ <br>
 AWS一定的额度（需要绑定信用卡）<br>
