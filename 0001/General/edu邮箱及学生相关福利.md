@@ -139,6 +139,16 @@ drive.google.com <br>
 
 ## 38. google app for Education
 
+## 39. 赛尔校园先锋 
+shop.edu.cn
+
+# 40. 京东学生优惠
+http://edu.jd.com
+
+## 41. DigitalOcean
+开云主机50刀额度能用好久 <br>
+https://www.digitalocean.com <br>
+
 
 
 
