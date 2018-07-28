@@ -108,7 +108,7 @@ https://www.box.com/industries/education
 ## 46. Dropbox Education
 https://www.dropbox.com/education
 ## 47. 腾讯云学生优惠
-腾讯云10元每月：https://cloud.tencent.com/act/campus（曾经我用的腾讯云1元每月好像没有了）
+腾讯云10元每月：https://cloud.tencent.com/act/campus      （曾经我用的腾讯云1元每月好像没有了）
 ## 48. AWS Educate
 https://aws.amazon.com/cn/education/awseducate/ <br>
 AWS一定的额度（需要绑定信用卡）<br>
