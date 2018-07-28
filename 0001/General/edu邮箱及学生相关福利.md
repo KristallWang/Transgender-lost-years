@@ -62,13 +62,35 @@ https://www.apple.com/us-hed/shop/back-to-school
 ## 9.	Microsoft office学生价 （1图片里面找不到的同学可能需要）
 https://www.microsoft.com/en-us/p/office-home-student-2016-for-pc/cfq7ttc0k5fc?activetab=pivot%3Aoverviewtab
 
-## 9.5	Coinbase曾经拿edu邮箱注册可以获得10美元的比特币
+## 9.5.	Coinbase曾经拿edu邮箱注册可以获得10美元的比特币
 
 ## 10.	Prezi 给30天试用（有点短）
 
+## 11. Jetbrains全家桶
+官网：https://www.jetbrains.com 
 
+## 12.	Github students pack
+官网：https://education.github.com/pack
 
+## 13.	扫描全能王，见app store和Google play
 
+## 14.	墨刀（设计用）半价优惠
+
+## 15.	Apple Music你懂的
+
+## 16.	Matlab
+
+## 17.	Astah，UML工具
+
+## 18.	Octane渲染器免费（仅限1.2，请求核实新版
+
+## 19.	enthought系列的Python包（enthought canopy）
+
+## 20.	C4D，四年免费
+
+## 21.	Adobe
+网站：https://www.adobe.com/creativecloud/buy/students.html  <br>
+我想吐槽一下为什么不能向Autodesk学习一下学生免费版 <br>
 
 
 
