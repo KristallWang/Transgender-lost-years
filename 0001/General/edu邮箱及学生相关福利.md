@@ -14,7 +14,8 @@ https://imagine.microsoft.com/en-us/catalog/webstore <br>
 ![Mathemetica](https://pic4.zhimg.com/80/v2-0cd592bb283a0f7c8064dea670f63223_hd.png)
 Student personally owned machines <br> <br>
 Follow the directions below to download from the Wolfram User Portal: <br> <br>
-### 1.	Create an account (New users only): <br> <br>
+### 1.	Create an account (New users only): <br> 
+### 1.  创建账号（限新用户） <br> <br>
 #### o	Go to http://user.wolfram.com and click "Create Account" <br> <br>
 #### o	Fill out form using a .edu email, and click "Create Wolfram ID" <br> <br>
 #### o	Check your email and click the link to validate your Wolfram ID <br> <br>
