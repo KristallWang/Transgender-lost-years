@@ -48,6 +48,7 @@ https://prezi.com/prezi-for-education/
 ## 14.	墨刀（设计用）半价优惠
 ## 15.	Apple Music你懂的
 ## 16.	Matlab
+https://ww2.mathworks.cn/academia/tah-support-program/eligibility.html?s_tid=tfa_student_licenseCheck
 ## 17.	Astah，UML工具
 ## 18.	Octane渲染器免费（仅限1.2，请求核实新版
 ## 19.	enthought系列的Python包（enthought canopy）
@@ -89,7 +90,7 @@ drive.google.com <br>
 https://www.google.com/edu/products/productivity-tools/
 ## 39. 赛尔校园先锋 
 shop.edu.cn
-# 40. 京东学生优惠
+## 40. 京东学生优惠
 http://edu.jd.com
 ## 41. DigitalOcean
 开云主机50刀额度能用好久 <br>
