@@ -98,7 +98,7 @@ https://www.vultr.com <br>
 
 ## 23.	阿里云（这个好像要国内大学学信网才行）
 
-## 24.	Intel 的开发工具
+## 24.	Intel 的开发工具, 包括Visual Fortan
 https://software.intel.com/en-us/qualify-for-free-software/educator
 
 ## 25.	N卡公司的开发工具PGI
