@@ -120,11 +120,11 @@ Objective and Specific Aims .………………………………………..….
 Research Questions.…………………………………………….…………5 <br>
 Assumptions……………………………………………………………….6 <br>
 Limitations………………………………………………………………...7 <br>
-II. REVIEW OF THE LITERATURE ……………………………………………8 <br>
+### II. REVIEW OF THE LITERATURE ……………………………………………8 <br>
 Transgender Voice .……………………………………………………….8 <br>
 Speech and Singing – A Comparison …………………………………...15 <br>
 Melodic Intonation Therapy (MIT) ……………………………………..18 <br>
-III. METHODS…………………………………………………………………...22 <br>
+### III. METHODS…………………………………………………………………...22 <br>
 Participants ………………………………………………………………22 <br>
 Equipment and Materials ………………………………………………..26 <br>
 Procedures ……………………………………………………………….26 <br>
@@ -133,10 +133,10 @@ Therapy Techniques……………………………………………………..
 Posttest…………………………………………………………………...33 <br>
 Reliability ………………………………………………………………..34 <br>
 Data Analysis ……………………………………………………………34 <br>
-IV. RESULTS……………………….……………………………….……………36 <br>
+### IV. RESULTS……………………….……………………………….……………36 <br>
 Quantitative Results – Speaking Fundamental Frequencies (SFFs)……..36 <br>
 Case Studies……………………………………………………………...44 <br>
-V. DISCUSSION ………………..…………………………………..…………..58 <br>
+### V. DISCUSSION ………………..…………………………………..…………..58 <br>
 Anecdotal Evidence……………………………………………………...61 <br>
 Reading and Conversation……………………………………………….61 <br>
 Ratings by Participants…………………………………………………..62 <br>
@@ -144,8 +144,15 @@ Ratings by Judges………………………………………………………
 Most Helpful Aspects of Therapy………………………………………. 63 <br>
 Least Helpful Aspects of Therapy and Suggestions……………………..63 <br>
 Implications for Future Research………………………………………...64 <br>
-v
-BIBLIOGRAPHY ……………………………………………………………………….66 <br>
+
+
+
+
+
+
+### BIBLIOGRAPHY ……………………………………………………………………….66 <br>
+
+### APPENDIX
 APPENDIX A. DSM-IV AND THE HARRY BENJAMIN’S INTERNATIONAL GENDER DYSPHORIA ASSOCIATION………………………74 <br>
 APPENDIX B. TERMINOLOGY………………………………………………………81 <br>
 APPENDIX C. BRIEF ANATOMY OF VOICE PRODUCTION……………………..84 <br>
@@ -171,7 +178,7 @@ APPENDIX R. POSTTEST INTERVIEW QUESTIONS…………………………….114 <b
 APPENDIX S. THE RAINBOW PASSAGE………………………………………….115 <br>
 vi
 APPENDIX T. LIST OF VOICE SAMPLES FROM
-AUDIORECORDINGS……………………………………………………………….116 <br>
+### AUDIORECORDINGS……………………………………………………………….116 <br>
 1
 
 
