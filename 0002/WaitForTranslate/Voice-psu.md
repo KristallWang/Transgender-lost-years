@@ -11,7 +11,7 @@ Six male-to-female individuals ranging in age from 37 to 63 years volunteered to
 Participants were randomly divided into two groups: <br>
 参与者被随机分为两组： <br>
 Three individuals received traditional voice therapy plus feminine language structures/vocabulary and nonverbal communication (Group 1), while the remaining three received traditional voice therapy plus singing exercises and MIT (Group 2). <br> 
-三个人接受传统的语音治疗加上女性语言结构/词汇和非语言交流（第1组），而其余三个人接受传统的语音治疗加唱歌练习和麻省理工学院（第2组）。 <br>
+三个人接受传统的语音治疗加上女性语言结构/词汇和非语言交流（第1组），而其余三个人接受传统的语音治疗加唱歌练习和MIT(旋律语调治疗)（第2组）。 <br>
 All participants received traditional voice therapy techniques. <br>
 所有参与者都接受传统的语音治疗技术 <br>
 Quantitative results suggested increased Speaking Fundamental Frequencies (SFFs) for participants in both groups,however, a slightly higher SFF was present in Group 2. <br>
@@ -188,27 +188,30 @@ APPENDIX T. LIST OF VOICE SAMPLES FROM
 
 
 
-CHAPTER I
-INTRODUCTION
-The term transgender is a relatively new term used to describe an individual who
-appears as, wishes to be considered as, or has undergone surgery to become a member of
-the opposite sex or gender (American Heritage Dictionary, 2000). According to Reeder
-(1996), although many people use the terms sex and gender interchangeably, the two
-words have distinct meanings. Sex is a term based on biology and assigned on the basis
-of criteria such as chromosomal pattern and genitalia. Gender is socially and
-psychologically constructed and used to identify a person's overall presentation, physical
-characteristics, inner feelings and behavior, and is based upon society’s classifications of
-masculinity or femininity or in certain cases as neither or both of these. According to
-Wood (2003), gender is a more complex term than sex; it is acquired and learned through
-social interactions and it may change over time. Gender is a relational concept, because
-femininity and masculinity exist in relation to each other. As meanings of one gender
-change, so do meanings of the other. Generally, sex and gender co-occur so that most
-men are primarily masculine and most women are primarily feminine.
-In the case of transgender individuals, however, sex and gender are inconsistent.
-These individuals believe that they are trapped in the body of one sex but identify
-strongly with the other sex (Fausto-Sterling, 2000; Herdt, 1996; Money, 1988). They
-believe their biological sex is wrong – that they are really women trapped in men’s
+## CHAPTER I
+### INTRODUCTION
+The term transgender is a relatively new term used to describe an individual who appears as, wishes to be considered as, or has undergone surgery to become a member of the opposite sex or gender (American Heritage Dictionary, 2000).  <br>
+According to Reeder (1996), although many people use the terms sex and gender interchangeably, the two words have distinct meanings.  <br>
+Sex is a term based on biology and assigned on the basis of criteria such as chromosomal pattern and genitalia.  <br>
+Gender is socially and psychologically constructed and used to identify a person's overall presentation, physical characteristics, inner feelings and behavior, and is based upon society’s classifications of masculinity or femininity or in certain cases as neither or both of these.  <br>
+According to Wood (2003), gender is a more complex term than sex; it is acquired and learned through social interactions and it may change over time.  <br>
+Gender is a relational concept, because femininity and masculinity exist in relation to each other. <br> 
+As meanings of one gender change, so do meanings of the other.  <br>
+Generally, sex and gender co-occur so that most men are primarily masculine and most women are primarily feminine. <br>
+In the case of transgender individuals, however, sex and gender are inconsistent. <br>
+These individuals believe that they are trapped in the body of one sex but identify strongly with the other sex (Fausto-Sterling, 2000; Herdt, 1996; Money, 1988).  <br>
+They believe their biological sex is wrong – that they are really women trapped in men’s
+
+
+
+
+
 2
+
+
+
+
+
 bodies or men trapped in women’s bodies (Howey, 2002; Sheridan, 2001; Stryker, 1997,
 1998). Transgender people challenge the idea that sex and gender are dualities – that is,
 that male and female, masculine and feminine are opposite, stable, and the only two
