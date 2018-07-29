@@ -1,17 +1,17 @@
 ﻿HERSHBERGER, IOANNA, GEORGIADOU, M.A. The Effects of Singing Exercises and Melodic Intonation Therapy (MIT) on the Male-to-Female Transgender Voice.(2005) <br>
-
+HERSHBERGER，IOANNA，GEORGIADOU，M.A。歌唱练习和旋律语调治疗（MIT）对男-女跨性别者声音的影响。（2005） <br>
 Directed by Dr. Virginia A. Hinton. 116 pp. <br>
-
+由Virginia A. Hinton博士执导。 116页。<br>
 The purpose of this study was to test the efficacy of traditional voice therapy approaches in combination with singing exercises and Melodic Intonation Therapy (MIT) to aid male-to-female transgender individuals gain a more feminine sounding voice.<br>
-
+这项研究的目的是测试传统语音治疗方法结合唱歌练习和旋律语调治疗（MIT）的功效，以帮助男-女跨性别者获得更女性化的声音。<br>
 Participants from this study were recruited from a transgender support group in Greensboro, North Carolina. <br>
-
+该研究的参与者是从北卡罗来纳州格林斯博罗的跨性别支持小组招募的。<br>
 Six male-to-female individuals ranging in age from 37 to 63 years volunteered to participate in the study. <br>
-
+6名年龄在37至63岁之间的MtF自愿参加该研究。<br>
 Participants were randomly divided into two groups: <br>
-
+参与者被随机分为两组： <br>
 Three individuals received traditional voice therapy plus feminine language structures/vocabulary and nonverbal communication (Group 1), while the remaining three received traditional voice therapy plus singing exercises and MIT (Group 2). <br> 
-
+三个人接受传统的语音治疗加上女性语言结构/词汇和非语言交流（第1组），而其余三个人接受传统的语音治疗加唱歌练习和麻省理工学院（第2组）。 <br>
 All participants received traditional voice therapy techniques. <br>
 
 Quantitative results suggested increased Speaking Fundamental Frequencies (SFFs) for participants in both groups,however, a slightly higher SFF was present in Group 2. <br>
