@@ -114,65 +114,65 @@ far, my most valued supporter.
 iv
 TABLE OF CONTENTS
 Page
-CHAPTER
-I. INTRODUCTION……………….……………………………………………..1
-Objective and Specific Aims .………………………………………..…...4
-Research Questions.…………………………………………….…………5
-Assumptions……………………………………………………………….6
-Limitations………………………………………………………………...7
-II. REVIEW OF THE LITERATURE ……………………………………………8
-Transgender Voice .……………………………………………………….8
-Speech and Singing – A Comparison …………………………………...15
-Melodic Intonation Therapy (MIT) ……………………………………..18
-III. METHODS…………………………………………………………………...22
-Participants ………………………………………………………………22
-Equipment and Materials ………………………………………………..26
-Procedures ……………………………………………………………….26
-Therapy Approach ………………………………………………………27
-Therapy Techniques……………………………………………………...29
-Posttest…………………………………………………………………...33
-Reliability ………………………………………………………………..34
-Data Analysis ……………………………………………………………34
-IV. RESULTS……………………….……………………………….……………36
-Quantitative Results – Speaking Fundamental Frequencies (SFFs)……..36
-Case Studies……………………………………………………………...44
-V. DISCUSSION ………………..…………………………………..…………..58
-Anecdotal Evidence……………………………………………………...61
-Reading and Conversation……………………………………………….61
-Ratings by Participants…………………………………………………..62
-Ratings by Judges………………………………………………………..62
-Most Helpful Aspects of Therapy………………………………………. 63
-Least Helpful Aspects of Therapy and Suggestions……………………..63
-Implications for Future Research………………………………………...64
+## CHAPTER
+### I. INTRODUCTION……………….……………………………………………..1 <br>
+Objective and Specific Aims .………………………………………..…...4 <br>
+Research Questions.…………………………………………….…………5 <br>
+Assumptions……………………………………………………………….6 <br>
+Limitations………………………………………………………………...7 <br>
+II. REVIEW OF THE LITERATURE ……………………………………………8 <br>
+Transgender Voice .……………………………………………………….8 <br>
+Speech and Singing – A Comparison …………………………………...15 <br>
+Melodic Intonation Therapy (MIT) ……………………………………..18 <br>
+III. METHODS…………………………………………………………………...22 <br>
+Participants ………………………………………………………………22 <br>
+Equipment and Materials ………………………………………………..26 <br>
+Procedures ……………………………………………………………….26 <br>
+Therapy Approach ………………………………………………………27 <br>
+Therapy Techniques……………………………………………………...29 <br>
+Posttest…………………………………………………………………...33 <br>
+Reliability ………………………………………………………………..34 <br>
+Data Analysis ……………………………………………………………34 <br>
+IV. RESULTS……………………….……………………………….……………36 <br>
+Quantitative Results – Speaking Fundamental Frequencies (SFFs)……..36 <br>
+Case Studies……………………………………………………………...44 <br>
+V. DISCUSSION ………………..…………………………………..…………..58 <br>
+Anecdotal Evidence……………………………………………………...61 <br>
+Reading and Conversation……………………………………………….61 <br>
+Ratings by Participants…………………………………………………..62 <br>
+Ratings by Judges………………………………………………………..62 <br>
+Most Helpful Aspects of Therapy………………………………………. 63 <br>
+Least Helpful Aspects of Therapy and Suggestions……………………..63 <br>
+Implications for Future Research………………………………………...64 <br>
 v
-BIBLIOGRAPHY ……………………………………………………………………….66
-APPENDIX A. DSM-IV AND THE HARRY BENJAMIN’S
-INTERNATIONAL GENDER DYSPHORIA ASSOCIATION………………………74
-APPENDIX B. TERMINOLOGY………………………………………………………81
-APPENDIX C. BRIEF ANATOMY OF VOICE PRODUCTION……………………..84
-APPENDIX D. PRETEST INTERVIEW QUESTIONS………………………………..87
-APPENDIX E. VOICE EVALUATION FORM………………………………………..88
-APPENDIX F. SUGGESTED ORGANIZATION OF WEEKLY SESSIONS.………..89
-APPENDIX G. SINGING EXERCISES………………………………………………..93
+BIBLIOGRAPHY ……………………………………………………………………….66 <br>
+## APPENDIX A. DSM-IV AND THE HARRY BENJAMIN’S
+INTERNATIONAL GENDER DYSPHORIA ASSOCIATION………………………74 <br>
+APPENDIX B. TERMINOLOGY………………………………………………………81 <br>
+APPENDIX C. BRIEF ANATOMY OF VOICE PRODUCTION……………………..84 <br>
+APPENDIX D. PRETEST INTERVIEW QUESTIONS………………………………..87 <br>
+APPENDIX E. VOICE EVALUATION FORM………………………………………..88 <br>
+APPENDIX F. SUGGESTED ORGANIZATION OF WEEKLY SESSIONS.………..89 <br>
+APPENDIX G. SINGING EXERCISES………………………………………………..93 <br>
 APPENDIX H. MELODIC INTONATION THERAPY EXERCISES (MIT)
-EXERCISES…..………………………………………………………………………..94
-APPENDIX I. VOICE JOURNAL……………………………………………………...96
-APPENDIX J. DIAPHRAGMATIC BREATHING EXERCISES……………………..97
+EXERCISES…..………………………………………………………………………..94 <br>
+APPENDIX I. VOICE JOURNAL……………………………………………………...96 <br>
+APPENDIX J. DIAPHRAGMATIC BREATHING EXERCISES……………………..97 <br>
 APPENDIX K. GELFER’S STEPS IN VOICE THERAPY FOR
-TRANSGENDER CLIENTS…………………………………………………………...98
-APPENDIX L. VOWEL PROLONGATION EXERCISES…………………………..102
+TRANSGENDER CLIENTS…………………………………………………………...98 <br>
+APPENDIX L. VOWEL PROLONGATION EXERCISES…………………………..102 <br>
 APPENDIX M. EASY VOCAL ONSET AND LEGATO SPEECH
-EXERCISES………..…………………………………………………………………103
-APPENDIX N. BREATHINESS EXERCISES……………………………………….105
-APPENDIX O. RESONANCE EXERCISES…………………………………………107
+EXERCISES………..…………………………………………………………………103 <br>
+APPENDIX N. BREATHINESS EXERCISES……………………………………….105 <br>
+APPENDIX O. RESONANCE EXERCISES…………………………………………107 <br>
 APPENDIX P. LANGUAGE STRUCTURES AND VOCABULARY
-EXERCISES……..……………………………………………………………………110
-APPENDIX Q. NONVERBAL COMMUNICATION EXERCISES…………………113
-APPENDIX R. POSTTEST INTERVIEW QUESTIONS…………………………….114
-APPENDIX S. THE RAINBOW PASSAGE………………………………………….115
+EXERCISES……..……………………………………………………………………110 <br>
+APPENDIX Q. NONVERBAL COMMUNICATION EXERCISES…………………113 <br>
+APPENDIX R. POSTTEST INTERVIEW QUESTIONS…………………………….114 <br>
+APPENDIX S. THE RAINBOW PASSAGE………………………………………….115 <br>
 vi
 APPENDIX T. LIST OF VOICE SAMPLES FROM
-AUDIORECORDINGS……………………………………………………………….116
+AUDIORECORDINGS……………………………………………………………….116 <br>
 1
 CHAPTER I
 INTRODUCTION
