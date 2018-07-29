@@ -1,7 +1,7 @@
 ﻿HERSHBERGER, IOANNA, GEORGIADOU, M.A. The Effects of Singing Exercises and Melodic Intonation Therapy (MIT) on the Male-to-Female Transgender Voice.(2005) <br>
-HERSHBERGER，IOANNA，GEORGIADOU，M.A。歌唱练习和旋律语调治疗（MIT）对男-女跨性别者声音的影响。（2005） <br>
+HERSHBERGER，IOANNA，GEORGIADOU，M.A。歌唱练习和旋律语调治疗（MIT）对男-女跨性别者声音的影响。（2005） <br> <br> <br>
 Directed by Dr. Virginia A. Hinton. 116 pp. <br>
-由Virginia A. Hinton博士执导。 116页。<br>
+由Virginia A. Hinton博士执导。 116页。<br> <br> <br>
 The purpose of this study was to test the efficacy of traditional voice therapy approaches in combination with singing exercises and Melodic Intonation Therapy (MIT) to aid male-to-female transgender individuals gain a more feminine sounding voice.<br>
 这项研究的目的是测试传统语音治疗方法结合唱歌练习和旋律语调治疗（MIT）的功效，以帮助男-女跨性别者获得更女性化的声音。<br>
 Participants from this study were recruited from a transgender support group in Greensboro, North Carolina. <br>
@@ -13,13 +13,13 @@ Participants were randomly divided into two groups: <br>
 Three individuals received traditional voice therapy plus feminine language structures/vocabulary and nonverbal communication (Group 1), while the remaining three received traditional voice therapy plus singing exercises and MIT (Group 2). <br> 
 三个人接受传统的语音治疗加上女性语言结构/词汇和非语言交流（第1组），而其余三个人接受传统的语音治疗加唱歌练习和麻省理工学院（第2组）。 <br>
 All participants received traditional voice therapy techniques. <br>
-
+所有参与者都接受传统的语音治疗技术 <br>
 Quantitative results suggested increased Speaking Fundamental Frequencies (SFFs) for participants in both groups,however, a slightly higher SFF was present in Group 2. <br>
-
+定量结果表明两组参与者的口语基本频率（SFFs）均有所增加，但第2组的SFF略高。<br>
 Descriptive analysis of the results showed that by the study’s end, all participants presented with self-voice ratings (1-7 scale) that were higher than the ratings given by the participants at the beginning of the study. <br>
-
+对结果的描述性分析表明，在研究结束时，所有参与者都表现出自我评价（1-7量表），高于研究开始时参与者给出的评分。 <br>
 Also, at the end of the study, all four judges (two first-year speech-language pathology graduate students and two random volunteers) rated the participants with voice ratings that were above the ratings at the beginning of the study. <br>
-
+此外，在研究结束时，所有四名评委（两名一年级语言病理学研究生和两名随机志愿者）对参与者进行了评分，这些评分高于研究开始时的评分。 <br> <br> <br> <br> <br>
 
 
 
