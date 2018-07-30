@@ -212,25 +212,13 @@ They believe their biological sex is wrong – that they are really women trappe
 
 
 
-bodies or men trapped in women’s bodies (Howey, 2002; Sheridan, 2001; Stryker, 1997,
-1998). <br>
-Transgender people challenge the idea that sex and gender are dualities – that is,
-that male and female, masculine and feminine are opposite, stable, and the only two
-possibilities (Namaste, 2000).<br>
-Other terms that deserve attention are gender identity, gender expression, and
-gender dysphoria. According to Andrews (1999), gender identity refers to the internal
-psychological belief of an individual as to which of the two gender categories –masculine
-or feminine- he or she belongs or ought to belong. <br>
-A person's gender expression refers to
-males expressing their femininity and females expressing their masculinity as well as
-females expressing their femininity and males expressing their masculinity. <br>
-The term
-gender expression also refers to how much of an individual’s true gender identity is
-revealed to society. <br>
-Gender dysphoria refers to the discomfort that an individual
-experiences with socially and culturally assigned gender roles. <br>
-Dysphoria is derived
-from a Greek word meaning “hard to bear” (Brown & Rounsley, 1996, p.10). <br>
+bodies or men trapped in women’s bodies (Howey, 2002; Sheridan, 2001; Stryker, 1997, 1998). <br>
+Transgender people challenge the idea that sex and gender are dualities – that is, that male and female, masculine and feminine are opposite, stable, and the only two possibilities (Namaste, 2000).<br>
+Other terms that deserve attention are gender identity, gender expression, and gender dysphoria. According to Andrews (1999), gender identity refers to the internal psychological belief of an individual as to which of the two gender categories –masculine or feminine- he or she belongs or ought to belong. <br>
+A person's gender expression refers to males expressing their femininity and females expressing their masculinity as well as females expressing their femininity and males expressing their masculinity. <br>
+The term gender expression also refers to how much of an individual’s true gender identity is revealed to society. <br>
+Gender dysphoria refers to the discomfort that an individual experiences with socially and culturally assigned gender roles. <br>
+Dysphoria is derived from a Greek word meaning “hard to bear” (Brown & Rounsley, 1996, p.10). <br>
 Gender dysphoria is sometimes used as a synonym for transsexualism because it refers to the discomfort and distress that transgender individuals experience.<br>
 The diagnosis of transgenderism was first introduced in the Diagnostic and Statistical Manual of Mental Disorders - Third Edition - (DSM-III) in 1980 for gender dysphoric individuals who demonstrated at least two years of continuous interest in transforming the sex of their bodies and their social gender status (Appendix A).<br>
 According to Conway (2002), during this past decade the word transgender has mainly described all persons whose gender identity differs from what society customarily
@@ -242,10 +230,8 @@ According to Conway (2002), during this past decade the word transgender has mai
 expects from them. <br>
 The term transgender, therefore, includes among others, people who are called or who call themselves transsexuals, transvestites and crossdressers (AppendixB).<br>
 This study will focus on male-to-female transgender individuals. <br>
-Although these
-individuals comprise a small group of the population, the number is increasing steadily.
-The prevalence of the male-to-female transgender persons is currently at a ratio of 1:1500
-adult males or more (Conway, 2002). <br>
+Although these individuals comprise a small group of the population, the number is increasing steadily.<br>
+The prevalence of the male-to-female transgender persons is currently at a ratio of 1:1500 adult males or more (Conway, 2002). <br>
 According to experts in sexual and gender identity disorders mentioned in the Diagnostic and Statistical Manual of Mental Disorders -Fourth Edition - (DSM-IV) (2000), there are no recent epidemiological studies to provide data on prevalence of Gender Identity Disorder. <br>
 Data from smaller countries in Europe with access to total population statistics and referrals suggest that roughly 1 in 30,000 (1:30,000) adult males and 1 per 100,000 (1:100,000) adult females seek sexreassignment surgery (SRS). <br>
 According to Conway (2002), these estimations seem extremely low when at present 800-1000 Male-to-Female SRS operations are performed in the U. S. each year, and many or more are performed on U.S. citizens abroad. <br>
@@ -322,28 +308,29 @@ femininity in male-to-female transgender speakers?
 Several assumptions have been made about the specific therapy approaches used in
 this study:
 1. All of the participants will be able to provide the examiner with reliable selfperceptions
-regarding their voice, during pre- and post- training. <br>This information
-will be documented via individual interviews that will occur pre- and posttraining.<br>
-1. All of the participants will be able to learn and maintain the new voice therapy
-techniques taught during a consecutive 12-week period.<br>
-1. All of the participants will be able to practice the specific vocal techniques at
-home in order to learn and be able to adapt to their new feminine sounding voice.<br>
-1. The examiner will be able to effectively teach the new vocal techniques and
-behaviors to all participants during the 12-week therapy period.<br>
-1. No major differences exist between male-to-female transgender participants
-receiving group voice therapy and male-to-female transgender participants
-receiving individual voice therapy. This particular information has not been
-researched and, thus, is currently unavailable.<br>
+regarding their voice, during pre- and post- training. <br>
+This information will be documented via individual interviews that will occur pre- and posttraining.<br>
+1. All of the participants will be able to learn and maintain the new voice therapy techniques taught during a consecutive 12-week period.<br>
+1. All of the participants will be able to practice the specific vocal techniques at home in order to learn and be able to adapt to their new feminine sounding voice.<br>
+1. The examiner will be able to effectively teach the new vocal techniques and behaviors to all participants during the 12-week therapy period.<br>
+1. No major differences exist between male-to-female transgender participants receiving group voice therapy and male-to-female transgender participants receiving individual voice therapy. <br>
+This particular information has not been researched and, thus, is currently unavailable.<br>
+
+
 7
-1. No major quantitative and/or qualitative differences exist between voice measures
-during reading and voice measures during conversation. The particular
-information has not been researched and, thus, is currently unavailable.<br>
+
+
+1. No major quantitative and/or qualitative differences exist between voice measures during reading and voice measures during conversation. <br> 
+The particular information has not been researched and, thus, is currently unavailable.<br>
 ### IV. Limitations
-The small sample size is a limitation. The principal investigator will recruit
-participants from a transgender support group and by word of mouth. Some transgender
+The small sample size is a limitation. <br>
+The principal investigator will recruit
+participants from a transgender support group and by word of mouth. <br>
+Some transgender
 individuals may not seek voice therapy because of the unique nature of their voice
 disorders, for example, they may feel embarrassed or think that their vocal characteristics
-are so masculine that they may be extremely difficult to change. This limitation may
+are so masculine that they may be extremely difficult to change. <br>
+This limitation may
 decrease the sample size of the study and thus decrease the study’s power (Howell,
 2004).<br>
 8
