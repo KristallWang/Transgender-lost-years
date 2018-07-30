@@ -1789,7 +1789,7 @@ during the middle of the therapy program instead of only at the end in order for
 participants to compare their current voices to it and thus, gain some insight about
 progress.
 58
-CHAPTER V
+## CHAPTER V
 DISCUSSION
 This study attempted to establish the effectiveness of singing exercises and Melodic
 Intonation Therapy (MIT) in addition to traditional voice therapy approaches in creating a
@@ -2179,7 +2179,7 @@ http://www.lynnconway.com/ Copyright @ 2001-2002, Lynn Conway. All Rights
 Reserved. [Updated version of 12-17-02. Original article was posted on the web
 on January 30, 2001].
 74
-APPENDIX A
+## APPENDIX A
 DSM-IV & THE HARRY BENJAMIN’S INTERNATIONAL GENDER
 DYSPHORIA ASSOCIATION
 I. DSM-IV (Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition)
@@ -2316,7 +2316,7 @@ The sex of a patient always is a significant factor in the management of GID.
 Clinicians need to consider separately the biologic, social, psychological, and economic
 factors of each sex. All patients, however, should follow the SOC.
 81
-APPENDIX B
+## APPENDIX B
 TERMINOLOGY
 According to Andrews, 1999, it is essential for helping professionals, such as
 speech-language pathologists, psychologists, social workers, and counselors, to be
@@ -2366,7 +2366,7 @@ both masculine and feminine qualities within the same individual.
 Hermaphrodite - A biological term indicating that physical characteristics of both sexes
 are present in one individual.
 84
-APPENDIX C
+## APPENDIX C
 BRIEF ANATOMY OF VOICE PRODUCTION
 It is essential for speech-language pathologists working with transgender clients
 as well as for the clients themselves to be familiar with anatomical terminology in order
@@ -2420,7 +2420,7 @@ expansion of the rib cage for further inspiration. Expiration, on the other hand
 occur passively through the forces of tongue, elasticity, and gravity acting on the ribs and
 rib cage.
 87
-APPENDIX D
+## APPENDIX D
 PRETEST INTERVIEW QUESTIONS
 1. On a scale of 1 to 7, 1 being a very masculine voice and 7
 being a very feminine voice, rate your voice.
@@ -2435,7 +2435,7 @@ voice?
 having? (e.g., 60% in the feminine role and 40% in the
 masculine role).
 88
-APPENDIX E
+## APPENDIX E
 VOICE EVALUATION FORM
 Participant #:
 Age:
@@ -2450,7 +2450,7 @@ Habitual Pitch
 A. Average fundamental frequency during reading ________ Hz
 B. Average fundamental frequency during conversation ________ Hz
 89
-APPENDIX F
+## APPENDIX F
 SUGGESTED ORGANIZATION OF WEEKLY SESSIONS
 Note:
 1. For Group 1: Starting on Week 3: Practice language structures/vocabulary and
@@ -2521,14 +2521,14 @@ Week 12 (same for both groups) -
 3. Discharge (Provide reassurance, review strengths, and encourage positive
 changes).
 93
-APPENDIX G
+## APPENDIX G
 SINGING EXERCISES
 94
-APPENDIX H
+## APPENDIX H
 MELODIC INTONATION THERAPY (MIT) EXERCISES
 95
 96
-APPENDIX I
+## APPENDIX I
 VOICE JOURNAL
 Week 1 - Week 12
 1. Therapy Experiences
@@ -2537,7 +2537,7 @@ Week 1 - Week 12
 4. Observations (regarding feminine speech)
 5. General Comments
 97
-APPENDIX J
+## APPENDIX J
 DIAPHRAGMATIC BREATHING EXERCISES
 According to Swartz (2004), it is important to use the diaphragm to breathe for many
 reasons:
@@ -2552,7 +2552,7 @@ Instructions:
 3. Place one hand on the book and one hand on your chest.
 4. Raise the book as you breathe in without raising your chest.
 98
-APPENDIX K
+## APPENDIX K
 GELFER’S STEPS IN VOICE THERAPY FOR TRANGENDER CLIENTS
 (AJSLP, vol.8, p.201-208, August, 1999)
 1. Selecting a target pitch (160-165 Hz)
@@ -2625,7 +2625,7 @@ activities.
 as how they are saying it. You will spend a lot of time at this level of increased
 propositionality.
 102
-APPENDIX L
+## APPENDIX L
 VOWEL PROLONGATION EXERCISES
 Instructions: Read the following sentences and prolong the underlined vowels.
 Prompts Responses
@@ -2642,7 +2642,7 @@ going to bring him!”
 10. “Someone should tell her not to wear 10. “You are so right!”
 that dress to the office!”
 103
-APPENDIX M
+## APPENDIX M
 EASY VOCAL ONSET AND LEGATO SPEECH EXERCISES
 Instructions: Practice the following words Practice the following words going from left
 to right. Try to make the initiation of the word with the vowel as easy as the word which
@@ -2673,7 +2673,7 @@ Now blend the words in these longer sentences.
 4. If you are an actor, you are almost always anxious.
 5. Use another exit if you are expecting excess traffic.
 105
-APPENDIX N
+## APPENDIX N
 BREATHINESS EXERCISES
 Research shows that some women speak with incomplete closure of the vocal
 folds, something which produces breathiness and which is viewed as normal for women,
@@ -2706,7 +2706,7 @@ List of Sentences:
 9. Have you been married before?
 10. Halloween is my favorite holiday.
 107
-APPENDIX O
+## APPENDIX O
 RESONANCE EXERCISES
 The exercises given below are used to establish the optimal pitch level and the
 proper tone focus (Cooper, 1973).
@@ -2754,7 +2754,7 @@ were acknowledging a comment or agreeing with what was said. Since the “um-hum
 socially acceptable, it can be used unobtrusively in conversation as a therapeutic
 maneuver.
 110
-APPENDIX P
+## APPENDIX P
 LANGUAGE STRUCTURES AND VOCABULARY EXERCISES
 I. Underlying Goals of Communication
 1. Men use conversation mostly as a means of exchanging factual information. They
@@ -2799,7 +2799,7 @@ vocabulary used by men include: “let’s eat,” “blue,” “fast,” etc.
 2. Women are more descriptive and they elaborate frequently. Some examples of
 vocabulary used by women include: “gorgeous,” “wonderful,” “turquoise blue,” etc.
 113
-APPENDIX Q
+## APPENDIX Q
 NONVERBAL COMMUNICATION EXERCISES
 Nonverbal communication includes every component of communication other
 than words themselves. Nonverbal behaviors include visual cues, such as appearances
@@ -2821,7 +2821,7 @@ conversational partner.
 • Women tend to stand in an “S-Shape” form while men tend to stand in an “AShape”
 form.
 114
-APPENDIX R
+## APPENDIX R
 POSTTEST INTERVIEW QUESTIONS
 1. On a scale from 1 to 7, 1 being a very masculine voice and 7 being a very feminine
 voice, rate your voice as it is now.
@@ -2834,14 +2834,14 @@ how? If not, why not?
 5. What overall suggestions and/or comments would you like to make that you
 believe would help improve the voice therapy sessions?
 115
-APPENDIX S
+## APPENDIX S
 THE RAINBOW PASSAGE
 When the sunlight strikes raindrops in the air, they act like a prism and form a
 rainbow. The rainbow is a division of white light into many beautiful colors. These take
 the shape of a long, round arch, with its path high above, and its two ends apparently
 beyond the horizon.
 116
-APPENDIX T
+## APPENDIX T
 LIST OF VOICE SAMPLES FROM AUDIO RECORDING
 1. Pretest (Participant #6)
 2. Posttest (Participant #6)
