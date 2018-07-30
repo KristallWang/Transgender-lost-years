@@ -213,131 +213,140 @@ They believe their biological sex is wrong – that they are really women trappe
 
 
 bodies or men trapped in women’s bodies (Howey, 2002; Sheridan, 2001; Stryker, 1997,
-1998). Transgender people challenge the idea that sex and gender are dualities – that is,
+1998). <br>
+Transgender people challenge the idea that sex and gender are dualities – that is,
 that male and female, masculine and feminine are opposite, stable, and the only two
-possibilities (Namaste, 2000).
+possibilities (Namaste, 2000).<br>
 Other terms that deserve attention are gender identity, gender expression, and
 gender dysphoria. According to Andrews (1999), gender identity refers to the internal
 psychological belief of an individual as to which of the two gender categories –masculine
-or feminine- he or she belongs or ought to belong. A person's gender expression refers to
+or feminine- he or she belongs or ought to belong. <br>
+A person's gender expression refers to
 males expressing their femininity and females expressing their masculinity as well as
-females expressing their femininity and males expressing their masculinity. The term
+females expressing their femininity and males expressing their masculinity. <br>
+The term
 gender expression also refers to how much of an individual’s true gender identity is
-revealed to society. Gender dysphoria refers to the discomfort that an individual
-experiences with socially and culturally assigned gender roles. Dysphoria is derived
-from a Greek word meaning “hard to bear” (Brown & Rounsley, 1996, p.10). Gender
-dysphoria is sometimes used as a synonym for transsexualism because it refers to the
-discomfort and distress that transgender individuals experience.
-The diagnosis of transgenderism was first introduced in the Diagnostic and
-Statistical Manual of Mental Disorders - Third Edition - (DSM-III) in 1980 for gender
-dysphoric individuals who demonstrated at least two years of continuous interest in
-transforming the sex of their bodies and their social gender status (Appendix A).
-According to Conway (2002), during this past decade the word transgender has mainly
-described all persons whose gender identity differs from what society customarily
+revealed to society. <br>
+Gender dysphoria refers to the discomfort that an individual
+experiences with socially and culturally assigned gender roles. <br>
+Dysphoria is derived
+from a Greek word meaning “hard to bear” (Brown & Rounsley, 1996, p.10). <br>
+Gender dysphoria is sometimes used as a synonym for transsexualism because it refers to the discomfort and distress that transgender individuals experience.<br>
+The diagnosis of transgenderism was first introduced in the Diagnostic and Statistical Manual of Mental Disorders - Third Edition - (DSM-III) in 1980 for gender dysphoric individuals who demonstrated at least two years of continuous interest in transforming the sex of their bodies and their social gender status (Appendix A).<br>
+According to Conway (2002), during this past decade the word transgender has mainly described all persons whose gender identity differs from what society customarily
 3
-expects from them. The term transgender, therefore, includes among others, people who
-are called or who call themselves transsexuals, transvestites and crossdressers (Appendix
-B).
-This study will focus on male-to-female transgender individuals. Although these
+
+
+
+
+expects from them. <br>
+The term transgender, therefore, includes among others, people who are called or who call themselves transsexuals, transvestites and crossdressers (AppendixB).<br>
+This study will focus on male-to-female transgender individuals. <br>
+Although these
 individuals comprise a small group of the population, the number is increasing steadily.
 The prevalence of the male-to-female transgender persons is currently at a ratio of 1:1500
-adult males or more (Conway, 2002). According to experts in sexual and gender identity
-disorders mentioned in the Diagnostic and Statistical Manual of Mental Disorders -Fourth
-Edition - (DSM-IV) (2000), there are no recent epidemiological studies to provide data
-on prevalence of Gender Identity Disorder. Data from smaller countries in Europe with
-access to total population statistics and referrals suggest that roughly 1 in 30,000
-(1:30,000) adult males and 1 per 100,000 (1:100,000) adult females seek sexreassignment
-surgery (SRS). According to Conway (2002), these estimations seem
-extremely low when at present 800-1000 Male-to-Female SRS operations are performed
-in the U. S. each year, and many or more are performed on U.S. citizens abroad. Thus,
-approximately 1500 to 2000 Male-to-Female SRSs are completed per year on U.S.
-citizens and residents.
-As the prevalence of transgender individuals increases, so does the need for
-professionals who can treat these individuals. Such professionals may include medical
-personnel, psychologists, counselors, speech-language pathologists, social workers, and
-others. According to Freidenberg (2002), transgender individuals increasingly represent
-a small percentage of the caseload of speech-language pathologists with a specialty in
+adult males or more (Conway, 2002). <br>
+According to experts in sexual and gender identity disorders mentioned in the Diagnostic and Statistical Manual of Mental Disorders -Fourth Edition - (DSM-IV) (2000), there are no recent epidemiological studies to provide data on prevalence of Gender Identity Disorder. <br>
+Data from smaller countries in Europe with access to total population statistics and referrals suggest that roughly 1 in 30,000 (1:30,000) adult males and 1 per 100,000 (1:100,000) adult females seek sexreassignment surgery (SRS). <br>
+According to Conway (2002), these estimations seem extremely low when at present 800-1000 Male-to-Female SRS operations are performed in the U. S. each year, and many or more are performed on U.S. citizens abroad. <br>
+Thus, approximately 1500 to 2000 Male-to-Female SRSs are completed per year on U.S. citizens and residents.<br>
+As the prevalence of transgender individuals increases, so does the need for professionals who can treat these individuals. Such professionals may include medical personnel, psychologists, counselors, speech-language pathologists, social workers, and others. <br>
+According to Freidenberg (2002), transgender individuals increasingly represent a small percentage of the caseload of speech-language pathologists with a specialty in
+
+
+
 4
-voice disorders. Unfortunately very little research exists on the male-to-female
-transgender voice. A few studies have evaluated acoustic and perceptual measures of the
-male-to-female transgender voice (Bralley, Bull, Gore, & Edgerton, 1978; Challoner
-1986; Spencer 1988; Wolfe, Ratusnik, Smith, & Northrop, 1990; Gunzburger 1995;
-Oates & Dakakis, 1997; Gelfer & Schofield, 2000). Even fewer studies (Kalra 1977;
-Hooper 1985; Mount & Salmon, 1988; Gelfer 1999; De Bruin, Coerts, & Greven, 2000)
-report beneficial effects of voice therapy on the male-to-female transgender voice.
+
+
+
+voice disorders. Unfortunately very little research exists on the male-to-female transgender voice. <br>
+A few studies have evaluated acoustic and perceptual measures of the male-to-female transgender voice (Bralley, Bull, Gore, & Edgerton, 1978; Challoner 1986; Spencer 1988; Wolfe, Ratusnik, Smith, & Northrop, 1990; Gunzburger 1995; Oates & Dakakis, 1997; Gelfer & Schofield, 2000). <br>
+Even fewer studies (Kalra 1977; Hooper 1985; Mount & Salmon, 1988; Gelfer 1999; De Bruin, Coerts, & Greven, 2000) report beneficial effects of voice therapy on the male-to-female transgender voice.<br>
 Currently, there is no research to suggest the use of specific voice therapy
 approaches in combination with singing exercises and/or Melodic Intonation Therapy
-(MIT) for male-to-female individuals. This study will focus on the benefits of voice
+(MIT) for male-to-female individuals. <br>
+This study will focus on the benefits of voice
 therapy on the male-to-female transgender voice when combined with singing
 interventions as well as MIT. Singing exercises in combination with MIT should help
-create a more musical and thus, a more feminine sounding voice. Andrews (1999)
+create a more musical and thus, a more feminine sounding voice. <br>
+Andrews (1999)
 suggests that for male-to-female individuals seeking voice therapy, pitch level is actually
 less important than pitch variability or the musicality of the voice pattern. MIT primarily
 involves speaking in an intoned manner while singing involves great pitch variability as
 well as a legato vocal pattern and increased duration of some vowels. According to
 speculations made by experts, these musical parameters may be helpful in establishing a
-feminine sounding voice.
-I. Objective and Specific Aims
+feminine sounding voice.<br>
+
+### I. Objective and Specific Aims
 The objective of this study was to test the efficacy of traditional voice therapy
 approaches in combination with specific singing exercises as well as Melodic Intonation
+
+
 5
-Therapy (MIT) in an attempt to aid male-to-female transgender individuals in producing
-a more feminine sounding voice. To achieve this objective, the specific aims of the study
+
+
+Therapy (MIT) in an attempt to aid male-to-female transgender individuals in producing a more feminine sounding voice. To achieve this objective, the specific aims of the study
 were the following:
+
 1. To quantify the effects of traditional voice therapy on obtained voice evaluation
 measures in male-to-female individuals (Group 1) and compare those results with
 the effects of traditional voice therapy in combination with singing exercises and
 MIT interventions on obtained voice evaluation measures in male-to-female
-individuals (Group 2).
+individuals (Group 2).<br>
 1. To assess the efficacy of traditional voice therapy on participants’ perceptions of a
 feminine sounding voice pre- and post- training (Group 1) and compare those
 results with participants’ perceptions receiving traditional voice therapy in
-combination with singing exercises and MIT pre- and post- training (Group 2).
+combination with singing exercises and MIT pre- and post- training (Group 2).<br>
 1. To assess the efficacy of traditional voice therapy on listeners’ perceptions
 regarding a feminine vs. a masculine sounding voice pre- and post- training and
 compare those results with listeners’ perceptions regarding a feminine vs. a
 masculine sounding voice of participants receiving traditional voice therapy in
-combination with singing exercises and MIT pre- and post- training.
-II. Research Questions
-Two main research questions were posed in this study:
+combination with singing exercises and MIT pre- and post- training.<br>
+###II. Research Questions
+Two main research questions were posed in this study:<br>
 1. Based on objective and subjective measures, does traditional voice therapy
-increase the degree of femininity in male-to-female transgender speakers?
+increase the degree of femininity in male-to-female transgender speakers?<br>
+
+
 6
+
+
+
 1. Based on objective and subjective measures, does the inclusion of singing
 exercises and Melodic Intonation Therapy (MIT) further increase the degree of
 femininity in male-to-female transgender speakers?
-III. Assumptions
+###III. Assumptions
 Several assumptions have been made about the specific therapy approaches used in
 this study:
 1. All of the participants will be able to provide the examiner with reliable selfperceptions
 regarding their voice, during pre- and post- training. This information
-will be documented via individual interviews that will occur pre- and posttraining.
+will be documented via individual interviews that will occur pre- and posttraining.<br>
 1. All of the participants will be able to learn and maintain the new voice therapy
-techniques taught during a consecutive 12-week period.
+techniques taught during a consecutive 12-week period.<br>
 1. All of the participants will be able to practice the specific vocal techniques at
-home in order to learn and be able to adapt to their new feminine sounding voice.
+home in order to learn and be able to adapt to their new feminine sounding voice.<br>
 1. The examiner will be able to effectively teach the new vocal techniques and
-behaviors to all participants during the 12-week therapy period.
+behaviors to all participants during the 12-week therapy period.<br>
 1. No major differences exist between male-to-female transgender participants
 receiving group voice therapy and male-to-female transgender participants
 receiving individual voice therapy. This particular information has not been
-researched and, thus, is currently unavailable.
+researched and, thus, is currently unavailable.<br>
 7
 1. No major quantitative and/or qualitative differences exist between voice measures
 during reading and voice measures during conversation. The particular
-information has not been researched and, thus, is currently unavailable.
-IV. Limitations
+information has not been researched and, thus, is currently unavailable.<br>
+###IV. Limitations
 The small sample size is a limitation. The principal investigator will recruit
 participants from a transgender support group and by word of mouth. Some transgender
 individuals may not seek voice therapy because of the unique nature of their voice
 disorders, for example, they may feel embarrassed or think that their vocal characteristics
 are so masculine that they may be extremely difficult to change. This limitation may
 decrease the sample size of the study and thus decrease the study’s power (Howell,
-2004).
+2004).<br>
 8
-CHAPTER II
+##CHAPTER II
 REVIEW OF THE LITERATURE
-I. Transgender Voice
+###I. Transgender Voice
 According to Boone (2000) in female-to-male transgender persons, a lower pitch
 can be usually achieved through hormonal therapy; testosterone has the effect of
 thickening the vocal folds and thus, lowering vocal pitch. The female-to-male
