@@ -798,18 +798,23 @@ for speech analysis in research and clinical settings. Fundamental frequency dur
 reading and conversation was obtained by use of the CSL.
 #### III. Procedures
 ##### 1. Pretest
-A pretest was given to all participants to identify the baseline for the study. All
+A pretest was given to all participants to identify the baseline for the study.  <br>
+All
 testing was conducted in the Applied Communication Sciences Lab in Ferguson Building
-at the University of North Carolina at Greensboro and took approximately 45-60 minutes.
-The pretest included the following components for each participant:
+at the University of North Carolina at Greensboro and took approximately 45-60 minutes. <br>
+
+The pretest included the following components for each participant: <br> <br>
+
 • Permission – Prior to any testing, all participants were informed of their rights by
 way of a brief oral presentation by the principal investigator and a participant
-consent form was signed before testing began. All participants were assigned
+consent form was signed before testing began.  <br>
+All participants were assigned
 individual numbers to protect their privacy so that they would not be identified by
 name in this study. <br>
 • Interview – During a brief interview, the principal investigator asked each
 participant a series of questions related to their transition process, social
-experiences and support, vocal characteristics, and goals for voice therapy. Most
+experiences and support, vocal characteristics, and goals for voice therapy.  <br>
+Most
 27
 of the questions used for the interview were taken from Andrews (1999)
 (Appendix D). <br>
