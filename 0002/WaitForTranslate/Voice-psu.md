@@ -850,7 +850,7 @@ to meet the following goals: <br>
 During the second week of the therapy sessions, anatomy and physiology of the vocal
 mechanism were briefly introduced by the principal investigator, with the aid of pictures
 and diagrams from Blue Tree Publishing, Inc.
-1. Singing Exercises
+#### 1. Singing Exercises
 Singing exercises (Appendix G) were included in each session for participants in
 Group 2. These exercises help establish focus, proper breathing habits, and physical
 readiness for singing (Robinson & Althouse, 1997).
@@ -864,14 +864,14 @@ energy concentration in the singer’s formant/speaker’s ring region in both s
 spoken vowels. Results from another study support the view that fundamental frequency
 is monitored better in singing than in the speaking voice where it is mainly controlled
 supra-segmentally (Natke, Donath, & Kalveram, 2003).
-2. Melodic Intonation Therapy (MIT) Exercises
+#### 2. Melodic Intonation Therapy (MIT) Exercises
 Melodic Intonation Exercises (Appendix H) were also included in each session for
 participants in Group 2. Following the guidelines suggested mainly by Sparks, &
 Holland (1976), these exercises were designed by the principal investigator to assist the
 participants in developing better pitch variability while speaking. These
 exercises/utterances were first sung by the principal investigator, then by the participants,
 and finally they were spoken with exaggerated pitch variability by the participants.
-3. Voice Journal
+#### 3. Voice Journal
 All participants were required to keep a weekly voice journal, which was
 provided by the investigator at the beginning of therapy (Appendix I). In the journal,
 participants kept written records of all information relevant to their voice progress,
@@ -879,7 +879,7 @@ therapy experiences, observations, and comments.
 V. Therapy Techniques
 The following therapy techniques and exercises were used with all participants.
 30
-1. Vocal Hygiene Recommendations
+##### 1. Vocal Hygiene Recommendations
 Each participant was guided by the principal investigator through some general
 vocal hygiene recommendations (Swartz, 2004). These include the following:
 • Increase hydration and humidification,
@@ -893,42 +893,43 @@ cough,
 • Avoid excessive talking, screaming, and yelling, and
 • Avoid talking while stressed, tired, or when you have a cold/upper respiratory
 infection.
-2. Posture
+##### 2. Posture
 Each participant was guided by the principal investigator in establishing good
 body posture. Good vocal production is dependent upon proper posture. The vocal
 mechanism works optimally when the head, neck, and back are well aligned, as if an
 imaginary line were passing through the center of the body from the crown of the head to
 the floor. Good body posture was accomplished by emphasizing the following points:
-• The crown of the head should be the highest point,
-• The head should be loose and centered on the shoulders,
+• The crown of the head should be the highest point, <br>
+• The head should be loose and centered on the shoulders, <br>
 31
-• The chin should be at a 90 degree angle with the neck,
-• The chest cavity and the back should be expanded,
-• The arms should hang loose and the hands should fall in front of the thighs,
-• The pelvis should be tilted and the lower back should be relaxed,
-• The knees should be unlocked,
-• The body weight should be evenly distributed on the heels and soles,
-• The feet should be apart for balance.
-3. Diaphragmatic Breathing
+• The chin should be at a 90 degree angle with the neck, <br>
+• The chest cavity and the back should be expanded, <br>
+• The arms should hang loose and the hands should fall in front of the thighs, <br>
+• The pelvis should be tilted and the lower back should be relaxed, <br>
+• The knees should be unlocked, <br>
+• The body weight should be evenly distributed on the heels and soles, <br>
+• The feet should be apart for balance. <br>
+##### 3. Diaphragmatic Breathing
 Each participant was given a description of the diaphragmatic breathing process,
 followed by a series of breathing exercises (Appendix J).
-4. Pitch and Pitch Variability Exercises
+##### 4. Pitch and Pitch Variability Exercises
 Each participant was guided by the principal investigator in establishing
 appropriate pitch level and pitch variability by using the Real Time Pitch program on the
 CSL (Kay Elemetrics) as well as Gelfer’s Steps in Voice Therapy for Transgender
-Clients (Appendix K).
-5. Vowel Prolongation Exercises
-Each participant was instructed through vowel prolongation exercises. According
+Clients (Appendix K). <br>
+##### 5. Vowel Prolongation Exercises
+Each participant was instructed through vowel prolongation exercises.  <br>
+According
 to Andrews, 1999, some women tend to use an increased duration of some vowels (e.g.,
 “So gorgeous”). Appendix L demonstrates some of the utterances used for this exercise.
 The underlined vowels represent the vowels that should be prolonged.
 32
-6. Legato Phrasing Exercises
+##### 6. Legato Phrasing Exercises
 Each participant was instructed through legato phrasing exercises. According to
 Andrews (1999), some women tend to use a linking of words that suggests a legato rather
 than a staccato pattern. Appendix M shows some of the words and sentences used for
 these exercises (Andrews, 1999).
-7. Breathiness Exercises
+##### 7. Breathiness Exercises
 Each participant was instructed through exercises to increase breathiness.
 Research shows that some women speak with an incomplete closure of the vocal folds,
 something which is viewed as normal for women, but far less likely to occur in men
@@ -936,12 +937,12 @@ something which is viewed as normal for women, but far less likely to occur in m
 Klatt, and Klatt (1990) and Sulter and Peters (1996) female voices are perceived as
 breathy more often than male voices. Appendix I, N includes some of the words and
 sentences used for this exercise.
-8. Resonance Exercises
+##### 8. Resonance Exercises
 Each participant was guided by the principal investigator in establishing
 appropriate “frontal focus” sensations. Frontal focus refers to the resonation of the voice
 in the supraglottic cavities. Appendix O includes some of the exercises used with each
 participant to improve frontal focus.
-9. Language Structures and Vocabulary Exercises
+##### 9. Language Structures and Vocabulary Exercises
 Participants in Group 1 were instructed by the principal investigator during group
 conversations to use feminine language structures and vocabulary (see Appendix P) such
 as: increased use of questions and especially tag questions, tentative language, inclusive
@@ -951,13 +952,13 @@ socially polite words/apologies, and elaboration. Each participant was also inst
 use vocabulary that is more often used by women than by men. Such vocabulary may
 include the following words: wonderful, sweet, lovely, and elegant. Most of the
 examples from Appendix P were taken from Tannen (1992).
-10. Nonverbal Communication Exercises
+##### 10. Nonverbal Communication Exercises
 Participants in Group 1 were instructed through nonverbal communication
 exercises as part of the holistic voice therapy approach adopted by the principal
 investigator. These exercises (see Appendix Q) included focusing on body and head
 movements, hand gestures, eye contact and facial expressions. Most of the examples
 from Appendix Q were taken from Hirsh (2003).
-VI. Posttest
+#### VI. Posttest
 A posttest was given twelve weeks after the first session of voice therapy. The
 purpose of the posttest was to determine generalization and carryover of the new vocal
 characteristics and communication patterns learned during the therapy sessions. All
@@ -970,7 +971,7 @@ participant a series of questions related to their voice therapy experiences
 34
 1. Voice Evaluation – A voice evaluation (as stated above in the pretest section) was
 completed for all participants during the last voice therapy session.
-VII. Reliability
+#### VII. Reliability
 All data was recorded by the principal investigator at the time of testing. Audio
 recordings were made of a reading passage (“The Rainbow Passage”) for each participant
 for perceptual analysis by the study’s judges. Data was judged by two first-year speechlanguage
@@ -982,7 +983,7 @@ biological males and females. The perceptual judgments were compared with the
 judgments of the principal investigator and only those in which there was a 75% (3 out of
 4 judges) or above agreement and the results were within 1 point difference were used for
 data analysis.
-VIII. Data Analysis
+#### VIII. Data Analysis
 Results for each participant for the Voice Evaluation, and the
 qualitative/perceptual judgments made about participants’ voice quality (1-7 rating scale)
 from the four judges as well as the participants themselves were analyzed as single case
@@ -995,7 +996,7 @@ principal investigator for each case study. Selected information and comments fr
 participant’s voice journal as well as posttest interviews will also be included. All results
 for each participant will be displayed in a table.
 36
-CHAPTER IV
+## CHAPTER IV
 RESULTS
 Due to the small sample size (n=6) of this study, data analysis consisted primarily
 of descriptive analysis. Data regarding Maximum Phonation Range (MPR) was not
@@ -1729,7 +1730,7 @@ Greensboro, North Carolina. Participant 6 was not on any hormones, and had not
 undergone sexual reassignment surgery (SRS). Participant 6 had no musical background.
 On the male-to-female transition status, participant 6 presented as 90% male and 10%
 female.
-Quantitative Results:
+#### Quantitative Results:
 At the beginning of the study, participant 6 presented with speaking fundamental
 frequencies (SFFs) below the 160-165 Hz frequency range (98.80 Hz during reading and
 103.00 Hz during conversation), which has been identified by experts as the minimum
