@@ -267,13 +267,16 @@ approaches in combination with singing exercises and/or Melodic Intonation Thera
 (MIT) for male-to-female individuals. <br>
 This study will focus on the benefits of voice
 therapy on the male-to-female transgender voice when combined with singing
-interventions as well as MIT. Singing exercises in combination with MIT should help
+interventions as well as MIT. <br> 
+Singing exercises in combination with MIT should help
 create a more musical and thus, a more feminine sounding voice. <br>
 Andrews (1999)
 suggests that for male-to-female individuals seeking voice therapy, pitch level is actually
-less important than pitch variability or the musicality of the voice pattern. MIT primarily
+less important than pitch variability or the musicality of the voice pattern. <br>
+MIT primarily
 involves speaking in an intoned manner while singing involves great pitch variability as
-well as a legato vocal pattern and increased duration of some vowels. According to
+well as a legato vocal pattern and increased duration of some vowels. <br>
+According to
 speculations made by experts, these musical parameters may be helpful in establishing a
 feminine sounding voice.<br>
 
@@ -302,7 +305,7 @@ regarding a feminine vs. a masculine sounding voice pre- and post- training and
 compare those results with listeners’ perceptions regarding a feminine vs. a
 masculine sounding voice of participants receiving traditional voice therapy in
 combination with singing exercises and MIT pre- and post- training.<br>
-###II. Research Questions
+### II. Research Questions
 Two main research questions were posed in this study:<br>
 1. Based on objective and subjective measures, does traditional voice therapy
 increase the degree of femininity in male-to-female transgender speakers?<br>
@@ -315,11 +318,11 @@ increase the degree of femininity in male-to-female transgender speakers?<br>
 1. Based on objective and subjective measures, does the inclusion of singing
 exercises and Melodic Intonation Therapy (MIT) further increase the degree of
 femininity in male-to-female transgender speakers?
-###III. Assumptions
+### III. Assumptions
 Several assumptions have been made about the specific therapy approaches used in
 this study:
 1. All of the participants will be able to provide the examiner with reliable selfperceptions
-regarding their voice, during pre- and post- training. This information
+regarding their voice, during pre- and post- training. <br>This information
 will be documented via individual interviews that will occur pre- and posttraining.<br>
 1. All of the participants will be able to learn and maintain the new voice therapy
 techniques taught during a consecutive 12-week period.<br>
@@ -335,7 +338,7 @@ researched and, thus, is currently unavailable.<br>
 1. No major quantitative and/or qualitative differences exist between voice measures
 during reading and voice measures during conversation. The particular
 information has not been researched and, thus, is currently unavailable.<br>
-###IV. Limitations
+### IV. Limitations
 The small sample size is a limitation. The principal investigator will recruit
 participants from a transgender support group and by word of mouth. Some transgender
 individuals may not seek voice therapy because of the unique nature of their voice
@@ -344,9 +347,9 @@ are so masculine that they may be extremely difficult to change. This limitation
 decrease the sample size of the study and thus decrease the study’s power (Howell,
 2004).<br>
 8
-##CHAPTER II
+## CHAPTER II
 REVIEW OF THE LITERATURE
-###I. Transgender Voice
+### I. Transgender Voice
 According to Boone (2000) in female-to-male transgender persons, a lower pitch
 can be usually achieved through hormonal therapy; testosterone has the effect of
 thickening the vocal folds and thus, lowering vocal pitch. The female-to-male
