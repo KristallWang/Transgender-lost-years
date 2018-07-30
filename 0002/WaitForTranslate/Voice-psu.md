@@ -339,16 +339,17 @@ REVIEW OF THE LITERATURE
 ### I. Transgender Voice
 According to Boone (2000) in female-to-male transgender persons, a lower pitch
 can be usually achieved through hormonal therapy; testosterone has the effect of
-thickening the vocal folds and thus, lowering vocal pitch. The female-to-male
-individuals, therefore, rarely require the services of a speech-language pathologist.
+thickening the vocal folds and thus, lowering vocal pitch. <br>The female-to-male
+individuals, therefore, rarely require the services of a speech-language pathologist.<br>
 Professionals who work with male-to-female transgender clients, and the clients
 themselves, report that changing the speech (including voice) and language
 characteristics prove to be the most problematic masculine characteristics and the ones in
-need of professional help (Hooper, 2000). For most clients the most important initial
-treatment goal is to raise speaking fundamental frequency quite markedly (Gelfer, 1999).
+need of professional help (Hooper, 2000). <br>
+For most clients the most important initial
+treatment goal is to raise speaking fundamental frequency quite markedly (Gelfer, 1999).<br>
 According to Boone (1997), pitch is a key element of one’s voice “fingerprint,” one of
 the characteristics that makes one’s voice distinctively unique. Even without visual cues,
-voice pitch helps to immediately identify whether the speaker is male or female.
+voice pitch helps to immediately identify whether the speaker is male or female.<br>
 Although many transgender individuals indicate that changing their pitch level is their
 most important goal, the pitch level is actually less important than is pitch variability or
 the musicality of the voice pattern (Andrews, 1999).
@@ -357,20 +358,20 @@ the musicality of the voice pattern (Andrews, 1999).
 Early clinicians and researchers in gender/voice change reported selecting target
 Speaking Fundamental Frequencies (SFFs) for their male-to-female clients of
 approximately 200 Hz (Kalra, 1977; Bralley, Bull, Gore, & Edgerton, 1978; Mount and
-Salmon, 1988). It should be noted that most of this literature was based on single
-subjects engaged in treatment programs. More extensive research of transgender voice
-(Gelfer & Schofield, Spencer, 1988; Wolfe, Ratusnik, Smith, & Northrop, 1990)
-consistently has indicated that an individual’s SFF must be at least 160-165 Hz or higher
-for the voice to be identified as belonging to a female. For Wolfe et al. (1990) and Gelfer
-and Schofield (2000), the mean SFFs of female-perceived transgender individuals were
-172 Hz and 187 Hz, respectively, with the higher SFFs in both studies approximating 200
-Hz. SFFs below 165 Hz were consistently identified as male voices. Studies that have
+Salmon, 1988). <br>
+It should be noted that most of this literature was based on single
+subjects engaged in treatment programs. <br>
+More extensive research of transgender voice (Gelfer & Schofield, Spencer, 1988; Wolfe, Ratusnik, Smith, & Northrop, 1990) consistently has indicated that an individual’s SFF must be at least 160-165 Hz or higher for the voice to be identified as belonging to a female. <br>
+For Wolfe et al. (1990) and Gelfer and Schofield (2000), the mean SFFs of female-perceived transgender individuals were
+172 Hz and 187 Hz, respectively, with the higher SFFs in both studies approximating 200 Hz. <br>
+SFFs below 165 Hz were consistently identified as male voices. <br>
+Studies that have
 investigated listeners’ perceptual judgments of average pitch support these acoustic
 findings; voices identified as female are consistently higher than those identified as male
 (Oates and Dacakis, 1997). Table 1, developed by Oates and Dacakis (1997),
-summarizes typical fundamental frequencies and overlap between males and females.
-Table 1. Frequency range overlap for males and females (Oates and Dacakis, 1997).
-Gender Typical Fundamental
+summarizes typical fundamental frequencies and overlap between males and females.<br>
+Table 1. Frequency range overlap for males and females (Oates and Dacakis, 1997).<br>
+Gender Typical Fundamental<br>
 Frequency
 (In Hertz)
 Mean Fundamental Frequency
@@ -380,13 +381,14 @@ Female 145-275 Hz 196-224 Hz
 Gender Ambiguous Range 145-165 Hz
 10
 In a recent study involving listener judgments, Gelfer and Schofield (2000)
-obtained somewhat different results than those shown in Table 1. They found that some
+obtained somewhat different results than those shown in Table 1. <br>
+They found that some
 speakers with a speaking fundamental frequency (SFF) greater than 170 Hz were still
-perceived as male speakers. The mean SFF for Gelfer and Schofield’s group of femaleperceived
-speakers was 187 Hz, with speakers’ SFFs ranging from 164 Hz to 199 Hz.
+perceived as male speakers. <br>The mean SFF for Gelfer and Schofield’s group of femaleperceived
+speakers was 187 Hz, with speakers’ SFFs ranging from 164 Hz to 199 Hz.<br>
 Interestingly, there was some unexpected overlap between some of the male-rated
 speakers and the female-rated speakers in the range of 164 Hz to 181 Hz. Once again,
-speakers with a higher SFF were more likely to be perceived as female.
+speakers with a higher SFF were more likely to be perceived as female.<br>
 Oates and Dacakis (1997) noted that when frequency range and standard
 deviation were measured in Hertz, females were found to use a wider pitch range and
 pitch variability than males. Also, women’s voices were judged as more “expressive”
@@ -403,15 +405,15 @@ Oates and Dacakis (1997), resonance differences between male and female voices h
 been demonstrated consistently. Average formant frequencies of women’s voices are
 11
 approximately 20% higher than those of males (p.179). This quality is usually attributed
-to the comparatively shorter vocal tracts of women (Hirano, Kurita, & Nakahima, 1983).
+to the comparatively shorter vocal tracts of women (Hirano, Kurita, & Nakahima, 1983).<br>
 According to Andrews (1999), many genetic women have low-pitched, although
 feminine-sounding voices. This is a result of resonance and of women’s small resonating
 cavities. Morrison and Rammage (1994) note that the length and shape of the vocal tract
 influence formant frequencies. Therefore, some men, trying to sound like women, may
-consciously try to shorten vocal tract length by raising the larynx.
+consciously try to shorten vocal tract length by raising the larynx.<br>
 Markus (2003) suggests that using a head voice/vocal register is required for a
 natural-sounding feminine voice. Table 2 presents the four vocal registers and their
-relationship to muscles used, parts of vocal folds in vibration, pitch quality, and pitch.
+relationship to muscles used, parts of vocal folds in vibration, pitch quality, and pitch.<br>
 Table 2. Vocal Registers – Muscles Used, Parts of Folds in Vibration, Quality
 Produced, and Pitch Level (Web site of National Center for Voice and Speech:
 http://www.ncvs.org )
@@ -445,31 +447,32 @@ Lightest possible Highest sung
 pitches; above
 normal range
 12
-Use of falsetto voice/register should be discouraged (Andrews, 1999). Use of the
-falsetto voice/register may be perceived as being a weak, effeminate, and fake feminine
-voice.
+Use of falsetto voice/register should be discouraged (Andrews, 1999). <br>
+Use of the falsetto voice/register may be perceived as being a weak, effeminate, and fake feminine
+voice.<br>
 Appendix C shows some of the main anatomical terminology used for voice
-production.
-3. Loudness, Durational Characteristics, and Phrasing
+production.<br>
+#### 3. Loudness, Durational Characteristics, and Phrasing
 Gelfer and Young (1997) suggest that men use a higher conversational intensity
 level than women. According to Andrews (1999), most men attempting to use feminine
 speech markers must learn to use softer vocal onsets while speaking, a less forceful style,
 a linking of words that suggests a legato rather than a staccato pattern, and increased
 duration of some vowels (e.g., “so gorgeous”).
-4. Breathiness
+#### 4. Breathiness
 According to Klatt, & Klatt (1990) and Sulter, & Peters (1996) female voices are
 perceived as breathy more often than male voices. Research suggests that some women
 speak with incomplete closure of the vocal folds, which produces breathiness and which
 is viewed as normal for women, but far less likely to occur in men (Biever, & Bless,
 1989; Sodersten, Hertegard, & Hammarberg, 1995).
-5. Articulation
+#### 5. Articulation
 According to Andrews (1999) “women seem to open their mouths more than men
 and to articulate more clearly. However, they do not make hard articulatory contacts or
 punch out their words” (p.442).
 13
-6. Language Structures and Vocabulary
+#### 6. Language Structures and Vocabulary
 There are many differences in the way men and women use language to meet their
-needs and to interact socially with peers. Tannen (1992) states that men communicate as
+needs and to interact socially with peers. <br>
+Tannen (1992) states that men communicate as
 a means of establishing a place in the hierarchy and in order to acquire information,
 whereas women try to build consensus and share thoughts and feelings. According to
 Andrews (1999), women in our culture use the following when speaking: more tag
@@ -477,10 +480,10 @@ questions (It’s warm today, isn’t it?), tentative language (I think I may go
 inclusive pronouns (Our opinions may make a difference or We need to talk about this),
 increased elaboration, qualifiers, and disclaimers as well as increased use of adverbs,
 adjectives (It was a wonderful recital or She is so beautiful and so stylish!), and socially
-polite words/apologies and questions.
+polite words/apologies and questions.<br>
 In her dissertation “The Socio-Linguistic Construction of Gender and Gender
 Relationships in a University Community,” Remlinger suggests that men are less likely to
-ask questions in a public situation because doing so will reveal their lack of knowledge.
+ask questions in a public situation because doing so will reveal their lack of knowledge.<br>
 Of course, this data does not suggest that all men will not ask questions when they are in
 doubt, nor that all women will; the differences are a matter of likelihood and degree.
 Research by Wolfson (1984) and Holmes (1989) suggests that women offer more
@@ -500,7 +503,7 @@ than mothers, and that both interrupt female children more than male children.
 Vocabulary differences should also be addressed. Andrews (1999) suggests that there
 seem to be some terms (e.g., underwear vs. lingerie) that differ significantly, depending
 on whether men or women are speaking.
-7. Nonverbal Communication
+####7. Nonverbal Communication
 Nonverbal communication includes every component of communication other
 than words. It generally includes the following parameters: listening/attending behaviors
 such as eye contact and head nodding, hand gestures, smiling, crying, body posture and
@@ -528,7 +531,7 @@ showed that females consider face communication (e.g., eye contact and smile) to
 most important aspect of nonverbal communication. According to Epps (1989), females
 are more “accommodating” than males in their decoding of unintended, unconscious, or
 deceptive cues.
-II. Speech and Singing - A Comparison
+### II. Speech and Singing - A Comparison
 Acoustically, singing and speech are fundamentally similar. Both use sound and
 are, therefore, received and analyzed by the same organs. Both music and speech are
 forms of expression, and music is often referred to as a nonverbal means of
