@@ -806,25 +806,26 @@ The pretest included the following components for each participant:
 way of a brief oral presentation by the principal investigator and a participant
 consent form was signed before testing began. All participants were assigned
 individual numbers to protect their privacy so that they would not be identified by
-name in this study.
+name in this study. <br>
 • Interview – During a brief interview, the principal investigator asked each
 participant a series of questions related to their transition process, social
 experiences and support, vocal characteristics, and goals for voice therapy. Most
 27
 of the questions used for the interview were taken from Andrews (1999)
-(Appendix D).
+(Appendix D). <br>
 • Voice Evaluation – The voice evaluation (Appendix E) included the following
-measures for each participant:
+measures for each participant: <br>
  Fundamental frequency during reading – Refers to the frequency
 (measured in Hertz) that an individual habitually uses during
 reading. The participants were asked to read a standard text
-passage (e.g., The “Rainbow Passage”),
+passage (e.g., The “Rainbow Passage”), <br>
  Fundamental frequency during conversation – Refers to the
 frequency (measured in Hertz) that an individual habitually uses
-during conversation. The participants were asked to converse for
+during conversation.  <br>
+The participants were asked to converse for
 1-2 minutes with the principal investigator, and fundamental
-frequency was measured by the principal investigator.
-IV. Therapy Approach
+frequency was measured by the principal investigator. <br>
+#### IV. Therapy Approach
 Following the pretest, participants were randomly divided into two groups. Both
 groups received twelve weeks of voice therapy for 60 minutes, once a week, with the
 principal investigator, to improve vocal behaviors or communication patterns identified
