@@ -354,7 +354,7 @@ Although many transgender individuals indicate that changing their pitch level i
 most important goal, the pitch level is actually less important than is pitch variability or
 the musicality of the voice pattern (Andrews, 1999).
 9
-1. Pitch and Pitch Variability
+#### 1. Pitch and Pitch Variability
 Early clinicians and researchers in gender/voice change reported selecting target
 Speaking Fundamental Frequencies (SFFs) for their male-to-female clients of
 approximately 200 Hz (Kalra, 1977; Bralley, Bull, Gore, & Edgerton, 1978; Mount and
@@ -384,19 +384,22 @@ In a recent study involving listener judgments, Gelfer and Schofield (2000)
 obtained somewhat different results than those shown in Table 1. <br>
 They found that some
 speakers with a speaking fundamental frequency (SFF) greater than 170 Hz were still
-perceived as male speakers. <br>The mean SFF for Gelfer and Schofield’s group of femaleperceived
+perceived as male speakers. <br>
+The mean SFF for Gelfer and Schofield’s group of femaleperceived
 speakers was 187 Hz, with speakers’ SFFs ranging from 164 Hz to 199 Hz.<br>
 Interestingly, there was some unexpected overlap between some of the male-rated
 speakers and the female-rated speakers in the range of 164 Hz to 181 Hz. Once again,
 speakers with a higher SFF were more likely to be perceived as female.<br>
 Oates and Dacakis (1997) noted that when frequency range and standard
 deviation were measured in Hertz, females were found to use a wider pitch range and
-pitch variability than males. Also, women’s voices were judged as more “expressive”
+pitch variability than males. <br>
+Also, women’s voices were judged as more “expressive”
 and “melodious” than men’s voices. Oates and Dacakis (1997) reported that other studies
-reached similar conclusions. According to Pellowe and Jones (1978), women use greater
+reached similar conclusions. <br>
+According to Pellowe and Jones (1978), women use greater
 intonational variability as well as more patterns of rising tones, whereas men use a higher
-proportion of falling tones.
-2. Resonance
+proportion of falling tones.<br>
+#### 2. Resonance
 The American Heritage Dictionary (2000) defines resonance, in its acoustic sense,
 as the intensification and prolongation of sound, especially of a musical tone, produced
 by sympathetic vibration. Spencer (1988) and Gelfer & Schofield (2000) noted that
@@ -457,7 +460,7 @@ Gelfer and Young (1997) suggest that men use a higher conversational intensity
 level than women. According to Andrews (1999), most men attempting to use feminine
 speech markers must learn to use softer vocal onsets while speaking, a less forceful style,
 a linking of words that suggests a legato rather than a staccato pattern, and increased
-duration of some vowels (e.g., “so gorgeous”).
+duration of some vowels (e.g., “so gorgeous”).<br>
 #### 4. Breathiness
 According to Klatt, & Klatt (1990) and Sulter, & Peters (1996) female voices are
 perceived as breathy more often than male voices. Research suggests that some women
@@ -630,7 +633,7 @@ following MIT treatment of eight patients who had also received Computed Tomogra
 (CT) scans. MIT proved to be a successful treatment method for the patients who had no
 damage in the Wernicke’s area of the brain.
 20
-1. The Form of MIT
+#### 1. The Form of MIT
 MIT involves combining short phrases with rhythmic and melodic patterns that
 imitate normal speech inflections. According to Luria, (1970); Rosenbek and LaPointe,
 (1978; 1985;) and Rosenbeck et al. (1976), MIT consists primarily of hand gestures
@@ -639,7 +642,7 @@ phrases such as ‘I want coffee’ and ‘Go to bed’ are often produced clear
 has successfully completed the various steps of the MIT approach. Treatment occurs in
 three stages: unison speech with melodic patterns, imitative speech with melodic patterns,
 and imitative speech without melody.
-2. A Comparison of MIT with Singing and Speech
+#### 2. A Comparison of MIT with Singing and Speech
 Melodic Intonation Therapy involves singing. It is similar to singing in that it
 incorporates melody, rhythm, and stress. Sparks and Holland (1976) briefly describe the
 difference between MIT and songs. Specifically, songs have distinct melodies. In
@@ -663,7 +666,7 @@ songs should be avoided, since regression to the words of the songs may occur if
 such melodies are used. Since there are several alternate prosody patterns for any
 utterance, the clinician must exercise her/his own judgment as to which one will be used
 for a phrase/sentence.
-3. The Hierarchy of MIT
+#### 3. The Hierarchy of MIT
 MIT involves four main levels. Level I, which has no linguistic component,
 establishes the process of intoning melody patterns and accurately hand-tapping the
 rhythm and stress of each pattern. During Level II, the client is asked to respond to a
@@ -675,9 +678,9 @@ elements of information in the sentences. Finally, during Level IV, there is ret
 normal speech prosody. Transition back to speech prosody is facilitated by a technique
 called sprechgesang (speech-song).
 22
-CHAPTER III
-METHODS
-I. Participants
+## CHAPTER III
+### METHODS
+#### I. Participants
 Male-to-female transgender persons experience feminizing effects from taking
 estrogen, such as breast enlargement and some softening of muscle definition; however,
 there are no feminizing effects on the vocal folds and thus, pitch level remains at adult
@@ -786,15 +789,15 @@ Vocabulary
 *
 Nonverbal Communication *
 26
-II. Equipment and Materials
+#### II. Equipment and Materials
 Data was recorded by audio-recordings, videotapes, and written records. All
 group sessions were audio- and videotaped. Data gathering tools also included the CSL
 (Kay Elemetrics) (Computerized Speech Lab), a self-calibrating PC-based speech and
 signal processing system that contains a broad range of voice analysis tools and is used
 for speech analysis in research and clinical settings. Fundamental frequency during
 reading and conversation was obtained by use of the CSL.
-III. Procedures
-1. Pretest
+#### III. Procedures
+##### 1. Pretest
 A pretest was given to all participants to identify the baseline for the study. All
 testing was conducted in the Applied Communication Sciences Lab in Ferguson Building
 at the University of North Carolina at Greensboro and took approximately 45-60 minutes.
@@ -835,15 +838,15 @@ shows the suggested organization of weekly sessions for twelve consecutive weeks
 received 15 minutes of instruction in feminine language structures and nonverbal
 communication techniques while Group 2 received additional Melodic Intonation
 Therapy (MIT) and singing exercises for 15 minutes. Each session was designed in order
-to meet the following goals:
-• Good vocal hygiene
-• Good body posture
-• Appropriate use of diaphragmatic breathing
-• Appropriate pitch level and pitch variability
-• Appropriate resonance
-• Appropriate vowel prolongations
-• Appropriate phrasing/legato speech
-• Appropriate vocal onsets, breathiness, and loudness levels
+to meet the following goals: <br>
+• Good vocal hygiene <br>
+• Good body posture <br>
+• Appropriate use of diaphragmatic breathing <br>
+• Appropriate pitch level and pitch variability <br>
+• Appropriate resonance <br>
+• Appropriate vowel prolongations <br>
+• Appropriate phrasing/legato speech <br>
+• Appropriate vocal onsets, breathiness, and loudness levels <br>
 During the second week of the therapy sessions, anatomy and physiology of the vocal
 mechanism were briefly introduced by the principal investigator, with the aid of pictures
 and diagrams from Blue Tree Publishing, Inc.
