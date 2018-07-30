@@ -936,18 +936,12 @@ Andrews (1999), some women tend to use a linking of words that suggests a legato
 than a staccato pattern. Appendix M shows some of the words and sentences used for
 these exercises (Andrews, 1999).
 ##### 7. Breathiness Exercises
-Each participant was instructed through exercises to increase breathiness.
-Research shows that some women speak with an incomplete closure of the vocal folds,
-something which is viewed as normal for women, but far less likely to occur in men
-(Biever and Bless, 1989; Sodersten, Hertegard, and Hammarberg, 1995). According to
-Klatt, and Klatt (1990) and Sulter and Peters (1996) female voices are perceived as
-breathy more often than male voices. Appendix I, N includes some of the words and
-sentences used for this exercise.
+Each participant was instructed through exercises to increase breathiness. <br>
+Research shows that some women speak with an incomplete closure of the vocal folds, something which is viewed as normal for women, but far less likely to occur in men (Biever and Bless, 1989; Sodersten, Hertegard, and Hammarberg, 1995).  <br>
+According to Klatt, and Klatt (1990) and Sulter and Peters (1996) female voices are perceived as breathy more often than male voices.  <br>
+Appendix I, N includes some of the words and sentences used for this exercise. <br>
 ##### 8. Resonance Exercises
-Each participant was guided by the principal investigator in establishing
-appropriate “frontal focus” sensations. Frontal focus refers to the resonation of the voice
-in the supraglottic cavities. Appendix O includes some of the exercises used with each
-participant to improve frontal focus.
+Each participant was guided by the principal investigator in establishing appropriate “frontal focus” sensations. Frontal focus refers to the resonation of the voice in the supraglottic cavities. Appendix O includes some of the exercises used with each participant to improve frontal focus. <br>
 ##### 9. Language Structures and Vocabulary Exercises
 Participants in Group 1 were instructed by the principal investigator during group
 conversations to use feminine language structures and vocabulary (see Appendix P) such
@@ -959,16 +953,14 @@ use vocabulary that is more often used by women than by men. Such vocabulary may
 include the following words: wonderful, sweet, lovely, and elegant. Most of the
 examples from Appendix P were taken from Tannen (1992).
 ##### 10. Nonverbal Communication Exercises
-Participants in Group 1 were instructed through nonverbal communication
-exercises as part of the holistic voice therapy approach adopted by the principal
-investigator. These exercises (see Appendix Q) included focusing on body and head
-movements, hand gestures, eye contact and facial expressions. Most of the examples
-from Appendix Q were taken from Hirsh (2003).
+Participants in Group 1 were instructed through nonverbal communication exercises as part of the holistic voice therapy approach adopted by the principal investigator.  <br>
+These exercises (see Appendix Q) included focusing on body and head movements, hand gestures, eye contact and facial expressions.  <br>
+Most of the examples from Appendix Q were taken from Hirsh (2003).
 #### VI. Posttest
-A posttest was given twelve weeks after the first session of voice therapy. The
-purpose of the posttest was to determine generalization and carryover of the new vocal
-characteristics and communication patterns learned during the therapy sessions. All
-testing was conducted in the Applied Communication Sciences Lab in Ferguson Building
+A posttest was given twelve weeks after the first session of voice therapy.  <br>
+The purpose of the posttest was to determine generalization and carryover of the new vocal
+characteristics and communication patterns learned during the therapy sessions.  <br>
+All testing was conducted in the Applied Communication Sciences Lab in Ferguson Building
 at the University of North Carolina at Greensboro and lasted for approximately 45-60
 minutes. The posttest included the following components for each participant:
 1. Interview – During a brief interview, the principal investigator asked each
@@ -1272,12 +1264,12 @@ Participants Pretest Ratings Posttest Ratings Difference
 2. Voice Rating by Judges
 At the end of the study, four judges (two first-year speech-language pathology
 graduate students and two non-trained volunteers) were asked to rate audio recordings of
-both reading and conversation for each participant’s voice, pre- and post- voice therapy.
+both reading and conversation for each participant’s voice, pre- and post- voice therapy. <br>
 Figures 12-15 show the voice ratings given by the four judges pre- and post- voice
 therapy. Judge #1 and #2 were first-year speech-language pathology graduate students
-and judge #3 and #4 were random volunteers.
-Figure 12: Judge #1 - Voice Ratings Preand
-Post- Voice Therapy
+and judge #3 and #4 were random volunteers. <br>
+Figure 12: Judge #1 - Voice Ratings Preand <br>
+Post- Voice Therapy <br>
 2
 5
 2
