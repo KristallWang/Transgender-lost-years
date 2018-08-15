@@ -2806,7 +2806,7 @@ than words themselves. Nonverbal behaviors include visual cues, such as appearan
 and gestures, and environmental factors, such as use of space and body position. All of
 these aspects affect messages conveyed through communication. Following is a list of
 stereotypically observed nonverbal behaviors that differ between men and women:
-• Women tend to express their emotions more openly (e.g., laughing, crying).
+####• Women tend to express their emotions more openly (e.g., laughing, crying).
 • Women tend to exhibit more listening/attending behaviors during conversation
 (e.g., eye contact and head nodding).
 • Women tend to use more gestures and movements to emphasize their statements.
