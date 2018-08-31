@@ -38,7 +38,10 @@ We lost the year of grow from a little girl to a woman. We miss teen-years. So, 
 ###### 目前国内可以开具HRT处方的医生及医院列表<br>
 
 ### 0003, 出柜指南chuguizhinan <br>
-### 0004,  <br>
+### 0004, 跨性别专用运动健身指南 <br>
+####要求
+针对MtF不长肌肉，同时保持原有体力，尽可能较小的改变肩宽等等 <br>
+
 ### 0005, <br>
 ### 0006, <br>
 ### 0007, <br>
