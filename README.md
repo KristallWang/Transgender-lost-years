@@ -26,9 +26,9 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 
 ### [0002, 及时就医！](0002) <br>
 
-#### [国内医疗资源\/Medical Knowledge](0002/Medical Resources in China) <br>
+#### [国内医疗资源/Medical Knowledge](0002/Medical%20Resources%20in%20China) <br>
 
-##### [目前可以诊断并且给出异性症证明的医生及医院](0002/Medical Resources in China/目前与易性症有关的医生及医院.md) <br>
+##### [目前可以诊断并且给出异性症证明的医生及医院](0002/Medical%20Resources%20in%20China/目前与易性症有关的医生及医院.md) <br>
 #### Medical Resources <br>
 
 ##### In China <br>
