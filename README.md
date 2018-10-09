@@ -5,9 +5,9 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 
  目录
 ------------------------
-### 0000, UCSF-Guidelines翻译  <br>
+### 0000, [UCSF-Guidelines翻译](/0000-UCSF-Guidelines/UCSF-Transgender-PGACG-6-17-16-译文.pdf)  <br>
 
-### 0001, 上学上学！  <br>
+### 0001, [上学上学！](/0001)  <br>
 
 #### 通用General <br>
 ###### edu邮箱的应用 <br>
