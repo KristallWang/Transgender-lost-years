@@ -42,14 +42,14 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 #### 要求 <br>
 针对MtF不长肌肉，同时保持原有体力，尽可能较小的改变肩宽等等 <br>
 
-### [0005,]() <br>
-### [0006,]() <br>
-### [0007,]() <br>
-### [0008,]() <br>
-### [0009,]() <br>
-### [0010,]() <br>
-### [0011,]() <br>
-### [0012,]() <br>
+### 0005, <br>
+### 0006, <br>
+### 0007, <br>
+### 0008, <br>
+### 0009, <br>
+### 0010, <br>
+### 0011, <br>
+### 0012, <br>
 ### [0013, DanskPige特别行动科](0013DanskPigeSpecialGrope) <br>
 ### [0014, 研究中的各类医药以及护肤品资料](0014) <br>
 #### [Cyproterone-External-Use 这个地方用于装环丙孕酮凝胶及其它外用剂型的文献](0014\Cyproterone-External-Use) <br>
