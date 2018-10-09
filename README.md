@@ -18,17 +18,17 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 
 ###### [澳大利亚的银联刷卡攻略](0001/Haiwai/InAustralia/澳大利亚的银联支付攻略.md) <br>
 
-##### [美国StudyInUS](0001\Haiwai\StudyInUS) <br>
+##### [美国StudyInUS](0001/Haiwai/StudyInUS) <br>
 
-###### [可以报销HRT/SRS的美国大学的清单](0001\Haiwai\StudyInUS\可以报销HRT&SRS的美国大学的清单.md) <br>
+###### [可以报销HRT/SRS的美国大学的清单](0001/Haiwai/StudyInUS/可以报销HRT&SRS的美国大学的清单.md) <br>
 
-###### [可以报销医药费的保险公司](0001\Haiwai\free-text-book-download.md) <br>
+###### [可以报销医药费的保险公司](0001/Haiwai/free-text-book-download.md) <br>
 
 ### [0002, 及时就医！](0002) <br>
 
-#### [国内医疗资源/Medical Knowledge](0002\Medical Resources in China) <br>
+#### [国内医疗资源/Medical Knowledge](0002/Medical Resources in China) <br>
 
-###### [目前可以诊断并且给出异性症证明的医生及医院](0002\Medical Resources in China\目前与易性症有关的医生及医院.md) <br>
+###### [目前可以诊断并且给出异性症证明的医生及医院](0002/Medical Resources in China/目前与易性症有关的医生及医院.md) <br>
 #### Medical Resources <br>
 
 ##### In China <br>
@@ -52,9 +52,9 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 ### 0012, <br>
 ### [0013, DanskPige特别行动科](0013DanskPigeSpecialGrope) <br>
 ### [0014, 研究中的各类医药以及护肤品资料](0014) <br>
-#### [Cyproterone-External-Use 这个地方用于装环丙孕酮凝胶及其它外用剂型的文献](0014\Cyproterone-External-Use) <br>
-#### [基因治疗方案](0014\Biochemistry) <br>
-#### [基于蛋白质的血液激素水平监测装置](0014\Bioelectrical-engneering) <br>
+#### [Cyproterone-External-Use 这个地方用于装环丙孕酮凝胶及其它外用剂型的文献](0014/Cyproterone-External-Use) <br>
+#### [基因治疗方案](0014/Biochemistry) <br>
+#### [基于蛋白质的血液激素水平监测装置](0014/Bioelectrical-engneering) <br>
 #### http://www.cosdna.com/chs/ 这个网站拿好很好用
 ### [015, electron](0015electron) <br>
 #### 这个文件夹包含需要的各种电路，比如脱毛的，震动棒的，等等 <br>
