@@ -1,5 +1,5 @@
-成为女孩子的声音！【0】目录及注意事项 <br>
-![imagine](https://pic4.zhimg.com/80/v2-38cf2ae4dcb762d9c567efb2f1f63186_hd.jpg)
+成为女孩子的声音！【0】目录及注意事项 <br> <br>
+![imagine](https://pic4.zhimg.com/80/v2-38cf2ae4dcb762d9c567efb2f1f63186_hd.jpg) <br>
 原作：女の子の声になろう！即効ボイトレ編 <br> <br>
 
 ISBN：978-4-7980-2902-3 C0076 <br> <br>
