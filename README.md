@@ -57,7 +57,7 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 #### [基因治疗方案](0014/Biochemistry) <br>
 #### [基于蛋白质的血液激素水平监测装置](0014/Bioelectrical-engneering) <br>
 #### http://www.cosdna.com/chs/ 这个网站拿好很好用
-### [015, electron](0015electron) <br>
+### [0015, electron](0015electron) <br>
 #### 这个文件夹包含需要的各种电路，比如脱毛的，震动棒的，等等 <br>
 
 然后是这个文件的编辑方法
