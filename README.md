@@ -10,13 +10,13 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 ### [0001, 上学上学！](0001)  <br>
 
 #### [通用General](0001/General) <br>
-###### [edu邮箱的应用](0001/General/edu邮箱及学生相关福利.md) <br>
+###### [edu邮箱的应用](0001/General/edu邮箱及学生相关福利.md) <br> <br> <br>
 
 #### [海外](0001/Haiwai) <br>
 
 ##### [澳洲InAustralia](0001/Haiwai/InAustralia) <br>
 
-###### [澳大利亚的银联刷卡攻略](0001/Haiwai/InAustralia/澳大利亚的银联支付攻略.md) <br>
+###### [澳大利亚的银联刷卡攻略](0001/Haiwai/InAustralia/澳大利亚的银联支付攻略.md) <br> <br> <br>
 
 ##### [美国StudyInUS](0001/Haiwai/StudyInUS) <br>
 
@@ -36,7 +36,8 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 ###### 目前可以诊断并且给出异性症证明的医生及医院列表 <br>
 
 ###### 目前国内可以开具HRT处方的医生及医院列表 <br>
-###### 其它与Trans有关的医生的列表 <br>
+###### 其它与Trans有关的医生的列表 <br> <br> <br>
+
 ##### In Macau district (澳门地区) 
 ##### In HongKong district (香港地区) 
 ##### In Taiwan district (台湾地区) <br>
@@ -72,7 +73,8 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 #### 要求 <br>
 针对MtF不长肌肉，同时保持原有体力，尽可能较小的改变肩宽等等 <br>
 
-### 0005, <br>
+### 0005 伪声教程, <br>
+#### 日本-女の子の声-感谢佐仓奈绪的翻译 <br>
 ### 0006, <br>
 ### 0007, <br>
 ### 0008, <br>
