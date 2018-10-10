@@ -73,8 +73,9 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 #### 要求 <br>
 针对MtF不长肌肉，同时保持原有体力，尽可能较小的改变肩宽等等 <br>
 
-### 0005 伪声教程, <br>
-#### 日本-女の子の声-感谢佐仓奈绪的翻译 <br>
+### 0005 精选原创翻译(都是些特别的干货) <br>
+#### 伪声教程 <br>
+##### 日本-女の子の声-感谢佐仓奈绪的翻译 <br>
 ### 0006, <br>
 ### 0007, <br>
 ### 0008, <br>
