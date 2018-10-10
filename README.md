@@ -33,9 +33,10 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 
 ##### In China <br>
 
-###### 前可以诊断并且给出异性症证明的医生及医院列表 <br>
+###### 目前可以诊断并且给出异性症证明的医生及医院列表 <br>
 
 ###### 目前国内可以开具HRT处方的医生及医院列表 <br>
+###### 其它与Trans有关的医生的列表 <br>
 
 ### [0003, 出柜指南chuguizhinan](0003chuguizhinan) <br>
 ### [0004, 跨性别专用运动健身指南](0004buybuybuy) <br>
