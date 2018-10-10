@@ -31,12 +31,41 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 ##### [目前可以诊断并且给出异性症证明的医生及医院](0002/Medical%20Resources%20in%20China/目前与易性症有关的医生及医院.md) <br>
 #### Medical Resources <br>
 
-##### In China <br>
+##### In China Mainland (中国大陆)  <br>
 
 ###### 目前可以诊断并且给出异性症证明的医生及医院列表 <br>
 
 ###### 目前国内可以开具HRT处方的医生及医院列表 <br>
 ###### 其它与Trans有关的医生的列表 <br>
+##### In Macau district (澳门地区) 
+##### In HongKong district (香港地区) 
+##### In Taiwan district (台湾地区) <br>
+
+##### In U.S. <br>
+##### In Canada <br>
+
+##### In Japan (日本)   <br>
+
+##### In U.K. <br>
+##### In France <br>
+##### In Germany <br>
+##### In Danmark (Dansk) <br>
+##### In Netherlands <br>
+##### In Italy <br>
+##### In Poland <br>
+##### In Norway  <br>
+
+##### In Russia <br>
+
+##### In Singapore (新加坡) <br>
+##### In Malaysia (马来西亚) <br>
+
+##### In Australia
+##### In New Zealand 
+
+
+
+
 
 ### [0003, 出柜指南chuguizhinan](0003chuguizhinan) <br>
 ### [0004, 跨性别专用运动健身指南](0004buybuybuy) <br>
