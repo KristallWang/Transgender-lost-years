@@ -17,8 +17,9 @@ top_img: /img/top_img/0.png
 
 **出版：秀和システム**   
 
-**封面图：[アシマ](https://www.pixiv.net/member.php?id=2642047
-)（Pixiv）**   
+**封面图：
+![imagine](https://www.pixiv.net/member.php?id=2642047)
+（Pixiv）**   
 
 **翻译：佐倉奈緒**   
 
