@@ -1,12 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\0001",
+    "\\0001\\General",
     "\\0005translating",
     "\\0005translating\\weisheng",
-    "\\0005translating\\weisheng\\nv-zi-sheng",
-    "\\0014\\Biochemistry",
-    "\\0014\\Bioelectrical-engneering"
+    "\\0013DanskPigeSpecialActivitiesDivision",
+    "\\0013DanskPigeSpecialActivitiesDivision\\Support&TechnologyDivision"
   ],
-  "SelectedNode": "\\0005translating\\weisheng\\nv-zi-sheng\\README.md",
+  "SelectedNode": "\\0013DanskPigeSpecialActivitiesDivision\\README.md",
   "PreviewInSolutionExplorer": false
 }

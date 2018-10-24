@@ -18,7 +18,7 @@ top_img: /img/top_img/0.png
 **出版：秀和システム**   
 
 **封面图：
-![imagine](https://www.pixiv.net/member.php?id=2642047)
+[アシマ/Ashima](https://www.pixiv.net/member.php?id=2642047)
 （Pixiv）**   
 
 **翻译：佐倉奈緒**   
@@ -37,15 +37,15 @@ top_img: /img/top_img/0.png
 
 **第〇章 练习之前**
 
-[【1】练习之前](/成为女孩子的声音/1/)
+[【1】练习之前](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005translating/weisheng/nv-zi-sheng/1.md)
 
 **第一章 为了发出良好的声音进行准备**
 
-[【2】放松和面部伸展](/成为女孩子的声音/2/)
+[【2】放松和面部伸展](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005translating/weisheng/nv-zi-sheng/2.md)
 
-[【3】舌头和嗓子的伸展](/成为女孩子的声音/3/)
+[【3】舌头和嗓子的伸展](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005translating/weisheng/nv-zi-sheng/3.md)
 
-[【4】热身运动和姿势调整](/成为女孩子的声音/4/)
+[【4】热身运动和姿势调整](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005translating/weisheng/nv-zi-sheng/4.md)
 
 **第二章 把握自己的声音吧**
 
