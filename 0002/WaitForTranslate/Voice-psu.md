@@ -2807,19 +2807,14 @@ and gestures, and environmental factors, such as use of space and body position.
 these aspects affect messages conveyed through communication. Following is a list of
 stereotypically observed nonverbal behaviors that differ between men and women:
 ####• Women tend to express their emotions more openly (e.g., laughing, crying).
-• Women tend to exhibit more listening/attending behaviors during conversation
-(e.g., eye contact and head nodding).
-• Women tend to use more gestures and movements to emphasize their statements.
-• Women tend to touch themselves (e.g., playing with a necklace, tugging at
-earrings, playing with their hair).
-• Women also tend to touch their conversational partners to express support,
-affection, agreement, and comfort.
-• Women tend to move their heads while speaking and while listening to their
-conversational partner.
-• Women tend to sit more closely to their conversational partners.
-• Women tend to use a wide range of facial expressions to convey their emotions.
-• Women tend to stand in an “S-Shape” form while men tend to stand in an “AShape”
-form.
+####• Women tend to exhibit more listening/attending behaviors during conversation (e.g., eye contact and head nodding).
+####• Women tend to use more gestures and movements to emphasize their statements.
+####• Women tend to touch themselves (e.g., playing with a necklace, tugging at earrings, playing with their hair).
+####• Women also tend to touch their conversational partners to express support, affection, agreement, and comfort.
+####• Women tend to move their heads while speaking and while listening to their conversational partner.
+####• Women tend to sit more closely to their conversational partners.
+####• Women tend to use a wide range of facial expressions to convey their emotions.
+####• Women tend to stand in an “S-Shape” form while men tend to stand in an “AShape” form.
 114
 ## APPENDIX R
 POSTTEST INTERVIEW QUESTIONS
