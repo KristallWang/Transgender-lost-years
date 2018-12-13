@@ -10,17 +10,17 @@ We lost the year of growing from a little girl to a woman. We miss teen-years. S
 ### [0001, 上学上学！](0001)  <br>
 
 #### [通用General](0001/General) <br>
-###### [edu邮箱的应用](0001/General/edu邮箱及学生相关福利.md) <br> <br> <br>
+###### [edu邮箱的应用 The application of education e-mail address](0001/General/edu邮箱及学生相关福利.md) <br> <br> <br>
 
 #### [海外](0001/Haiwai) <br>
 
 ##### [澳洲InAustralia](0001/Haiwai/InAustralia) <br>
 
-###### [澳大利亚的银联刷卡攻略](0001/Haiwai/InAustralia/澳大利亚的银联支付攻略.md) <br> <br> <br>
+###### [澳大利亚的银联刷卡攻略 Union-pay in Australia](0001/Haiwai/InAustralia/澳大利亚的银联支付攻略.md) <br> <br> <br>
 
 ##### [美国StudyInUS](0001/Haiwai/StudyInUS) <br>
 
-###### [可以报销HRT/SRS的美国大学的清单](0001/Haiwai/StudyInUS/可以报销HRT&SRS的美国大学的清单.md) <br>
+###### [可以报销HRT/SRS的美国大学的清单 The University that can cover HRT/SRS in US](0001/Haiwai/StudyInUS/可以报销HRT&SRS的美国大学的清单.md) <br>
 
 ###### [可以报销医药费的保险公司](0001/Haiwai/free-text-book-download.md) <br>
 
