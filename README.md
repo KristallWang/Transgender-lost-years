@@ -1,2 +1,4 @@
-# Initial page
+# Transgender 失去的日子
+
+我们失去了从小女孩长大的日子。我们错过了青春。所以，我们不得不从头学起。本项目将会从所有 transition 的分支入手，包括且不限于化妆护肤，UCSF 的 guidelines，紧急情况/特殊情况下的自行配药，等等。
 
