@@ -128,10 +128,21 @@ https://academy.3ds.com/en/software/catia-v5-student-edition
 ## 52. Wind资讯金融终端（学生版）注册
 需上传学生证 <br>
 ## 53. MSDNAA（The Microsoft Developers Network Academic Alliance）
-
-
-
-
+## 54. American Chemical Society
+https://join.acs.org/eweb/ACSOMATemplate.aspx?site=ACS_OMA&WebCode=CreateAccount&sc=180117_join_button_GlobalNav_od <br>
+Regular or Reinstating Member $171.00 USD <br>
+Graduate Student Member 研究生会员 $85.50 USD <br>
+First Year Graduate Student Member 研究生首年会员 $42.75 USD <br> <br>
+Undergraduate Student Member 本科生会员 <br>
+Without C&EN 不订C&EN杂志 $28.00 USD <br>
+With C&EN electronic or print delivery 订C&EN杂志 $56.00 USD <br>
+Non-Scientist/Society Affiliate $171.00 USD <br>
+## 55. American Physical Society
+https://www.aps.org/membership/student.cfm <br>
+Membership is free for the first year for students in physics, related science, and engineering graduate and undergraduate programs. 学生会员首年免费 <br>
+First Timers $0(free) 首年免费<br>
+Undergraduate Students 本科生会员 $25 per year <br>
+Graduate Students 研究生会员 $39 per year <br>
 
 
 ## 原文及部分参考，慢慢移植。。
