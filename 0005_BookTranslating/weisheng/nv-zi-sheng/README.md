@@ -85,6 +85,7 @@ top_img: /img/top_img/0.png
 [【17】假声和混声技巧 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/17.md)
 
 [【18】声道伸展和坐姿 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/18.md)
+
 **第六章 正式的女声练习**
 
 [【19】Melanie训练法 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/19.md)
