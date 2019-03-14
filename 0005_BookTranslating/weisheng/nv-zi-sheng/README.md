@@ -33,7 +33,7 @@ top_img: /img/top_img/0.png
 **译者的话：这是一本结合了插画、音频和基础训练手段的伪声训练书籍，同时也有让声音变得更好听的效果。请控制好每天的练习时间，在出现不适时及时停止练习。本书的部分练习项目需要有日语最基础的50音图基础，译者将会使用日文和注音两种手段帮助大家进行练习。祝愿大家能够获得所期望的声音！**
 
 
-## 目录
+## 目录 【成为女孩子的声音！即效嗓音训练篇】
 
 **第〇章 练习之前**
 
@@ -74,23 +74,25 @@ top_img: /img/top_img/0.png
 
 [【14】假声的反复练习（下） 【10月17日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/14.md)
 
+[【15】混声和浊音 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/15.md)
+
 **第五章 发不出声音的时候**
 
-[【15】沙哑时的处置方法 【10月18日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/15.md)
 
-[【16】假声和混声技巧 【10月19日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/16.md)
+[【16】沙哑时的处置方法 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/16.md)
 
-[【17】声道伸展和坐姿【10月20日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/17.md)
+[【17】假声和混声技巧 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/17.md)
 
+[【18】声道伸展和坐姿 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/18.md)
 **第六章 正式的女声练习**
 
-[【18】Melanie训练法【10月21日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/18.md)
+[【19】Melanie训练法 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/19.md)
 
-[【19】Melanie法的实际练习【10月22日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/19.md)
+[【20】Melanie法的实际练习](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/20.md)
 
 **第七章 实录篇**
 
-[【20】在哪里练习【10月23日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/20.md)
+
 
 [【21】录音和相关准备【10月24日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/21.md)
 
@@ -102,9 +104,12 @@ top_img: /img/top_img/0.png
 
 [【26】演技练习【10月28日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/26.md)
 
-[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/27.md)
-[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/28.md)
-[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/29.md)
+[【27】用语集和CD收录内容](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/27.md)
+
+[【28】发声样式 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/28.md)
+
+## 目录 【成为女孩子的声音！】
+[【29】开始之前 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/29.md)
 [](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/30.md)
 [](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/31.md)
 [](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/32.md)
