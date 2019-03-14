@@ -94,39 +94,40 @@ top_img: /img/top_img/0.png
 
 [【21】录音和相关准备【10月24日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/21.md)
 
-[【22】喉结的作用定位【10月25日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/22.md)
+[【23】喉结的作用定位【10月25日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/23.md)
 
-[【23】发出了奇怪声音的时候【10月26日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/23.md)
+[【24】发出了奇怪声音的时候【10月26日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/24.md)
 
-[【24】特别练习法和抑扬的加入【10月27日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/24.md)
+[【25】特别练习法和抑扬的加入【10月27日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/25.md)
 
-[【25】演技练习【10月28日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/25.md)
+[【26】演技练习【10月28日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/26.md)
 
-[【26】用语集和CD收录内容 ]https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/26.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/27.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/28.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/29.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/30.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/31.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/32.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/33.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/34.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/35.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/36.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/37.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/38.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/39.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/40.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/41.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/42.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/43.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/44.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/45.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/46.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/47.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/48.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/49.md
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/50.md
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/27.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/28.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/29.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/30.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/31.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/32.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/33.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/34.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/35.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/36.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/37.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/38.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/39.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/40.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/41.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/42.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/43.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/44.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/45.md)
+[](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/46.md)
+**附录**
+[【47】用语集](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/47.md)
+[【48】发声样式 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/48.md)
+**附加**
+[【49】抑扬顿挫](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/49.md)
+[【50】以音乐锻炼假声 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/50.md)
 
 
 
