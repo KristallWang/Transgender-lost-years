@@ -102,7 +102,7 @@ top_img: /img/top_img/0.png
 
 [【25】演技练习【10月28日更新】](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/25.md)
 
-https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/26.md
+[【26】用语集和CD收录内容 ]https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/26.md
 https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/27.md
 https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/28.md
 https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/29.md
