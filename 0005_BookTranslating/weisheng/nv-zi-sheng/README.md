@@ -37,7 +37,8 @@ top_img: /img/top_img/0.png
 
 **第〇章 练习之前**
 
-[【1】练习之前](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/01.md)
+[【1】练习之前](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/01.md) 
+
 **第一章 为了发出良好的声音进行准备**
 
 [【2】放松和面部伸展](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/02.md)
@@ -127,11 +128,17 @@ top_img: /img/top_img/0.png
 [](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/44.md)
 [](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/45.md)
 [](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/46.md)
+
 **附录**
+
 [【47】用语集](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/47.md)
+
 [【48】发声样式 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/48.md)
+
 **附加**
+
 [【49】抑扬顿挫](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/49.md)
+
 [【50】以音乐锻炼假声 ](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0005_BookTranslating/weisheng/nv-zi-sheng/50.md)
 
 
