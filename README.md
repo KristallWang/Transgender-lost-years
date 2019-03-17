@@ -121,9 +121,7 @@ This repository will begin from all aspects of the transition, including but not
 这个文件夹包含需要的各种电路和相关资源，如脱毛、小玩具等。
 
 
-P.S.
-这个文件 (MarkDown) 的编辑方法
-
---------------------
-https://www.cnblogs.com/shiy/p/6526868.html <br>
-https://blog.csdn.net/htwhtw123/article/details/77069581 <br>
+> P.S.
+> 这个文件 (MarkDown) 的编辑方法
+> https://www.cnblogs.com/shiy/p/6526868.html <br>
+> https://blog.csdn.net/htwhtw123/article/details/77069581 <br>
