@@ -1,1 +1,2 @@
-àÅ¡£¡£ÆäËû¹ú¼ÒµÄÄãÃÇ×Ô¼ºÀ´ºÃÁË¡£¡£
+https://www.affordablecolleges.com/resources/lgbtq-college-resources/
+å—¯ã€‚ã€‚å…¶ä»–å›½å®¶çš„ä½ ä»¬è‡ªå·±æ¥å¥½äº†ã€‚ã€‚
