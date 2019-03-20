@@ -1,1 +1,1 @@
-给公民和绿卡的。。
+https://www.affordablecolleges.com/resources/lgbtq-college-resources/
