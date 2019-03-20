@@ -5,7 +5,7 @@ We are proud to present these Guidelines for the Primary and Gender-Affirming Ca
 
 ---
 
-感谢[Kristall Wang](https://github.com/Kristall-WangShiwei)向跨性别社群介绍了这一内容全面而实用的指南，也感谢Fluorescence、Aria、L. Ryland、兰芷喵、夏末微凉、TeH Ghost、薛定猫养的鳄鱼的翻译工作，以及Yaoyao、兰亭袂舞、北歌经年、FUBUKI、依蓝的审稿工作。同时，感谢您关注跨性别和性别非常规人士的健康。
+感谢[Kristall Wang](https://github.com/Kristall-WangShiwei)向跨性别社群介绍了这一内容全面而实用的指南，也感谢[Fluorescence](https://github.com/dy-octa)、Aria、L. Ryland、兰芷喵、夏末微凉、TeH Ghost、[薛定猫养的鳄鱼](https://github.com/harry-gzcn)的翻译工作，以及Yaoyao、兰亭袂舞、北歌经年、FUBUKI、依蓝的审稿工作。同时，感谢您关注跨性别和性别非常规人士的健康。
 
 有任何问题请联系[fluortester@gmail.com](mailto:fluortester@gmail.com)
 
