@@ -1,98 +1,154 @@
 # Transgender-lost-years
-We lost the year of growing from a little girl to a woman. We miss teen-years. So, we have to learn.<br>
-我们失去了从小女孩长大的日子。我们错过了青春。所以，我们不得不从头学起。<br>
-本项目将会从所有transition的分支入手，包括且不限于化妆护肤，UCSF的guidelines，紧急情况/特殊情况下的自行配药，等等。<br>
 
- 目录
-------------------------
-### [0000, UCSF-Guidelines翻译](0000-UCSF-Guidelines)  <br>
+We lost the year of growing from a little girl to a woman. We miss our teen-years. So, we have to learn from the beginning.
+我们失去了从小女孩长大的日子。我们错过了青春。所以，我们不得不从头学起。
 
-### [0001, 上学上学！](0001)  <br>
+I said these because we current only have MtF and their couple join this project... And they are trans-lesbian that joining project with their couple...
+这么说是因为目前目前愿意加入的只有MtF和家属…带家属的的基本都是transles…
 
-#### [通用General](0001/General) <br>
-###### [edu邮箱的应用](0001/General/edu邮箱及学生相关福利.md) <br> <br> <br>
+This repository will begin from all aspects of the transition, including but not limited to Makeup, Skin care, UCSF guidelines, self-HRT in emergencies, etc.
+本项目将会从所有transition的分支入手，包括且不限于化妆护肤，UCSF的guidelines，紧急情况/特殊情况下的自行配药，等等。
 
-#### [海外](0001/Haiwai) <br>
+## 目录
 
-##### [澳洲InAustralia](0001/Haiwai/InAustralia) <br>
+### [0000, UCSF-Guidelines翻译](0000_UCSF-Guidelines) 
+> ##### [关于|Readme](0000_UCSF-Guidelines/README.md)
 
-###### [澳大利亚的银联刷卡攻略](0001/Haiwai/InAustralia/澳大利亚的银联支付攻略.md) <br> <br> <br>
+> ##### [UCSF-关于跨性别者和性别非二元人群的初级性别肯定护理指南|Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People](0000_UCSF-Guidelines/UCSF-Transgender-PGACG-6-17-16-译文.pdf)
 
-##### [美国StudyInUS](0001/Haiwai/StudyInUS) <br>
+### [0001, 上学上学！](0001_Education)
 
-###### [可以报销HRT/SRS的美国大学的清单](0001/Haiwai/StudyInUS/可以报销HRT&SRS的美国大学的清单.md) <br>
+#### [通用|General](0001_Education/General)
 
-###### [可以报销医药费的保险公司](0001/Haiwai/free-text-book-download.md) <br>
+> ##### [edu邮箱的应用|The application of education e-mail address](0001_Education/General/edu邮箱及学生相关福利.md) 
 
-### [0002, 及时就医！](0002) <br>
+> ##### [信用卡|Credit Card](0001_Education/General/credit-card.md)
 
-#### [国内医疗资源/Medical Knowledge](0002/Medical%20Resources%20in%20China) <br>
+> ##### [免费教科书下载|Free Text Book Download](0001_Education/General/Free_Text_Book_Download)
 
-##### [目前可以诊断并且给出异性症证明的医生及医院](0002/Medical%20Resources%20in%20China/目前与易性症有关的医生及医院.md) <br>
-#### Medical Resources <br>
+#### [海外](0001_Education/Oversea)
 
-##### In China Mainland (中国大陆)  <br>
+##### [澳洲|In_Australia](0001_Education/Oversea/In_Australia)
 
-###### 目前可以诊断并且给出异性症证明的医生及医院列表 <br>
+> ###### [澳大利亚的银联刷卡攻略|Union-pay_in_Australia](0001_Education/Oversea/In_Australia/澳大利亚的银联支付攻略.md) 
 
-###### 目前国内可以开具HRT处方的医生及医院列表 <br>
-###### 其它与Trans有关的医生的列表 <br> <br> <br>
+##### [美国|In_US](0001_Education/Oversea/In_US)
 
-##### In Macau district (澳门地区) <br>
-##### In HongKong district (香港地区) <br>
-##### In Taiwan district (台湾地区) <br> <br>
+> ###### [可以报销HRT/SRS的美国大学的清单 The University that can cover HRT/SRS in US](0001/Oversea/StudyInUS/可以报销HRT&SRS的美国大学的清单.md)
 
-##### In U.S. <br>
-##### In Canada <br> <br>
+> ###### [可以报销医药费的保险公司](0001/Oversea/free-text-book-download.md)
 
-##### In Japan (日本)   <br> <br>
+### [0002, 及时就医！](0002_Medical)
 
-##### In U.K. <br>
-##### In France <br>
-##### In Germany <br>
-##### In Danmark (Dansk) <br>
-##### In Netherlands <br>
-##### In Italy <br>
-##### In Poland <br>
-##### In Norway  <br> <br>
+#### [医疗资源|Medical_Resources](0002_Medical/Medical_Resources)
 
-##### In Russia <br> <br>
+> ##### [目前与性别认同相关的医疗资源列表|Medical Resources Related to Gender Identity](0002_Medical/Medical_Resources/目前与性别认同相关的医疗资源列表.md)
 
-##### In Singapore (新加坡) <br>
-##### In Malaysia (马来西亚) <br> <br>
+> ##### [目前可以诊断并且给出异性症证明的医生及医院](0002_Medical/Medical_Resources/目前与易性症有关的医生及医院.md) 
 
-##### In Australia <br>
-##### In New Zealand <br><br> 
+#### [翻译文献|Translated File](0002_Medical/Translated_File)
+
+> ##### [UCSF-关于跨性别者和性别非二元人群的初级性别肯定护理指南|Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People](0002_Medical/Translated_File/UCSF-Transgender-PGACG-6-17-16-译文.pdf)
+
+> ##### [内分泌学会：性别焦虑/性别不安指南|Guidelines on Gender-Dysphoric/Gender-Incongruent Persons](0002_Medical/Translated_File/内分泌学会指南.pdf)
+
+#### [待翻译|Wait_For_Translation](0002_Medical/Wait_For_Translation)
+
+一个用于存储各个 *Contribtor* 搜集的、尚未完成翻译的文献的堆放区。
+欢迎任何人 **领取** 翻译任务。
+
+知识共产主义万岁！
+自由软件万岁！
 
 
 
 
+### [0003, 出柜指南](0003_GetOutCloset) 
 
-### [0003, 出柜指南chuguizhinan](0003chuguizhinan) <br>
-### [0004, 跨性别专用运动健身指南](0004buybuybuy) <br>
-#### 要求 <br>
-针对MtF不长肌肉，同时保持原有体力，尽可能较小的改变肩宽等等 <br>
+> ##### [出柜指南](0003_GetOutCloset/出柜指南.md)
 
-### 0005 精选原创翻译(都是些特别的干货) <br>
-#### 伪声教程 <br>
-##### 日本-女の子の声-感谢佐仓奈绪的翻译 <br>
-### 0006, <br>
-### 0007, <br>
-### 0008, <br>
-### 0009, <br>
-### 0010, <br>
-### 0011, <br>
-### 0012, <br>
-### [0013, DanskPige特别行动科](0013DanskPigeSpecialGrope) <br>
-### [0014, 研究中的各类医药以及护肤品资料](0014) <br>
-#### [Cyproterone-External-Use 这个地方用于装环丙孕酮凝胶及其它外用剂型的文献](0014/Cyproterone-External-Use) <br>
-#### [基因治疗方案](0014/Biochemistry) <br>
-#### [基于蛋白质的血液激素水平监测装置](0014/Bioelectrical-engneering) <br>
-#### http://www.cosdna.com/chs/ 这个网站拿好很好用
-### [0015, electron](0015electron) <br>
-#### 这个文件夹包含需要的各种电路，比如脱毛的，震动棒的，等等 <br> <br> <br> <br>
+### [0004, 购物](0004_Shopping) 
 
-然后是这个文件的编辑方法
+> ##### [1](0004_Shopping/1.md)
+
+> ##### [关于|Readme](0004_Shopping/README.md)
+
+### [0005, 精选原创翻译](0005_BookTranslating)
+
+> ##### [关于|Readme](0005_BookTranslating/README.md)
+
+#### [伪声教程](0005_BookTranslating/weisheng)
+##### [日本-女の子の声-感谢佐仓奈绪的翻译](0005_BookTranslating/weishengnv-zi-sheng)
+
+### [0006,]()
+
+### [0007,]() 
+
+### [0008,]()
+
+### [0009,]()
+
+### [0010,]()
+
+### [0011,]()
+
+### [0012,Recover_From_Depression](0012_Recover_From_Depression)
+
+> ##### [1](0012_Recover_From_Depression/1.md)
+
+> ##### [关于|Readme](0012_Recover_From_Depression/README.md)
+
+### [000A, DanskPige特别行动科](000A_DanskPigeSpecialGrope) 
+
+### [0014, 研究与开发](0014_ResearchDevelopment) 
+
+#### [生物化学|Biochemisty](0014_ResearchDevelopment/Biochemistry)
+
+> ##### [基于基因治疗的睾丸-卵巢药物转化研究](0014_ResearchDevelopment/Biochemistry/基于基因治疗的睾丸-卵巢药物转化研究.md)
+
+> ##### [毒理学简易使用指南](0014_ResearchDevelopment/Biochemistry/毒理学简易使用指南.md)
+
+#### [生物电子工程|Bioelectrical_Engineering](0014_ResearchDevelopment/Bioelectrical_Engineering)
+
+> ##### [基于蛋白质传感器的血药浓度监测装置](0014_ResearchDevelopment/Bioelectrical_Engineering/基于蛋白质传感器的血药浓度监测装置.md)
+
+> ##### [实验的碎碎念以及各种笔记](0014_ResearchDevelopment/Bioelectrical_Engineering/实验的碎碎念以及各种笔记.md)
+
+#### [外用环丙孕酮|Cyproterone_External_Use](0014_ResearchDevelopment/Cyproterone_External_Use)
+
+> ##### [关于|Readme](0014_ResearchDevelopment/Cyproterone_External_Use/README.md)
+
+#### [皮肤护理|Skin_Care](0014_ResearchDevelopment/Skin_Care)
+
+### [0015, electron](0015electron)
+这个文件夹包含需要的各种电路和相关资源，如脱毛、小玩具等。
+
+
+P.S.
+这个文件 (MarkDown) 的编辑方法
+
 --------------------
-https://www.cnblogs.com/shiy/p/6526868.html  <br>
-https://blog.csdn.net/htwhtw123/article/details/77069581  <br>
+https://www.cnblogs.com/shiy/p/6526868.html <br>
+https://blog.csdn.net/htwhtw123/article/details/77069581 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 友情链接
+https://transonline.org
