@@ -33,6 +33,7 @@ Oregon State University  <br>
 Pace University  <br>
 Pennsylvania State University  <br>
 Portland State University  <br>
+Princeton University  <br>
 Purdue University <br>
 Rowan University  <br>
 Rutgers University  <br>
@@ -84,7 +85,6 @@ Ithaca College  <br>
 Kansas State University  <br>
 Lewis and Clark College  <br>
 Massachusetts Institute of Technology   <br>
-Princeton University  <br>
 State University of New York, College at Oneonta  <br>
 State University of New York, Binghamton University <br>
 Suffolk University   <br>
