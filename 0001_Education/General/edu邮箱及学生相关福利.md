@@ -137,12 +137,16 @@ Undergraduate Student Member 本科生会员 <br>
 Without C&EN 不订C&EN杂志 $28.00 USD <br>
 With C&EN electronic or print delivery 订C&EN杂志 $56.00 USD <br>
 Non-Scientist/Society Affiliate $171.00 USD <br>
+
 ## 55. American Physical Society
 https://www.aps.org/membership/student.cfm <br>
 Membership is free for the first year for students in physics, related science, and engineering graduate and undergraduate programs. 学生会员首年免费 <br>
 First Timers $0(free) 首年免费<br>
 Undergraduate Students 本科生会员 $25 per year <br>
 Graduate Students 研究生会员 $39 per year <br>
+
+## 56.IEEE
+
 
 
 ## 原文及部分参考，慢慢移植。。
