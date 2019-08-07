@@ -31,24 +31,24 @@ Follow the directions below to download from the Wolfram User Portal: <br> <br>
 #### 	Run the installer on your machine, and enter Activation Key at prompt <br> <br>
 Are you interested in putting Mathematica elsewhere? Please let IT or mailto:adorsett@wolfram.com know. <br> <br>
 
-## 4.	ChemOffice，把邮箱输进去就成
+## 4.	 ChemOffice，把邮箱输进去就成
 http://sitelicense.cambridgesoft.com/sitelicense.cfm?sid=1861
 ![ChemOffice](https://pic4.zhimg.com/80/v2-adc597a38f41f56451665f3d66f05653_hd.png)
 
-## 5.	Office365，拿学校邮箱直接登录，然后你就能拿到下载链接，下载完安装填账号的时候记得也把edu邮箱填进去（增值服务，不是每个学校都有），还有记得卸载之前所有版本的office
+## 5. 	Office365，拿学校邮箱直接登录，然后你就能拿到下载链接，下载完安装填账号的时候记得也把edu邮箱填进去（增值服务，不是每个学校都有），还有记得卸载之前所有版本的office
 https://www.office.com/
-## 6.	微软教育商城，硬件软件都有 
+## 6. 	微软教育商城，硬件软件都有 
 https://www.microsoft.com/en-us/education/default.aspx
-## 7.	Amazon，使用edu邮箱可获得半年Prime
+## 7.	  Amazon，使用edu邮箱可获得半年Prime
 介绍见这里http://jingyan.baidu.com/article/ca41422fc6074b1eaf99ed76.html#!/article/ca41422fc6074b1eaf99ed76     （我先买个震动棒去…
-## 8.	Apple学生价格购买产品
+## 8.	  Apple学生价格购买产品
 https://www.apple.com/us-hed/shop/back-to-school
-## 9.	Microsoft office学生价 （1图片里面找不到的同学可能需要）
+## 9. 	Microsoft office学生价 （1图片里面找不到的同学可能需要）
 https://www.microsoft.com/en-us/p/office-home-student-2016-for-pc/cfq7ttc0k5fc?activetab=pivot%3Aoverviewtab
 ## 9.5.	Coinbase曾经拿edu邮箱注册可以获得10美元的比特币
 ## 10.	Prezi 给30天试用（有点短）
 https://prezi.com/prezi-for-education/
-## 11. Jetbrains全家桶
+## 11.  Jetbrains全家桶
 官网：https://www.jetbrains.com <br>
 包括DataGrip(数据库管理工具)
 
@@ -84,51 +84,51 @@ https://www.ansys.com/academic/free-student-products <br>
 ## 28.	Dell产品线
 ## 29.	联想产品线
 ## 30.	索尼大法好！
-## 31. shopping
+## 31.  shopping
 这里不少要用学生卡，转载还有授权问题 <br>
 http://www.sohu.com/a/52008693_129621 <br>
-## 32.	Best Buy，其实填学校名称也行的
+## 32. 	Best Buy，其实填学校名称也行的
 ## 33.	Yamibuy（好像现在过期了
-## 34.	Newegg
+## 34. 	Newegg
 ## 35.	来自北美省shao钱快报的
 https://m.dealmoon.com/cn/Places-Where-Students-Get-a-Sweet-Student-Discount/466125.html <br>
 https://m.dealmoon.com/cn/Guide-Student-Books/556602.html <br>
 （好像有点跑偏了 <br>
 ## 36.	各大航空公司官网，还有Student Universe
-## 37. Google Drive For Education
+## 37.  Google Drive For Education
 drive.google.com <br>
-## 38. google app for Education
+## 38.  google app for Education
 https://www.google.com/edu/products/productivity-tools/
-## 39. 赛尔校园先锋 
+## 39.  赛尔校园先锋 
 shop.edu.cn
-## 40. 京东学生优惠
+## 40.  京东学生优惠
 http://edu.jd.com
-## 41. DigitalOcean
+## 41.  DigitalOcean
 开云主机50刀额度能用好久 <br>
 https://www.digitalocean.com <br>
-## 42. Substain Education
+## 42.  Substain Education
 https://www.allegorithmic.com/education
-## 43. 免费申请TI开发板
+## 43.  免费申请TI开发板
 https://e2echina.ti.com/group/universityprogram/students/
-## 44. GUROBI
+## 44.  GUROBI
 http://www.gurobi.com/academia/academia-center
-## 45. Box (国外流行云存储)
+## 45.  Box (国外流行云存储)
 https://www.box.com/industries/education
-## 46. Dropbox Education
+## 46.  Dropbox Education
 https://www.dropbox.com/education
-## 47. 腾讯云学生优惠
+## 47.  腾讯云学生优惠
 腾讯云10元每月：https://cloud.tencent.com/act/campus      （曾经我用的腾讯云1元每月好像没有了）
-## 48. AWS Educate
+## 48.  AWS Educate
 https://aws.amazon.com/cn/education/awseducate/ <br>
 AWS一定的额度（需要绑定信用卡）<br>
-## 49. 七牛云青葱创业计划
-## 50. 新东方多媒体学习库
-## 51. CATIA 学生版限时免费体验
+## 49.  七牛云青葱创业计划
+## 50.  新东方多媒体学习库
+## 51.  CATIA 学生版限时免费体验
 https://academy.3ds.com/en/software/catia-v5-student-edition
-## 52. Wind资讯金融终端（学生版）注册
+## 52.  Wind资讯金融终端（学生版）注册
 需上传学生证 <br>
-## 53. MSDNAA（The Microsoft Developers Network Academic Alliance）
-## 54. American Chemical Society
+## 53.  MSDNAA（The Microsoft Developers Network Academic Alliance）
+## 54.  American Chemical Society
 https://join.acs.org/eweb/ACSOMATemplate.aspx?site=ACS_OMA&WebCode=CreateAccount&sc=180117_join_button_GlobalNav_od <br>
 Regular or Reinstating Member $171.00 USD <br>
 Graduate Student Member 研究生会员 $85.50 USD <br>
@@ -137,13 +137,16 @@ Undergraduate Student Member 本科生会员 <br>
 Without C&EN 不订C&EN杂志 $28.00 USD <br>
 With C&EN electronic or print delivery 订C&EN杂志 $56.00 USD <br>
 Non-Scientist/Society Affiliate $171.00 USD <br>
-## 55. American Physical Society
+## 55.  American Physical Society
 https://www.aps.org/membership/student.cfm <br>
 Membership is free for the first year for students in physics, related science, and engineering graduate and undergraduate programs. 学生会员首年免费 <br>
 First Timers $0(free) 首年免费<br>
 Undergraduate Students 本科生会员 $25 per year <br>
 Graduate Students 研究生会员 $39 per year <br>
-
+## 56.  Axure
+## 57.  Lucidchart
+## 58.  newegg premier
+## 59.  
 
 ## 原文及部分参考，慢慢移植。。
 反正注册啥跟钱有关的新网站先用.edu邮箱，搞不好有隐形福利 <br> <br>
