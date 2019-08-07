@@ -1,101 +1,104 @@
 ## English
 
-### 1¡¢bWAPP
+### 1ã€bWAPP
 web bug <br>
 http://www.itsecgames.com/ <br>
 
-### 2¡¢Damn Vulnerable iOS App (DVIA)
+### 2ã€Damn Vulnerable iOS App (DVIA)
 iOS test <br>
 http://damnvulnerableiosapp.com/ <br>
 
-### 3¡¢Damn Vulnerable Web Application (DVWA)
+### 3ã€Damn Vulnerable Web Application (DVWA)
 web test <br>
 http://www.dvwa.co.uk/ <br>
 
-### 4¡¢Game of Hacks
+### 4ã€Game of Hacks
 learn or self-test to find the bug <br>
 http://www.gameofhacks.com/ <br>
 
-### 5¡¢Google Gruyere
+### 5ã€Google Gruyere
 For new <br>
 http://google-gruyere.appspot.com/
 
-### 6¡¢HackThis!!
+### 6ã€HackThis!!
 For practice <br>
 https://www.hackthis.co.uk/
 
-### 7¡¢Hack This Site
+### 7ã€Hack This Site
 For practice <br>
 https://www.hackthissite.org/ <br>
 
-### 8¡¢Hellbound Hackers
+### 8ã€Hellbound Hackers
 One of the most biggest community  <br>
 https://www.hellboundhackers.org/  <br>
 
-### 9¡¢McAfee HacMe Sites
+### 9ã€McAfee HacMe Sites
 tools and other  <br>
 https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html <br>
 
-### 10¡¢Mutillidae
+### 10ã€Mutillidae
 A practice sites  <br>
 https://sourceforge.net/projects/mutillidae/ <br>
 
-### 11¡¢OverTheWire
+### 11ã€OverTheWire
 Learn base on game  <br>
 http://overthewire.org/wargames/ <br>
 
-### 12¡¢Peruggia
+### 12ã€Peruggia
 Practice  <br>
 https://sourceforge.net/projects/peruggia/ <br>
 
 
-### 13¡¢Root Me
+### 13ã€Root Me
 Learn, practice and improve  <br>
 https://www.root-me.org/ <br>
 
-### 14¡¢Try2Hack
+### 14ã€Try2Hack
 Practice, one of the most oldest sites.  <br>
 http://www.try2hack.nl  <br>
 
-### 15¡¢Vicnum
+### 15ã€Vicnum
 Learn base on game <br>
 http://vicnum.ciphertechs.com/ <br>
 
-### 16¡¢WebGoat
+### 16ã€WebGoat
 Practice  <br>
 http://webappsecmovies.sourceforge.net/webgoat/
 
-## ¹úÄÚ
+### 17 hacker arise
+hacker-arise learning <br>
+https://www.hackers-arise.com
+## å›½å†…
 
-### 1¡¢i´ºÇï
+### 1ã€iæ˜¥ç§‹
 
-°²È«ÖªÊ¶ÔÚÏßÑ§Ï°Æ½Ì¨ <br>
+å®‰å…¨çŸ¥è¯†åœ¨çº¿å­¦ä¹ å¹³å° <br>
 https://www.ichunqiu.com/main <br>
 
 
-### 2¡¢XCTF_OJ Á·Ï°Æ½Ì¨
+### 2ã€XCTF_OJ ç»ƒä¹ å¹³å°
 
-XCTF-OJ £¨X Capture The Flag Online Judge£©ÊÇÓÉXCTF×éÎ¯»á×éÖ¯¿ª·¢²¢ÃæÏòXCTFÁªÈü²ÎÈüÕßÌá¹©µÄÍøÂç°²È«¼¼Êõ¶Ô¿¹ÈüÁ·Ï°Æ½Ì¨¡£ <br>
-XCTF-OJÆ½Ì¨»ã¼¯¹úÄÚÍâCTFÍøÂç°²È«¾ºÈüµÄÕæÌâÌâ¿â <br>
-Ìá¹©ÈüÌâÖØÏÖ¸´ÅÌÁ·Ï°»·¾³ <br>
+XCTF-OJ ï¼ˆX Capture The Flag Online Judgeï¼‰æ˜¯ç”±XCTFç»„å§”ä¼šç»„ç»‡å¼€å‘å¹¶é¢å‘XCTFè”èµ›å‚èµ›è€…æä¾›çš„ç½‘ç»œå®‰å…¨æŠ€æœ¯å¯¹æŠ—èµ›ç»ƒä¹ å¹³å°ã€‚ <br>
+XCTF-OJå¹³å°æ±‡é›†å›½å†…å¤–CTFç½‘ç»œå®‰å…¨ç«èµ›çš„çœŸé¢˜é¢˜åº“ <br>
+æä¾›èµ›é¢˜é‡ç°å¤ç›˜ç»ƒä¹ ç¯å¢ƒ <br>
 http://oj.xctf.org.cn/web/login/?next=/ <br>
 
 
-### 3¡¢ÍøÂçĞÅÏ¢°²È«¹¥·ÀÑ§Ï°Æ½Ì¨
-°üÀ¨ÌâÓëÁ·Ï°£¬Ä£Äâ <br>
+### 3ã€ç½‘ç»œä¿¡æ¯å®‰å…¨æ”»é˜²å­¦ä¹ å¹³å°
+åŒ…æ‹¬é¢˜ä¸ç»ƒä¹ ï¼Œæ¨¡æ‹Ÿ <br>
 http://hackinglab.cn/index.php <br>
 
 
-## ²Î¿¼À´Ô´£º
+## å‚è€ƒæ¥æºï¼š
 
 
 https://list.ly/list/euz-15-vulnerable-sites-to-legally-practice-your-hacking-skills-2016-update <br>
 15 Vulnerable Sites To (Legally) Practice Your Hacking Skills - 2016 Update | Listly List <br> <br>
 
 http://www.freebuf.com/sectool/4708.html <br>
-[TOP10]Ê®´óÉøÍ¸²âÊÔÑİÁ·ÏµÍ³ - FreeBuf.COM | ¹Ø×¢ºÚ¿ÍÓë¼«¿Í <br> <br>
+[TOP10]åå¤§æ¸—é€æµ‹è¯•æ¼”ç»ƒç³»ç»Ÿ - FreeBuf.COM | å…³æ³¨é»‘å®¢ä¸æå®¢ <br> <br>
 https://www.zhihu.com/question/24740239 <br>
-ÍøÂç¹¥·ÀÆ½Ì¨ÓĞÄÄĞ©£¿ - ÍøÂç°²È« - Öªºõ <br> <br>
+ç½‘ç»œæ”»é˜²å¹³å°æœ‰å“ªäº›ï¼Ÿ - ç½‘ç»œå®‰å…¨ - çŸ¥ä¹ <br> <br>
 
-https://zhuanlan.zhihu.com/p/24624347 ×÷Õß£ºDouglas@°¢Àï¾Û°²È«<br>
+https://zhuanlan.zhihu.com/p/24624347 ä½œè€…ï¼šDouglas@é˜¿é‡Œèšå®‰å…¨<br>
 
