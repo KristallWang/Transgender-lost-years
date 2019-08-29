@@ -2,12 +2,15 @@
 
 We lost the year of growing from a little girl to a woman. We miss our teen-years. So, we have to learn from the beginning.
 我们失去了从小女孩长大的日子。我们错过了青春。所以，我们不得不从头学起。
+私達は少女から大人になるの時代が迷失した、青春がミスした。だから、最初から勉強するなきゃならない。
 
 I said these because we current only have MtF and their couple join this project... And they are trans-lesbian that joining project with their couple...
 这么说是因为目前目前愿意加入的只有MtF和家属…带家属的的基本都是transles…
+そう言えのは、今までグループに参加したのはMtFとご家族たち……家族を連れてきたのはほどんどんトランスレズだけだから……
 
 This repository will begin from all aspects of the transition, including but not limited to Makeup, Skin care, UCSF guidelines, self-HRT in emergencies, etc.
 本项目将会从所有transition的分支入手，包括且不限于化妆护肤，UCSF的guidelines，紧急情况/特殊情况下的自行配药，等等。
+本プロジェクトは全てのtransitionのブランチに手を入れる、化粧やスキンケア　UCSFのガイドライン　緊急状況/特別状況にの薬作り　　　でもかけはない
 
 ## 目录
 
