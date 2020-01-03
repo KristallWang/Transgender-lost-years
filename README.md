@@ -9,6 +9,12 @@ I said these because we current only have MtF and their couple join this project
 This repository will begin from all aspects of the transition, including but not limited to Makeup, Skin care, UCSF guidelines, self-HRT in emergencies, etc.
 本项目将会从所有transition的分支入手，包括且不限于化妆护肤，UCSF的guidelines，紧急情况/特殊情况下的自行配药，等等。
 
+## Warning
+### 麻醉
+请有精神病史的朋友做SRS尽量选择局部麻醉，因为有多起术后精神异常案例。 <br>
+https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
+###医疗建议免责声明
+
 ## 目录
 
 ### [0000, UCSF-Guidelines翻译](0000_UCSF-Guidelines) 
