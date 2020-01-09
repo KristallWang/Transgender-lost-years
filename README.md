@@ -37,9 +37,10 @@ This repository will begin from all aspects of the transition, including but not
 
 ##### [美国|In_US](0001_Education/Oversea/In_US)
 
-> ###### [可以报销HRT/SRS的美国大学的清单 The University that can cover HRT/SRS in US](0001/Oversea/StudyInUS/可以报销HRT&SRS的美国大学的清单.md)
-
+> ###### [可以报销HRT/SRS的美国大学的清单 The University that can cover HRT/SRS in US](0001_Education/Oversea/In_US/可以报销HRT&SRS的美国大学的清单.md)
 > ###### [可以报销医药费的保险公司](0001/Oversea/free-text-book-download.md)
+> ###### [ID-Change-Guild](0001_Education/Oversea/In_US/ID-Change-Guild/)
+
 
 ### [0002, 及时就医！](0002_Medical)
 
