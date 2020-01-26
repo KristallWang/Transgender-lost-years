@@ -2,12 +2,15 @@
 
 We lost the year of growing from a little girl to a woman. We miss our teen-years. So, we have to learn from the beginning.
 我们失去了从小女孩长大的日子。我们错过了青春。所以，我们不得不从头学起。
+若い女の子から育った日々を失いました。 若さを逃した。 ですから、ゼロから学ぶしなければなりません。
 
 I said these because we current only have MtF and their couple join this project... And they are trans-lesbian that joining project with their couple...
 这么说是因为目前目前愿意加入的只有MtF和家属…带家属的的基本都是transles…
+そう言ったのは私たちが現在持っているのはMtFとその恋人だけがこのプロジェクトに参加しているからです...
 
 This repository will begin from all aspects of the transition, including but not limited to Makeup, Skin care, UCSF guidelines, self-HRT in emergencies, etc.
 本项目将会从所有transition的分支入手，包括且不限于化妆护肤，UCSF的guidelines，紧急情况/特殊情况下的自行配药，等等。
+本リポジトリは、メイクアップ、スキンケア、UCSFガイドライン、緊急時の自己HRTなどを含むがこれらに限られない移行のすべての側面から始まります。
 
 ## Warning
 ### 麻醉
@@ -40,9 +43,10 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 
 ##### [美国|In_US](0001_Education/Oversea/In_US)
 
-> ###### [可以报销HRT/SRS的美国大学的清单 The University that can cover HRT/SRS in US](0001/Oversea/StudyInUS/可以报销HRT&SRS的美国大学的清单.md)
-
+> ###### [可以报销HRT/SRS的美国大学的清单 The University that can cover HRT/SRS in US](0001_Education/Oversea/In_US/可以报销HRT&SRS的美国大学的清单.md)
 > ###### [可以报销医药费的保险公司](0001/Oversea/free-text-book-download.md)
+> ###### [ID-Change-Guild](0001_Education/Oversea/In_US/ID-Change-Guild/)
+
 
 ### [0002, 及时就医！](0002_Medical)
 
@@ -148,7 +152,8 @@ https://blog.csdn.net/htwhtw123/article/details/77069581 <br>
 
 
 
-
+------------------------------------------
+**原po联系方式：QQ： 1687120894，加好友请“一定备注GitHub”**
 
 
 
