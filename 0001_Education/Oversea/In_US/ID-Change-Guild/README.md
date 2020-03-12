@@ -11,3 +11,5 @@ https://transequality.org/blog/new-guide-name-and-gender-change-in-new-jersey <b
 # OH
 https://transequality.org/sites/default/files/docs/id/Name%20and%20Gender%20Change%20Guide%20%28Adults%29%20%28December%202017%29%20-%20for%20website%20%28002%29.pdf <br>
 
+填完下面表格找医生再填剩下的部分，然后邮寄到里面的地址
+https://publicsafety.ohio.gov/links/bmv2369.pdf
