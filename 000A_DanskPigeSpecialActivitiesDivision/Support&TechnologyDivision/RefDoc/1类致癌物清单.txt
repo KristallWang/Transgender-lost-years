@@ -1,0 +1,127 @@
+序号	英文名称	中文名称	确定时间（年）
+1	Acetaldehyde associated with consumption of alcoholic beverages	随酒精饮料摄入的乙醛	2012
+2	Acheson process, occupational exposure associated with	艾其逊法(用焦炭和粘土混合加热制造石墨的工业方法)，职业暴露相关	2017
+3	Acid mists, strong inorganic	强无机酸雾	2012
+4	Aflatoxins	黄曲霉毒素	2012
+5	Alcoholic beverages	酒精饮料	2012
+6	Aluminium production	铝产品	2012
+7	4-Aminobiphenyl	4-氨基联苯	2012
+8	Areca nut	槟榔果	2012
+9	Aristolochic acid	马兜铃酸	2012
+10	Aristolochic acid, plants containing	包含马兜铃酸的植物	2012
+11	Arsenic and inorganic arsenic compounds	砷和无机砷化合物	2012
+12	Asbestos (all forms, including actinolite, amosite, anthophyllite, chrysotile, crocidolite, tremolite)	铁石棉,石棉(各种形式,包括阳起石直闪石,温石棉,青石棉、透闪石)	2012
+13	Auramine production	金胺制造	2012
+14	Azathioprine	硫唑嘌呤	2012
+15	Benzene	苯	2012
+16	Benzidine	对二氨基联苯	2012
+17	Benzidine, dyes metabolized to	联苯胺、染料代谢	2012
+18	Benzo[ a ]pyrene	苯并芘	2012
+19	Beryllium and beryllium compounds	铍和铍化合物	2012
+20	Betel quid with tobacco	含烟草的槟榔嚼块	2012
+21	Betel quid without tobacco	不含烟草的槟榔嚼块	2012
+22	Bis(chloromethyl)ether; chloromethyl methyl ether (technical-grade)	二氯甲基醚;一氯甲基醚(技术等级)	2012
+23	Busulfan	白消安	2012
+24	1,3-Butadiene	1,3-丁二烯	2012
+25	Cadmium and cadmium compounds	镉及镉化合物	2012
+26	Chlorambucil	苯丁酸氮芥	2012
+27	Chlornaphazine	萘氮芥	2012
+28	Chromium (VI) compounds	铬(VI)化合物	2012
+29	Ciclosporin	环孢素	2012
+30	Clonorchis sinensis (infection with)	华支睾吸虫(感染)	2012
+31	Coal gasification	煤的气化	2012
+32	Coal, indoor emissions from household combustion of	家庭燃烧的煤,室内排放	2012
+33	Coal-tar distillation	煤焦油蒸馏	2012
+34	Coal-tar pitch	煤焦油沥青	2012
+35	Coke production	焦炭制造	2012
+36	Cyclophosphamide	环磷酰胺	2012
+37	Cyclosporine	环孢霉素	2012
+38	1,2-Dichloropropane	1,2-二氯丙烷	2016
+39	Diethylstilbestrol	己烯雌酚	2012
+40	Engine exhaust, diesel	发动机排放、柴油	2013
+41	Epstein-Barr virus	巴尔病毒	2012
+42	Erionite	毛沸石	2012
+43	Estrogen therapy, postmenopausal	雌激素治疗绝经后	2012
+44	Estrogen-progestogen menopausal therapy (combined)	雌激素-孕激素更年期治疗(联合)	2012
+45	Estrogen-progestogen oral contraceptives (combined)	雌激素-孕激素口服避孕药(组合)	2012
+46	Ethanol in alcoholic beverages	酒精饮料中的乙醇	2012
+47	Ethylene oxide	环氧乙烷	2012
+48	Etoposide	依托泊苷	2012
+49	Etoposide in combination with cisplatin and bleomycin	依托泊苷结合顺铂和博来霉素	2012
+50	Fission products, including strontium-90	裂变产物,包括锶- 90	2012
+51	Fluoro-edenite fibrous amphibole	氟代-浅闪石纤维角闪石	2017
+52	Formaldehyde	甲醛,福尔马林	2012
+53	Haematite mining (underground)	赤铁矿矿业(地下)	2012
+54	<i>Helicobacter pylori</i> (infection with)	幽门螺杆菌(感染)	2012
+55	Hepatitis B virus (chronic infection with)	乙型肝炎病毒(慢性感染)	2012
+56	Hepatitis C virus (chronic infection with)	丙型肝炎病毒(慢性感染)	2012
+57	Human immunodeficiency virus type 1 (infection with)	人类免疫缺陷病毒I型(感染)	2012
+58	Human papillomavirus types 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59	人类乳头瘤病毒类型16,18,31,33,35,39,45,51,52,56,58,59	2012
+59	Human T-cell lymphotropic virus type I	人类T淋巴细胞病毒I型	2012
+60	Ionizing radiation (all types)	电离辐射(所有类型)	2012
+61	Iron and steel founding (occupational exposure during)	钢铁铸造(职业暴露)	2012
+62	Isopropyl alcohol manufacture using strong acids	使用强酸生产异丙醇	2012
+63	Kaposi sarcoma herpesvirus	卡波济肉瘤疱疹病毒	2012
+64	Leather dust	皮革尘埃	2012
+65	Magenta production	品红制造	2012
+66	Melphalan	美法仑	2012
+67	Methoxsalen (8-methoxypsoralen) plus ultraviolet A radiation	甲氧沙林
+甲氧补骨脂素
+
+花椒毒素
+
++紫外线辐射
+
+2012
+68	Methyl-CCNU	甲基环已亚硝脲	2012
+69	4,4'-Methylenebis(2-chloroaniline) (MOCA)	4,4'-亚甲基(2-氯苯胺)	2012
+70	Mineral oils, untreated or mildly treated	矿物油,未经处理或温和治疗	2012
+71	MOPP and other combined chemotherapy including alkylating agents	MOPP（氮芥、长春新碱、甲基苄肼、强的松）和其他联合化疗包括烷化剂	2012
+72	2-Naphthylamine	2-萘胺	2012
+73	Neutron radiation	中子辐射	2012
+74	Nickel compounds	镍化合物	2012
+75	N'-Nitrosonornicotine (NNN) and 4-(N-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone (NNK)	亚硝基降烟碱，亚硝胺	2012
+76	Opisthorchis viverrini(infection with)	泰国肝吸虫（麝猫后睾吸虫、香猫肝吸虫）(感染)	2012
+77	Outdoor air pollution	室外空气污染	2016
+78	Outdoor air pollution, particulate matter in	室外空气污染,颗粒物	2016
+79	Painter (occupational exposure as a)	画家(职业暴露)	2012
+80	3,4,5,3’,4’-Pentachlorobiphenyl (PCB-126)	多氯联苯	2012
+81	2,3,4,7,8-Pentachlorodibenzofuran	多氯二苯并呋喃	2012
+82	Phenacetin	非那西汀	2012
+83	Phenacetin, analgesic mixtures containing	非那西汀,包含止痛剂混合物	2012
+84	Phosphorus-32, as phosphate	磷-32，磷酸	2012
+85	Plutonium	钚	2012
+86	Polychlorinated biphenyls	多氯联苯	2016
+87	Polychlorinated biphenyls, dioxin-like, with a Toxicity Equivalency Factor (TEF) according to WHO (PCBs 77, 81, 105, 114, 118, 123, 126, 156, 157, 167, 169, 189)	类二恶英多氯联苯,毒性等价系数(TEF)取自WHO(多氯联苯77,77,81,77,81,123,126,156,157,167,169,189)	2016
+88	Radioiodines, including iodine-131	放射性碘,包括碘- 131	2012
+89	Radionuclides, alpha-particle-emitting, internally deposited	放射性核素,α粒子放射,内部沉积	2012
+90	Radionuclides, beta-particle-emitting, internally deposited	放射性核素,β粒子放射,内部沉积	2012
+91	Radium-224 and its decay products	镭- 224及其衰变产物	2012
+92	Radium-226 and its decay products	镭- 226及其衰变产物	2012
+93	Radium-228 and its decay products	镭- 228及其衰变产物	2012
+94	Radon-222 and its decay products	氡- 222及其衰变产物	2012
+95	Rubber manufacturing industry	橡胶制造业	2012
+96	Salted fish, Chinese-style	中国式咸鱼	2012
+97	Semustine [1-(2-Chloroethyl)-3-(4-methylcyclohexyl)-1-nitrosourea, Methyl-CCNU]	司莫司丁(甲基环己亚硝脲)	2012
+98	Shale oils	页岩油	2012
+99	Silica dust, crystalline, in the form of quartz or cristobalite	二氧化硅粉尘、水晶、石英、方石英的形式	2012
+100	Solar radiation	太阳辐射	2012
+101	Soot (as found in occupational exposure of chimney sweeps)	烟尘(发现于烟囱清洁工的职业暴露)	2012
+102	Sulfur mustard	硫芥	2012
+103	Tamoxifen	它莫西芬	2012
+104	2,3,7,8-Tetrachlorodibenzo-para-dioxin	四氯双苯环二噁英(TCDD)	2012
+105	Thiotepa	三胺硫磷	2012
+106	Thorium-232 and its decay products	钍- 232及其衰变产物	2012
+107	Tobacco smoke, second-hand	吸二手烟	2012
+108	Tobacco smoking	吸烟	2012
+109	Tobacco, smokeless	无烟烟草	2012
+110	ortho-Toluidine	邻甲苯胺	2012
+111	Treosulfan	苏消安
+曲奥舒凡
+
+2012
+112	Trichloroethylene	三氯乙烯	2014
+113	Ultraviolet-emitting tanning devices	紫外线放射日光浴设备	2012
+114	Vinyl chloride	氯乙烯	2012
+115	Wood dust	木粉	2012
+116	X- and Gamma-Radiation	X、γ辐射
