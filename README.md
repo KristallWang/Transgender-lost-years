@@ -20,8 +20,8 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 
 ## 目录
 
-### [0000, UCSF-Guidelines翻译](0000_UCSF-Guidelines) 
-> ##### [关于|Readme](0000_UCSF-Guidelines/README.md)
+### [0000, UCSF_Guidelines翻译](0000_UCSF-Guidelines) 
+> ##### [关于|Readme](0000_UCSF_Guidelines/README.md)
 
 > ##### [UCSF-关于跨性别者和性别非二元人群的初级性别肯定护理指南|Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People](0000_UCSF-Guidelines/UCSF-Transgender-PGACG-6-17-16-译文.pdf)
 
