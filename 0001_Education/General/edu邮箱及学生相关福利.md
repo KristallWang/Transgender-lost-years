@@ -151,6 +151,8 @@ Graduate Students 研究生会员 $39 per year <br>
 
 ## 原文及部分参考，慢慢移植。。
 反正注册啥跟钱有关的新网站先用.edu邮箱，搞不好有隐形福利 <br> <br>
+https://m.dealmoon.com/cn/summary-student-discounts/1989685.html 低至4折 部分可叠加使用 超过50个商家学生折扣汇总，edu邮箱和学生ID省钱秘笈 <br>
+
 
 http://m.blog.sina.com.cn/s/blog_e71e7c970102wc17.html#page=1 <br>
 https://www.zhihu.com/question/25834623 <br>
