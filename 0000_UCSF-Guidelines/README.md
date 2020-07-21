@@ -17,9 +17,10 @@ We are proud to present these Guidelines for the Primary and Gender-Affirming Ca
 
 ---
 
-#### 内部工作文档
+#### 内部工作文档 internal working document
 
 协作翻译Word文件：
+
 [https://1drv.ms/w/s!AkV2pL6mFSXGiWcEAE7vFZ1FmTua](https://1drv.ms/w/s!AkV2pL6mFSXGiWcEAE7vFZ1FmTua)
 
 原始PDF文件：
