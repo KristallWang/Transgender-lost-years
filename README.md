@@ -14,7 +14,7 @@ This repository will begin from all aspects of the transition, including but not
 
 ## Warning
 ### 麻醉
-请有精神病史的朋友做SRS尽量选择局部麻醉，因为有多起术后精神异常案例。 <br>
+请有精神病史的朋友做SRS谨慎考虑全身麻醉，因为有多起术后精神异常案例。 <br>
 https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 ###医疗建议免责声明
 
