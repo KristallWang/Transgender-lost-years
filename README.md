@@ -16,7 +16,7 @@ This repository will begin from all aspects of the transition, including but not
 ### 麻醉
 请有精神病史的朋友做SRS谨慎考虑全身麻醉，因为有多起术后精神异常案例。 <br>
 https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
-###医疗建议免责声明
+### 医疗建议免责声明
 
 ## 目录
 
@@ -56,6 +56,7 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 
 > ##### [目前可以诊断并且给出异性症证明的医生及医院](0002_Medical/Medical_Resources/目前与易性症有关的医生及医院.md) 
 
+> ##### [医生问诊反馈专区](https://github.com/Kristall-WangShiwei/Transgender-lost-years/issues/40)
 #### [翻译文献|Translated File](0002_Medical/Translated_File)
 
 > ##### [UCSF-关于跨性别者和性别非二元人群的初级性别肯定护理指南|Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People](0002_Medical/Translated_File/UCSF-Transgender-PGACG-6-17-16-译文.pdf)
