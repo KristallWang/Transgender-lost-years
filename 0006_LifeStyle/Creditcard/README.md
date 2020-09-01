@@ -17,7 +17,7 @@ SSN is required <br>
 ## 中国大陆-China Mainland
 中国大陆申请信用卡需要工作，包括就职证明
 
-## 香港地区
+## 香港地区 Hongkong S.A.R.
 
 ## 日本
 
