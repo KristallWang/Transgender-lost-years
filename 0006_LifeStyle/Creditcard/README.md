@@ -4,6 +4,11 @@
 原始资料多来自美国信用卡指南 <br>
 https://www.uscreditcardguide.com/zh/ <br>
 https://www.uscreditcardguide.com/en/ <br>
+### New User Guide 新手指南
+https://www.uscreditcardguide.com/a-guide-for-beginners/ <br>
+https://www.uscreditcardguide.com/category/beginners-guide/ <br>
+### 长期持有信用卡推荐
+https://www.uscreditcardguide.com/best-credit-cards-to-keep/
 ### Amex
 SSN is not necessary, but credit history is necessary <br>
 SSN不是必须，但是必须具有美国信用记录
