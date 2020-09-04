@@ -1,5 +1,8 @@
+# Libgen
 http://gen.lib.rus.ec/ <br>
-https://libgen.pw/ <br>
+https://libgen.rs/ <br>
+
+# Other
 https://archive.org/ <br>
 http://www.en8848.com.cn/soft/ <br>
 https://bookfere.com/ebook <br>
@@ -20,6 +23,8 @@ http://www.kindlefere.com/ <br>
 http://www.manybooks.net/ <br>
 http://www.qumran.com/ <br>
 http://oxingtui.com/other/resource.htm <br> <br> <br> <br>
-Reference: http://www.zhihu.com/question/21253522 <br>
+
+# Reference: 
+http://www.zhihu.com/question/21253522 <br>
 
 
