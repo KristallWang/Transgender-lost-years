@@ -22,5 +22,5 @@ https://github.com/Kristall-WangShiwei/Transgender-lost-years/raw/master/0000_UC
 
 [https://1drv.ms/w/s!AkV2pL6mFSXGiWcEAE7vFZ1FmTua](https://1drv.ms/w/s!AkV2pL6mFSXGiWcEAE7vFZ1FmTua)
 
-原始PDF文件(Originak PDF File)：
-[http://transhealth.ucsf.edu/pdf/Transgender-PGACG-6-17-16.pdf](http://transhealth.ucsf.edu/pdf/Transgender-PGACG-6-17-16.pdf)
+原始PDF文件(Original PDF File)：
+[https://transcare.ucsf.edu/guidelines](https://transcare.ucsf.edu/guidelines)
