@@ -20,7 +20,7 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 
 ## 目录
 
-### [0000 UCSF_Guidelines翻译](0000_UCSF-Guidelines) 
+### [0000 UCSF Guidelines 翻译](0000_UCSF-Guidelines)
 - [关于 | Readme](0000_UCSF_Guidelines/README.md)
 
 - [UCSF-关于跨性别者和性别非二元人群的初级性别肯定护理指南 | Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People](0000_UCSF-Guidelines/UCSF-Transgender-PGACG-6-17-16-译文.pdf)
@@ -39,13 +39,13 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 
 - [澳洲 | In Australia](0001_Education/Oversea/In_Australia)
 
-  - [澳大利亚的银联刷卡攻略 | Union-pay_in_Australia](0001_Education/Oversea/In_Australia/澳大利亚的银联支付攻略.md) 
+  - [澳大利亚的银联刷卡攻略 | Union-pay in Australia](0001_Education/Oversea/In_Australia/澳大利亚的银联支付攻略.md)
 
-- [美国 | In US](0001_Education/Oversea/In_US)
+- [美国 | In the US](0001_Education/Oversea/In_US)
 
-  - [可以报销HRT/SRS的美国大学的清单 The University that can cover HRT/SRS in US](0001_Education/Oversea/In_US/可以报销HRT&SRS的美国大学的清单.md)
+  - [可以报销HRT/SRS的美国大学的清单 | The University that can cover HRT/SRS in the US](0001_Education/Oversea/In_US/可以报销HRT&SRS的美国大学的清单.md)
   - [可以报销医药费的保险公司](0001_Education/Oversea/In_US/insurance_instruction.md)
-  - [ID-Change-Guild](0001_Education/Oversea/In_US/ID-Change-Guide/)
+  - [ID Change Guide](0001_Education/Oversea/In_US/ID-Change-Guide/)
 
 ### [0002 及时就医！](0002_Medical)
 
