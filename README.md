@@ -33,7 +33,7 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 
 > ##### [信用卡|Credit Card](0001_Education/General/credit-card.md)
 
-> ##### [免费教科书下载|Free Text Book Download](0001_Education/General/Free_Text_Book_Download)
+> ##### [免费教科书下载|Free Text Book Download](0001_Education/General/Free_Text_Book_Download.md)
 
 #### [海外](0001_Education/Oversea)
 
@@ -44,8 +44,8 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 ##### [美国|In_US](0001_Education/Oversea/In_US)
 
 > ###### [可以报销HRT/SRS的美国大学的清单 The University that can cover HRT/SRS in US](0001_Education/Oversea/In_US/可以报销HRT&SRS的美国大学的清单.md)
-> ###### [可以报销医药费的保险公司](0001/Oversea/free-text-book-download.md)
-> ###### [ID-Change-Guild](0001_Education/Oversea/In_US/ID-Change-Guild/)
+> ###### [可以报销医药费的保险公司](0001_Education/Oversea/In_US/insurance_instruction.md)
+> ###### [ID-Change-Guild](0001_Education/Oversea/In_US/ID-Change-Guide/)
 
 
 ### [0002, 及时就医！](0002_Medical)
@@ -54,7 +54,7 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 
 > ##### [目前与性别认同相关的医疗资源列表|Medical Resources Related to Gender Identity](0002_Medical/Medical_Resources/目前与性别认同相关的医疗资源列表.md)
 
-> ##### [目前可以诊断并且给出异性症证明的医生及医院](0002_Medical/Medical_Resources/目前与易性症有关的医生及医院.md) 
+<!-- ##### [目前可以诊断并且给出异性症证明的医生及医院](0002_Medical/Medical_Resources/目前与易性症有关的医生及医院.md) -->
 
 > ##### [医生问诊反馈专区](https://github.com/Kristall-WangShiwei/Transgender-lost-years/issues/40)
 #### [翻译文献|Translated File](0002_Medical/Translated_File)
@@ -89,10 +89,11 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 > ##### [关于|Readme](0005_BookTranslating/README.md)
 
 #### [伪声教程](0005_BookTranslating/weisheng)
-##### [日本-女の子の声-感谢佐仓奈绪的翻译](0005_BookTranslating/weishengnv-zi-sheng)
+##### [日本-女の子の声-感谢佐仓奈绪的翻译](0005_BookTranslating/weisheng/nv-zi-sheng)
 
-### [0006,]()
+### [0006, 生活方式](0006_LifeStyle)
 
+<!--
 ### [0007,]() 
 
 ### [0008,]()
@@ -102,14 +103,15 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 ### [0010,]()
 
 ### [0011,]()
+-->
 
-### [0012,Recover_From_Depression](0012_Recover_From_Depression)
+### [0012, 抑郁症康复指南](0012_Recover_From_Depression)
 
 > ##### [1](0012_Recover_From_Depression/1.md)
 
 > ##### [关于|Readme](0012_Recover_From_Depression/README.md)
 
-### [000A, DanskPige特别行动科](000A_DanskPigeSpecialGrope) 
+### [000A, DanskPige特别行动科](000A_DanskPigeSpecialActivitiesDivision) 
 
 ### [0014, 研究与开发](0014_ResearchDevelopment) 
 
@@ -131,7 +133,7 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 
 #### [皮肤护理|Skin_Care](0014_ResearchDevelopment/Skin_Care)
 
-### [0015, electron](0015electron)
+### [0015, 电子电路相关](0015_Electronic)
 这个文件夹包含需要的各种电路和相关资源，如脱毛、小玩具等。
 
 
