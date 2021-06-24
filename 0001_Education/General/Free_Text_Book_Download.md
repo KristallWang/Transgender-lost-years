@@ -22,7 +22,7 @@ http://www.hathitrust.org/ <br>
 http://www.kindlefere.com/ <br>
 http://www.manybooks.net/ <br>
 http://www.qumran.com/ <br>
-http://oxingtui.com/other/resource.htm <br> <br> 
+~~(http://oxingtui.com/other/resource.htm)~~ <br> <br> 
 
 site:pan.baidu.com+ È√˚ (In Google)<br>
 http://vdisk.weibo.com/  <br>
@@ -30,9 +30,9 @@ http://d.dxy.cn/ <br>
 http://ziyuan.iiyi.com/ <br>
 http://guide.medlive.cn/ <br> <br>
 
-http://en.bookfi.org/ <br>
+~~(http://en.bookfi.org/)~~ <br>
 http://www.4shared.com/ <br>
-http://btbook.net/ <br>
+~~(http://btbook.net/)~~ <br>
 
 # Reference: 
 http://www.zhihu.com/question/21253522 <br>
