@@ -142,4 +142,7 @@ QQ： 1687120894，加好友请**一定备注 GitHub**
 - [跨性别在线](https://www.transonline.org.cn/)
 - https://zh.transpedia.wiki/
 - [shizu的HRT相关资料](https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA/edit#slide=id.p1)
+- https://github.com/tfsci-sc/articles
+- https://github.com/gdb-sc/GenderDysphoria.fyi
+- https://github.com/GenderDysphoria/GenderDysphoria.fyi
 
