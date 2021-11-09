@@ -7,33 +7,33 @@ Amherst College  <br>
 Babson College  <br>
 Bowdoin College  <br>
 Brown University  <br>
-California Institute of Technology  <br>
-Carnegie Mellon University <br>
+[California Institute of Technology](caltech.edu)<br>
+[Carnegie Mellon University](cmu.edu) <br>
 Case Western University <br>
 Colorado State University <br>
 The College of New Jersey  <br>
 Connecticut College  <br>
-Cornell University  <br>
-Dartmouth College <br>
-Duke University <br>
+[Cornell University](cornell.edu)  <br>
+[Dartmouth College](dartmouth.edu) <br>
+[Duke University](duke.edu) <br>
 Emerson College <br>
-Emory University  <br>
-Harvard University <br>
+[Emory University](emory.edu)  <br>
+[Harvard University](harvard.edu)<br>
 Johns Hopkins University <br>
 Kean University  <br>
 Montclair State University <br>
 Mount Holyoke College  <br>
 New York University  <br>
-Northeastern University <br>
+[Northeastern University](Northeastern.edu) <br>
 Northern Arizona University <br>
 Northwestern University <br>
-Ohio State University  <br>
-Ohio University (Proper healthcare is reserved for the graduate students only)（仅限研究生能享受医保，高中生申请本科别掉坑里了） <br>
+[Ohio State University](osu.edu)  <br>
+[Ohio University](ohio.edu) (Proper healthcare is reserved for the graduate students only)（仅限研究生能享受医保，高中生申请本科别掉坑里了） <br>
 Oregon State University  <br>
 Pace University  <br>
 Pennsylvania State University  <br>
 Portland State University  <br>
-Princeton University  <br>
+[Princeton University](princeton.edu) <br>
 Purdue University <br>
 Rowan University  <br>
 Rutgers University  <br>
