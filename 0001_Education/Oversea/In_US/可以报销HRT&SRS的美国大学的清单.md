@@ -9,7 +9,7 @@ Bowdoin College  <br>
 Brown University  <br>
 [California Institute of Technology](caltech.edu)<br>
 [Carnegie Mellon University](cmu.edu) <br>
-Case Western University <br>
+[Case Western Reserve University](case.edu) <br>
 Colorado State University <br>
 The College of New Jersey  <br>
 Connecticut College  <br>
