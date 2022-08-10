@@ -1,7 +1,8 @@
 # Avoid unnecessary tax legally
 
 ## US Tax
-https://www.uscreditcardguide.com/category/tax-guide/ <br>
-https://www.uscreditcardguide.com/discover-1099-misc/ <br>
-¶ÔÓÚÁôÑ§ÉúÀ´Ëµ£¬Èç¹ûÃ»ÓĞÈÎºÎÃÀ¹úÊÕÈëÈç½±Ñ§½ğ£¬¼´Ã»ÓĞÔÚÃÀ¹ú establish tax home£¬ÔòÄÄÅÂ³¬¹ı183ÌìÒ²²»Ğè½»×Ê±¾ÀûµÃË°¡£ÁíÍâ×Ê±¾ËğÊ§ÊÇÃ»·¨ÓÃÀ´µÖ¿ÛµÄ¡£
 
+- <https://www.uscreditcardguide.com/category/tax-guide/>
+- <https://www.uscreditcardguide.com/discover-1099-misc/>
+
+å¯¹äºç•™å­¦ç”Ÿæ¥è¯´ï¼Œå¦‚æœæ²¡æœ‰ä»»ä½•ç¾å›½æ”¶å…¥å¦‚å¥–å­¦é‡‘ï¼Œå³æ²¡æœ‰åœ¨ç¾å›½ Establish Tax Homeï¼Œåˆ™å“ªæ€•è¶…è¿‡ 183 å¤©ä¹Ÿä¸éœ€äº¤èµ„æœ¬åˆ©å¾—ç¨ã€‚å¦å¤–èµ„æœ¬æŸå¤±æ˜¯æ²¡æ³•ç”¨æ¥æŠµæ‰£çš„ã€‚

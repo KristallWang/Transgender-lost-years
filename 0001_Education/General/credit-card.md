@@ -1,44 +1,56 @@
-¹ØÓÚÐÅÓÃ¿¨Ð´µã¶«Î÷¡­
--------------------------------
-¶ÔÓÚTransÀ´Ëµ£¬×Ü»áÓÐÒ»Ð©Ïû·ÑÊÇ²»Ïë±»¼Ò³¤ÖªµÀµÄ£¬ <br>
-ÓÚÊÇ£¬ÈçÏÂÐÅÓÃ¿¨¿ÉÒÔÔÚÎÞSSNºÍÐÅÓÃ¼ÇÂ¼µÄÇé¿öÏÂ°ìÀí <br>
-BoA Cash/Travel Reward£¨¶íº¥¶íµÄÍ¬Ñ§Çë×Ô¶¯ºöÂÔ£¬ÒòÎªÕû¸öÖÝ¶¼¼¸ºõÃ»ÓÐBoA£©£¨°ìÐÅÓÃ¿¨ÏÈ´æ¿î£¬±ØÐëÃæÉê£© <br>
-Citibank Thankyou Preferred for College Student£¨Ó°ÏìÆäËû¿¨¿ª¿¨½±Àø£© <br>
-Selfscore £¨Ö»ÄÜÁôÑ§ÉúÉêÇëµÄÐÅÓÃ¿¨£© <br>
-¹¤ÉÌÒøÐÐÃÀ¹ú£¨ÎÄ¼þÉÏ±ê×¢£º¸ù¾Ý¶íº¥¶í·¨ÂÉ£¬´óÒâÊÇÒøÐÐÒªÏòËùÓÐÈËÌá¹©ÐÅ´û·þÎñ£¬Ï£ÍûÎÒ±ð¿´×ßÑÛ£© <br>
-È»ºóÊÇ¸÷ÖÖ¡­ <br>
-[ÃÀµÛÐÅÓÃ¿¨¶çÊÖÖ¸ÄÏ(1)¡ª¡ª»ù´¡ÈëÃÅ](https://www.uscreditcardguide.com/meidixinyongkaduoshouzhinan-1/) <br>
-[±¾¿ÆÉúË¶Ê¿ÉúÒ²¿ÉÒÔÍæ¿¨£¡Ã»ÓÐSSN¾Í¿ÉÒÔ°ìµÄÐÅÓÃ¿¨Ò»ÀÀ¡¾2017Äê¸üÐÂ¡¿](https://www.uscreditcardguide.com/credit-cards-without-ssn/) <br>
-[¡¾ÐÂÊÖ±Ø¶Á¡¿ÃÀ¹úÐÅÓÃ¿¨ÐÂÊÖÈëÃÅ¹¥ÂÔ¡¾2018Äê¸üÐÂ¡¿](https://www.uscreditcardguide.com/a-guide-for-beginners/) <br>
-ºÃÁË¸÷Î»×Ô¼º¶ÁÈ¥°É¡­ÔÙ¶àËµ»áÓÐ°æÈ¨ÎÊÌâ¡­ <br>
-»°Ëµ²»Ð´¸É»õ»ëÉíÄÑÊÜÊÇ²¡Âð¡­ <br>
+# å…³äºŽä¿¡ç”¨å¡å†™ç‚¹ä¸œè¥¿â€¦
 
-ÆäËû¹ú¼ÒµÄ
-----------------
-[¡¾·¬ÍâÆª¡¿¼ÓÄÃ´óÐÅÓÃ¿¨Ö¸ÄÏ](https://www.uscreditcardguide.com/canadian-credit-card-guide/) <br>
-[¼ÓÄÃ´óÐÅÓÃ¿¨Ö¸ÄÏ](https://canadacreditcardguide.com/) (ÒÑÊ§Ð§) <br> <br> <br>
-ÖÐ¹ú¹¤ÉÌÒøÐÐÄµµ¤¹ú¼Ê½è¼Ç¿¨£¨visa£©Ö»ÄÜÏßÏÂÊ¹ÓÃ£¬µç»°²éÑ¯½á¹ûÊÇÔÝÊ±²»ÄÜÓÃÓÚÃÀ¹úÑÇÂíÑ·µÈÍøÕ¾µÄÍøÉÏÖ§¸¶ <br>
-µ«ÊÇÎÒ·¢ÏÖÁËÕâ¸ö£º <br>
-[Í¼ÎÄ²¢Ã¯½²ÊöÄµµ¤¹ú¼Ê½è¼Ç¿¨visaÍøÉÏÉÌ»§Ö§¸¶--É¨Ã¤Ìù - ¹¤ÐÐÐÅÓÃ¿¨×¨Çø - ÐÅÓÃ¿¨ÂÛÌ³-ÎÒ°®¿¨»áÔ±ÉçÇø-ÖÐ¹ú¸ü´ó¸üÈ¨ÍþµÄÐÅÓÃ¿¨ÂÛÌ³](https://bbs.51credit.com/thread-730703-1-1.html) <br>
-ËùÒÔ¡­»ØÍ·¿ªÁËÍøÒøÎÒ²âÊÔÒ»ÏÂ <br>
-ÔÚÃÀÇé¿ö£ºÑ§Ð£µÄstudents health center²»ÖªÎªºÎ¿ÉÒÔÕý³£ÔÚÏßÖ§¸¶ <br> <br>
-¸ÐÐ» <br>
-@ÐÁÐÀ <br>
-²¹³ä£º <br>
-²¹Ò»¾ä¹ØÓÚ´Ó¹úÄÚ´òÇ®µ½ÃÀ¹úµÄ£¬¿ÉÒÔ¿ª¸ö¹¤ÒøÃÀ¹úµÄÒøÐÐÕË»§£¬´Ó¹úÄÚ¹¤ÐÐÓÃÊÖÒø»ã¿î£¬ÊÖÐø·Ñ0£¬ÂäµØ·ÑÒ²Ã»ÓÐ¡£ <br>
-±¾ÈË´ÓÊÂÍâÃ³£¬¶ÔÓÚ¿ç¾³»ã¿î£¬²È¹ýÒ»´ó¶Ñ¿ÓÁË¡­ <br>
-BoAµÄÐÅÓÃ¿¨£¬°×»§ÓÐÌõ¼þµÄ»°¿ÉÒÔ°á1×©Ö±½ÓÏÂ <br>
-ÖÐ¹úÒøÐÐÌá¹©ÁôÑ§Éú°ìÐÅÓÃ¿¨µÄ·þÎñ£¬µ«ÊÇÐèÒª¼Ò³¤Ìîµ£±£µ¥£¬Ê®ÓÐ°Ë¾Å¼Ò³¤ÊÇ²»Í¬ÒâµÄ <br>
-È»ºóÖÐ¹úÒøÐÐÒ²ÓÐvisa½è¼Ç¿¨£¬µ«ÊÇÈ¥Ö®Ç°ÒªÏÈ´øÉÏ20ÃÀÔª´æÈëÕË»§ <br>
-¸øÁôÑ§ÉúµÄ¿¨ÊÇÖÐ¹úÒøÐÐ³¤³Ç¹ú¼ÊÐÅÓÃ¿¨×Ó²úÆ·£¬ <br>
-µ£±£µ¥£º <br>
+å¯¹äºŽ Trans æ¥è¯´ï¼Œæ€»ä¼šæœ‰ä¸€äº›æ¶ˆè´¹æ˜¯ä¸æƒ³è¢«å®¶é•¿çŸ¥é“çš„ï¼ŒäºŽæ˜¯ï¼Œå¦‚ä¸‹ä¿¡ç”¨å¡å¯ä»¥åœ¨æ—  SSN å’Œä¿¡ç”¨è®°å½•çš„æƒ…å†µä¸‹åŠžç†
+
+BoA Cash/Travel Rewardï¼ˆä¿„äº¥ä¿„çš„åŒå­¦è¯·è‡ªåŠ¨å¿½ç•¥ï¼Œå› ä¸ºæ•´ä¸ªå·žéƒ½å‡ ä¹Žæ²¡æœ‰ BoAï¼‰ï¼ˆåŠžä¿¡ç”¨å¡å…ˆå­˜æ¬¾ï¼Œå¿…é¡»é¢ç”³ï¼‰
+
+Citibank Thankyou Preferred for College Studentï¼ˆå½±å“å…¶ä»–å¡å¼€å¡å¥–åŠ±ï¼‰
+
+Selfscore ï¼ˆåªèƒ½ç•™å­¦ç”Ÿç”³è¯·çš„ä¿¡ç”¨å¡ï¼‰
+
+å·¥å•†é“¶è¡Œç¾Žå›½ï¼ˆæ–‡ä»¶ä¸Šæ ‡æ³¨ï¼šæ ¹æ®ä¿„äº¥ä¿„æ³•å¾‹ï¼Œå¤§æ„æ˜¯é“¶è¡Œè¦å‘æ‰€æœ‰äººæä¾›ä¿¡è´·æœåŠ¡ï¼Œå¸Œæœ›æˆ‘åˆ«çœ‹èµ°çœ¼ï¼‰
+
+ç„¶åŽæ˜¯å„ç§â€¦
+
+- [ç¾Žå¸ä¿¡ç”¨å¡å‰æ‰‹æŒ‡å—(1)â€”â€”åŸºç¡€å…¥é—¨](https://www.uscreditcardguide.com/meidixinyongkaduoshouzhinan-1/)
+- [æœ¬ç§‘ç”Ÿç¡•å£«ç”Ÿä¹Ÿå¯ä»¥çŽ©å¡ï¼æ²¡æœ‰ SSN å°±å¯ä»¥åŠžçš„ä¿¡ç”¨å¡ä¸€è§ˆã€2017 å¹´æ›´æ–°ã€‘](https://www.uscreditcardguide.com/credit-cards-without-ssn/)
+- [ã€æ–°æ‰‹å¿…è¯»ã€‘ç¾Žå›½ä¿¡ç”¨å¡æ–°æ‰‹å…¥é—¨æ”»ç•¥ã€2018 å¹´æ›´æ–°ã€‘](https://www.uscreditcardguide.com/a-guide-for-beginners/)
+
+å¥½äº†å„ä½è‡ªå·±è¯»åŽ»å§â€¦å†å¤šè¯´ä¼šæœ‰ç‰ˆæƒé—®é¢˜â€¦
+
+è¯è¯´ä¸å†™å¹²è´§æµ‘èº«éš¾å—æ˜¯ç—…å—â€¦
+
+## å…¶ä»–å›½å®¶çš„
+
+- [ã€ç•ªå¤–ç¯‡ã€‘åŠ æ‹¿å¤§ä¿¡ç”¨å¡æŒ‡å—](https://www.uscreditcardguide.com/canadian-credit-card-guide/)
+- [åŠ æ‹¿å¤§ä¿¡ç”¨å¡æŒ‡å—](https://canadacreditcardguide.com) (å·²å¤±æ•ˆ)
+
+ä¸­å›½å·¥å•†é“¶è¡Œç‰¡ä¸¹å›½é™…å€Ÿè®°å¡ï¼ˆVISAï¼‰åªèƒ½çº¿ä¸‹ä½¿ç”¨ï¼Œç”µè¯æŸ¥è¯¢ç»“æžœæ˜¯æš‚æ—¶ä¸èƒ½ç”¨äºŽç¾Žå›½äºšé©¬é€Šç­‰ç½‘ç«™çš„ç½‘ä¸Šæ”¯ä»˜
+
+ä½†æ˜¯æˆ‘å‘çŽ°äº†è¿™ä¸ªï¼š
+
+- [å›¾æ–‡å¹¶èŒ‚è®²è¿°ç‰¡ä¸¹å›½é™…å€Ÿè®°å¡ VISA ç½‘ä¸Šå•†æˆ·æ”¯ä»˜](https://bbs.51credit.com/thread-730703-1-1.html)
+
+æ‰€ä»¥â€¦å›žå¤´å¼€äº†ç½‘é“¶æˆ‘æµ‹è¯•ä¸€ä¸‹
+
+åœ¨ç¾Žæƒ…å†µï¼šå­¦æ ¡çš„ Students Health Center ä¸çŸ¥ä¸ºä½•å¯ä»¥æ­£å¸¸åœ¨çº¿æ”¯ä»˜
+
+æ„Ÿè°¢ @è¾›æ¬£
+
+è¡¥å……ï¼š
+
+è¡¥ä¸€å¥å…³äºŽä»Žå›½å†…æ‰“é’±åˆ°ç¾Žå›½çš„ï¼Œå¯ä»¥å¼€ä¸ªå·¥é“¶ç¾Žå›½çš„é“¶è¡Œè´¦æˆ·ï¼Œä»Žå›½å†…å·¥è¡Œç”¨æ‰‹é“¶æ±‡æ¬¾ï¼Œæ‰‹ç»­è´¹ 0ï¼Œè½åœ°è´¹ä¹Ÿæ²¡æœ‰ã€‚
+
+æœ¬äººä»Žäº‹å¤–è´¸ï¼Œå¯¹äºŽè·¨å¢ƒæ±‡æ¬¾ï¼Œè¸©è¿‡ä¸€å¤§å †å‘äº†â€¦
+
+BoA çš„ä¿¡ç”¨å¡ï¼Œç™½æˆ·æœ‰æ¡ä»¶çš„è¯å¯ä»¥æ¬ 1 ç –ç›´æŽ¥ä¸‹
+
+ä¸­å›½é“¶è¡Œæä¾›ç•™å­¦ç”ŸåŠžä¿¡ç”¨å¡çš„æœåŠ¡ï¼Œä½†æ˜¯éœ€è¦å®¶é•¿å¡«æ‹…ä¿å•ï¼Œåæœ‰å…«ä¹å®¶é•¿æ˜¯ä¸åŒæ„çš„
+
+ç„¶åŽä¸­å›½é“¶è¡Œä¹Ÿæœ‰ VISA å€Ÿè®°å¡ï¼Œä½†æ˜¯åŽ»ä¹‹å‰è¦å…ˆå¸¦ä¸Š 20 ç¾Žå…ƒå­˜å…¥è´¦æˆ·
+
+ç»™ç•™å­¦ç”Ÿçš„å¡æ˜¯ä¸­å›½é“¶è¡Œé•¿åŸŽå›½é™…ä¿¡ç”¨å¡å­äº§å“ï¼Œ
+
+æ‹…ä¿å•ï¼š
+
 ![imagine](https://pic2.zhimg.com/80/v2-27f1656a4bcb446803797192d7bbb999_hd.jpg)
-
-
-
-
-
-
-
-
-

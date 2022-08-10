@@ -1,11 +1,12 @@
-# Introduction of build a company around world È«Çò·¶Î§ÄÚ³ÉÁ¢¹«Ë¾½éÉÜ
+# Introduction of build a company around world å…¨çƒèŒƒå›´å†…æˆç«‹å…¬å¸ä»‹ç»
 
-## HongKong Dist. Ïã¸ÛµØÇø
+## HongKong Dist. é¦™æ¸¯åœ°åŒº
 
-## Estonia °®É³ÄáÑÇ
+## Estonia çˆ±æ²™å°¼äºš
 
-https://zhuanlan.zhihu.com/p/55640889 <br>
-https://eelife.cc/10-things-need-to-know-before-start-a-company-in-estonia/ <br>
- ### ¹«Ë¾ÖØ¸´Ãû³Æ²éÑ¯
-https://ariregister.rik.ee/index?lang=eng <br>
+- <https://zhuanlan.zhihu.com/p/55640889>
+- <https://eelife.cc/10-things-need-to-know-before-start-a-company-in-estonia/>
 
+### å…¬å¸é‡å¤åç§°æŸ¥è¯¢
+
+- <https://ariregister.rik.ee/index?lang=eng>

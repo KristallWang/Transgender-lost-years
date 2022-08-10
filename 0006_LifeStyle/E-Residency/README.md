@@ -1,17 +1,18 @@
 # E-Residency
-Estonia e-residents <br>
-Offitial site£¨¹ÙÍø£©£ºhttps://e-resident.gov.ee/
-## Introduction ½éÉÜ
-https://e-estonia.com/
 
-### E-resident card using Éí·İÖ¤Ê¹ÓÃ£º
-1,ºË¶Ô¿¨Æ¬ÉÏµÄĞÕÃû <br>
+Estonia e-residents
 
-2,°²×°Èí¼ş https://www.id.ee/en/article/install-id-software/ <br>
+Offitial siteï¼ˆå®˜ç½‘ï¼‰ï¼š<https://e-resident.gov.ee>
 
-3,½«¿¨Æ¬²åÈë¶Á¿¨Æ÷±³ÃæµÄ¿¨²Û£¬¶Á¿¨Æ÷Á¬½ÓµçÄÔ USB ²å¿Ú <br>
+## Introduction ä»‹ç»
 
-4,µÇÂ½¼°¹ÜÀíÃÜÂë <br>
+<https://e-estonia.com>
 
-À´×Ô£º <br>
-https://eelife.cc/how-to-use-e-residency-card/ <br>
+### E-resident card using èº«ä»½è¯ä½¿ç”¨
+
+1. æ ¸å¯¹å¡ç‰‡ä¸Šçš„å§“å
+1. å®‰è£…è½¯ä»¶ <https://www.id.ee/en/article/install-id-software/>
+1. å°†å¡ç‰‡æ’å…¥è¯»å¡å™¨èƒŒé¢çš„å¡æ§½ï¼Œè¯»å¡å™¨è¿æ¥ç”µè„‘ USB æ’å£
+1. ç™»é™†åŠç®¡ç†å¯†ç 
+
+æ¥è‡ªï¼š<https://eelife.cc/how-to-use-e-residency-card/>

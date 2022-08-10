@@ -1,31 +1,41 @@
-# ĞÅÓÃ¿¨Ö¸ÄÏ CreditCard guide
-±¾ÎÄÖ÷Òª²ûÊöĞÅÓÃ¿¨Ì×Àû
-## USA
-Ô­Ê¼×ÊÁÏ¶àÀ´×ÔÃÀ¹úĞÅÓÃ¿¨Ö¸ÄÏ <br>
-https://www.uscreditcardguide.com/zh/ <br>
-https://www.uscreditcardguide.com/en/ <br>
-### New User Guide ĞÂÊÖÖ¸ÄÏ
-https://www.uscreditcardguide.com/a-guide-for-beginners/ <br>
-https://www.uscreditcardguide.com/category/beginners-guide/ <br>
-### ³¤ÆÚ³ÖÓĞĞÅÓÃ¿¨ÍÆ¼ö
-https://www.uscreditcardguide.com/best-credit-cards-to-keep/
-### Amex
-SSN is not necessary, but credit history is necessary <br>
-SSN²»ÊÇ±ØĞë£¬µ«ÊÇ±ØĞë¾ßÓĞÃÀ¹úĞÅÓÃ¼ÇÂ¼
-### Chase
-SSN is required <br>
-±ØĞëÒªSSN²ÅÄÜÉêÇë
+# ä¿¡ç”¨å¡æŒ‡å— CreditCard guide
 
+æœ¬æ–‡ä¸»è¦é˜è¿°ä¿¡ç”¨å¡å¥—åˆ©
+
+## U.S.A
+
+åŸå§‹èµ„æ–™å¤šæ¥è‡ªç¾å›½ä¿¡ç”¨å¡æŒ‡å—
+
+- <https://www.uscreditcardguide.com/zh/>
+- <https://www.uscreditcardguide.com/en/>
+
+### New User Guide æ–°æ‰‹æŒ‡å—
+
+- <https://www.uscreditcardguide.com/a-guide-for-beginners/>
+- <https://www.uscreditcardguide.com/category/beginners-guide/>
+
+### é•¿æœŸæŒæœ‰ä¿¡ç”¨å¡æ¨è
+
+<https://www.uscreditcardguide.com/best-credit-cards-to-keep/>
+
+### Amex
+
+SSN is not necessary, but credit history is necessary
+
+SSN ä¸æ˜¯å¿…é¡»ï¼Œä½†æ˜¯å¿…é¡»å…·æœ‰ç¾å›½ä¿¡ç”¨è®°å½•
+
+### Chase
+
+SSN is required
+
+å¿…é¡»è¦ SSN æ‰èƒ½ç”³è¯·
 
 ## Canada
 
-## ÖĞ¹ú´óÂ½-China Mainland
-ÖĞ¹ú´óÂ½ÉêÇëĞÅÓÃ¿¨ĞèÒª¹¤×÷£¬°üÀ¨¾ÍÖ°Ö¤Ã÷
+## ä¸­å›½å¤§é™† (China Mainland)
 
-## Ïã¸ÛµØÇø Hongkong S.A.R.
+ä¸­å›½å¤§é™†ç”³è¯·ä¿¡ç”¨å¡éœ€è¦å·¥ä½œï¼ŒåŒ…æ‹¬å°±èŒè¯æ˜
 
-## ÈÕ±¾
+## é¦™æ¸¯åœ°åŒº (Hongkong S.A.R)
 
-
-
-
+## æ—¥æœ¬

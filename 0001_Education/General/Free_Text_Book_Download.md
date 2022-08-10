@@ -1,40 +1,42 @@
-# Libgen
-http://gen.lib.rus.ec/ <br>
-https://libgen.rs/ <br>
+# Free Text Book Download
 
-# Other
-https://archive.org/ <br>
-http://www.en8848.com.cn/soft/ <br>
-https://bookfere.com/ebook <br>
-http://www.iyangcong.com/ <br>
-https://www.pdfdrive.com/ <br> <br>
-https://www.pdfdrive.net/ <br> 
-http://it-ebooks.info/ <br>
-~~(http://www.wowebook.pw/)~~ <br>
-~~(https://1bookcase.com/)~~ <br>
-~~(http://www.allitebooks.com/)~~ <br> <br>
-~~(http://ebookhunter.ch/)~~ <br>
-~~(http://b-ok.org/)~~ <br>
-https://www.jiumodiary.com/ <br>
-https://www.nap.edu/ <br>
-http://www.gutenberg.org/ <br> <br>
-http://www.hathitrust.org/ <br>
-http://www.kindlefere.com/ <br>
-http://www.manybooks.net/ <br>
-http://www.qumran.com/ <br>
-~~(http://oxingtui.com/other/resource.htm)~~ <br> <br> 
+## Libgen
 
-site:pan.baidu.com+ È√˚ (In Google)<br>
-http://vdisk.weibo.com/  <br>
-http://d.dxy.cn/ <br>
-http://ziyuan.iiyi.com/ <br>
-http://guide.medlive.cn/ <br> <br>
+- <http://gen.lib.rus.ec>
+- <https://libgen.rs>
 
-~~(http://en.bookfi.org/)~~ <br>
-http://www.4shared.com/ <br>
-~~(http://btbook.net/)~~ <br>
+## Other
 
-# Reference: 
-http://www.zhihu.com/question/21253522 <br>
-https://mp.weixin.qq.com/s?__biz=MzAxMDA4NjU3OA==&mid=207576331&idx=1&sn=db368b53f5e2fde2c024f90701b99d81&scene=2&from=timeline&isappinstalled=0#rd <br>
+- `ÂÖ≥ÈîÆËØç site:pan.baidu.com` ([in Google Hacking](https://en.wikipedia.org/wiki/Google_hacking))
+- <https://search.dxy.cn>
+- <https://guide.medlive.cn>
+- <https://it-ebooks.info>
+- <https://vdisk.weibo.com>
+- <https://www.4shared.com>
+- <https://www.en8848.com.cn>
+- <https://www.gutenberg.org>
+- <https://www.hathitrust.org>
+- <https://www.iyangcong.com>
+- <https://www.kindlefere.com>
+- <https://www.manybooks.net>
+- <https://www.qumran.com>
+- <https://ziyuan.iiyi.com>
+- <https://archive.org>
+- <https://bookfere.com/ebook>
+- <https://www.jiumodiary.com>
+- <https://www.nap.edu>
+- <https://www.pdfdrive.com>
+- <https://www.pdfdrive.net>
+- ~~<http://b-ok.org>~~
+- ~~<http://btbook.net>~~
+- ~~<http://ebookhunter.ch>~~
+- ~~<http://en.bookfi.org>~~
+- ~~<http://oxingtui.com/other/resource.htm>~~
+- ~~<http://www.allitebooks.com>~~
+- ~~<http://www.wowebook.pw>~~
+- ~~<https://1bookcase.com>~~
 
+## Reference
+
+- <http://www.zhihu.com/question/21253522>
+- <https://mp.weixin.qq.com/s/TP8n2v-ZdopEsRUKOf7vWw>
