@@ -13,14 +13,18 @@ This repository will begin from all aspects of the transition, including but not
 本リポジトリは、メイクアップ、スキンケア、UCSFガイドライン、緊急時の自己HRTなどを含むがこれらに限られない移行のすべての側面から始まります。
 
 ## Warning
+
 ### 麻醉
+
 请有精神病史的朋友做SRS谨慎考虑全身麻醉，因为有多起术后精神异常案例。 <br>
-https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
+<https://www.scientificamerican.com/article/hidden-dangers-of-going-under/> <br>
+
 ### 医疗建议免责声明
 
 ## 目录
 
 ### [0000 UCSF Guidelines 翻译](0000_UCSF-Guidelines)
+
 - [关于 | Readme](0000_UCSF_Guidelines/README.md)
 
 - [UCSF-关于跨性别者和性别非二元人群的初级性别肯定护理指南 | Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People](0000_UCSF-Guidelines/UCSF-Transgender-PGACG-6-17-16-译文.pdf)
@@ -29,7 +33,7 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 
 #### [通用 | General](0001_Education/General)
 
-- [edu邮箱的应用 | The application of education e-mail address](0001_Education/General/edu邮箱及学生相关福利.md) 
+- [edu邮箱的应用 | The application of education e-mail address](0001_Education/General/edu邮箱及学生相关福利.md)
 
 - [信用卡 | Credit Card](0001_Education/General/credit-card.md)
 
@@ -56,6 +60,7 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 <!-- ##### [目前可以诊断并且给出异性症证明的医生及医院](0002_Medical/Medical_Resources/目前与易性症有关的医生及医院.md) -->
 
 - [医生问诊反馈专区](https://github.com/Kristall-WangShiwei/Transgender-lost-years/issues/40)
+
 #### [翻译文献 | Translated File](0002_Medical/Translated_File)
 
 - [UCSF-关于跨性别者和性别非二元人群的初级性别肯定护理指南 | Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People](0002_Medical/Translated_File/UCSF-Transgender-PGACG-6-17-16-译文.pdf)
@@ -70,11 +75,11 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 知识共产主义万岁！
 自由软件万岁！
 
-### [0003 出柜指南](0003_GetOutCloset) 
+### [0003 出柜指南](0003_GetOutCloset)
 
 - [出柜指南](0003_GetOutCloset/出柜指南.md)
 
-### [0004 购物](0004_Shopping) 
+### [0004 购物](0004_Shopping)
 
 - [关于 | Readme](0004_Shopping/README.md)
 
@@ -106,9 +111,9 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 - [关于 | Readme](0012_Recover_From_Depression/README.md)
 - [1](0012_Recover_From_Depression/1.md)
 
-### [000A DanskPige 特别行动科](000A_DanskPigeSpecialActivitiesDivision) 
+### [000A DanskPige 特别行动科](000A_DanskPigeSpecialActivitiesDivision)
 
-### [0014 研究与开发](0014_ResearchDevelopment) 
+### [0014 研究与开发](0014_ResearchDevelopment)
 
 - [生物化学 | Biochemisty](0014_ResearchDevelopment/Biochemistry)
 
@@ -127,22 +132,26 @@ https://www.scientificamerican.com/article/hidden-dangers-of-going-under/ <br>
 - [皮肤护理 | Skin Care](0014_ResearchDevelopment/Skin_Care)
 
 ### [0015 电子电路相关](0015_Electronic)
+
 这个文件夹包含需要的各种电路和相关资源，如脱毛、小玩具等。
 
-## P.S.
+## P.S
+
 ### 这个文件 (MarkDown) 的编辑方法
+
 - [GitHub 上 README.md 的简单介绍](https://www.cnblogs.com/shiy/p/6526868.html)
 - [GitHub 上 README.md 常用的编写手法](https://blog.csdn.net/htwhtw123/article/details/77069581)
 - [中文技术文档写作规范](https://github.com/ruanyf/document-style-guide)
 
 ### 原po联系方式
+
 QQ： 1687120894，加好友请**一定备注 GitHub**
 
 ## 友情链接
-- [跨性别在线](https://www.transonline.org.cn/)
-- https://zh.transpedia.wiki/
-- [shizu的HRT相关资料](https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA/edit#slide=id.p1)
-- https://github.com/tfsci-sc/articles
-- https://github.com/gdb-sc/GenderDysphoria.fyi
-- https://github.com/GenderDysphoria/GenderDysphoria.fyi
 
+- [跨性别在线](https://www.transonline.org.cn/)
+- <https://zh.transpedia.wiki>
+- [shizu的HRT相关资料](https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA/view)
+- <https://github.com/tfsci-sc/articles>
+- <https://github.com/gdb-sc/GenderDysphoria.fyi>
+- <https://github.com/GenderDysphoria/GenderDysphoria.fyi>
